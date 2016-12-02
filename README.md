@@ -8,7 +8,7 @@ specifically the question of treating articles as signification,
 prompted me to do some analysis of the play list.
 Hopefully this will turn into something interesting.
 
-For more info, see the [AtoZ notebook](blob/master/AtoZ.ipynb)
+For more info, see the [AtoZ notebook](AtoZ.ipynb)
 in this project.
 
 
