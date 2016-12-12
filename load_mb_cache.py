@@ -11,7 +11,7 @@ cache_dir = './cache'
 xpn_cache = path.join(cache_dir, 'xpn')
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-letters_so_far = list(alphabet)[:4]
+letters_so_far = list(alphabet)[:19]
 
 rows = []
 for letter in letters_so_far:
@@ -86,7 +86,7 @@ else:
 
 print playlist.describe()
 print "resulting playlist has %d missing years" \
-    % len(playlist[playlist['Year'] = 0])
+    % len(playlist[playlist['Year'] == 0])
         
         
     
