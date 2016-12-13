@@ -39,7 +39,7 @@ if path.exists(mb_cache):
     with open(mb_cache, 'rb') as csvfile:
         reader = csv.reader(csvfile)
         for row in reader:
-            mb_rows.append(row)
+            mb_rows.append([row[0], row[1], int(row[2])])
 years = pd.DataFrame(mb_rows, columns=('Artist', 'Title', 'Year'))
 print "cached years has %d rows" % len(years)
 
@@ -52,18 +52,16 @@ if tmplist.isnull().any().any():
                      'https://github.com/asudell/a2z')
     new_mb_rows = []
     for index, row in tmplist[tmplist['Year'].isnull()].iterrows():
-        result = mb.search_recordings(row['Title'],
-                                      artist = row['Artist'],
-                                      limit=10)
+        result = mb.search_releases(row['Title'],
+                                    artist = row['Artist'],
+                                    limit=25)
         rel_year = None
-        if result['recording-list']:
-            for recording in result['recording-list']:
-                if 'release-list' in recording:
-                    for release in  recording['release-list']:
-                        if 'date' in release:
-                            y = int(release['date'].split('-')[0])
-                            if rel_year is None or rel_year > y:
-                                rel_year = y
+        if result['release-list']:
+            for release in  result['release-list']:
+                if 'date' in release:
+                    y = int(release['date'].split('-')[0])
+                    if rel_year is None or rel_year > y:
+                        rel_year = y
         if rel_year is not None:
             new_mb_rows.append([row['Artist'], row['Title'], rel_year])
 
