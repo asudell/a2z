@@ -9,7 +9,7 @@ cache_dir = './cache'
 xpn_cache = path.join(cache_dir, 'xpn')
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-letters_so_far = list(alphabet)[:19]
+letters_so_far = list(alphabet)[:20]
 
 rows = []
 for letter in letters_so_far:
