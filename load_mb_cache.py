@@ -19,6 +19,7 @@ for letter in letters_so_far:
         
     playlist = playlist.append(df, ignore_index=True)
 
+playlist = playlist.drop_duplicates()
 print "playlist has %d rows" % len(playlist)
 
 # Load MusicBrainz Data
