@@ -8,7 +8,7 @@ cache_dir = './cache'
 xpn_cache = path.join(cache_dir, 'xpn')
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-letters_so_far = list(alphabet)[:25]
+letters_so_far = list(alphabet)[:26]
 
 # Load up the play lists
 playlist = pd.DataFrame(None, columns = ('Title', 'Artist'))
