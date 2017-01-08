@@ -44,7 +44,7 @@ End of the day it was an absolute blast.
 
 For my final results, see the 
 [AtoZ notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/AtoZ.ipynb) on [jupyter.org](http://nbviewer.jupyter.org/).
-Do take time to checkout [Bruce's Results](https://public.tableau.com/profile/besegal#!/vizhome/BESegalWXPNAtoZPlayListPublished/TheStoryWXPNAtoZMusicWrapUp)
+Do take time to checkout [Bruce's results](https://public.tableau.com/profile/besegal#!/vizhome/BESegalWXPNAtoZPlayListPublished/TheStoryWXPNAtoZMusicWrapUp)
 as well as [Lena's results](https://public.tableau.com/profile/lena.bartell#!/vizhome/XPN_AtoZ/XPNA-ZPlaylistData) 
 on [Tableau Public](https://public.tableau.com).
 Also check out [Lena's github repo](https://github.com/lbartell/xpn_wordplay).
