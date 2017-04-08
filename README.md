@@ -50,5 +50,9 @@ on [Tableau Public](https://public.tableau.com).
 Also check out [Lena's github repo](https://github.com/lbartell/xpn_wordplay).
 
 
+In April 2017, there was a second [Leftovers](http://xpn.org/music-artist/az-leftovers) playlist
+with all the non-alphabetical titles that were skipped before.
+I've got some evolving data on that in the
+[Leftovers notebook](https://nbviewer.jupyter.org/github/asudell/a2z/blob/master/Leftovers.ipynb).
 
 
