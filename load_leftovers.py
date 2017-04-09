@@ -18,7 +18,7 @@ playlist_cache = path.join(cache_dir, 'xpn', 'leftovers.csv')
 # its helpful that none croses midnight
 timeslots = [(datetime(2017, 4, 7, 19, 0), datetime(2017, 4, 7, 23, 0)),
              (datetime(2017, 4, 8, 10, 0), datetime(2017, 4, 8, 17, 0)),
-             (datetime(2017, 4, 9, 12, 0), datetime(2017, 4, 9, 17, 0))]
+             (datetime(2017, 4, 9, 12, 0), datetime(2017, 4, 9, 17, 53))]
 
 # playlists per day live at /playlists/xpn-playlist
 # Not all rows are tracks, some are membership callouts
