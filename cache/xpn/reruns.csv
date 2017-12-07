@@ -282,7 +282,7 @@ Day Or Night,Little Feat,D,1975,Day
 Deacon Blues,Steely Dan,D,1977,Deacon
 Dead Flowers,The Rolling Stones,D,1971,Dead
 Dead Skunk,Loudon Wainwright III,D,1972,Dead
-Deal,Jerry Garcia,D,0,Deal
+Deal,Jerry Garcia,D,1972,Deal
 Death or Glory,The Clash,D,1979,Death
 Deja Vu,Crosby Stills Nash & Young,D,1970,Deja
 Delta Lady,Leon Russell,D,1970,Delta
@@ -303,7 +303,7 @@ Do It ('til Your Satisfied),B. T. Express,D,1974,Do
 Do It Again,Steely Dan,D,1972,Do
 Do The Do,Howlin' Wolf,D,1971,Do
 Do Ya,Electric Light Orchestra,D,1976,Do
-Do You Know What I Mean,Lee Michaels,D,0,Do
+Do You Know What I Mean,Lee Michaels,D,1971,Do
 Do You Wanna Dance?,The Ramones,D,1977,Do
 Doctor My Eyes,Jackson Browne,D,1972,Doctor
 Doctor Wu,Steely Dan,D,1975,Doctor
@@ -313,7 +313,7 @@ Doing It To Death,James Brown,D,1973,Doing
 Domino,Van Morrison,D,1970,Domino
 Don't Be Denied,Neil Young,D,1973,Don't
 Don't Bring Me Down,Electric Light Orchestra,D,1979,Don't
-Don't Cry No Tears,Neil Young,D,0,Don't
+Don't Cry No Tears,Neil Young,D,1975,Don't
 Don't Do It,The Band,D,1972,Don't
 Don't Do Me Like That,Tom Petty & The Heartbreakers,D,1979,Don't
 Don't Interrupt The Sorrow,Joni Mitchell,D,1975,Don't
@@ -341,7 +341,7 @@ Dreamer,Supertramp,D,1974,Dreamer
 Dreaming,Blondie,D,1979,Dreaming
 Dreams,Fleetwood Mac,D,1977,Dreams
 Drift Away,Dobie Gray,D,1973,Drift
-Drive Back,Neil Young,D,0,Drive
+Drive Back,Neil Young,D,1975,Drive
 Drive-in Saturday,David Bowie,D,1973,Drive-in
 Driver's Seat,Sniff N The Tears,D,1978,Driver's
 Duncan,Paul Simon,D,1972,Duncan
@@ -358,7 +358,7 @@ Eleventh Earl Of Mar,Genesis,E,1976,Eleventh
 Empty Pages,Traffic,E,1970,Empty
 Estimated Prophet,Grateful Dead,E,1977,Estimated
 Even The Losers,Tom Petty & The Heartbreakers,E,1979,Even
-Ever Fallen In Love?,The Buzzcocks,E,0,Ever
+Ever Fallen In Love?,The Buzzcocks,E,1978,Ever
 Every Kind Of People,Robert Palmer,E,1978,Every
 Every Night,Paul McCartney,E,1970,Every
 Every Picture Tells A Story,Rod Stewart,E,1971,Every
@@ -849,12 +849,12 @@ Lowdown,Boz Scaggs,L,1976,Lowdown
 Lucky Man,Emerson Lake & Palmer,L,1970,Lucky
 Lucretia Macevil,Blood Sweat & Tears,L,1970,Lucretia
 Lust For Life,Iggy Pop,L,1977,Lust
-Ma-ma-ma Belle,Electric Light Orchestra,M,0,Ma-ma-ma
+Ma-ma-ma Belle,Electric Light Orchestra,M,1973,Ma-ma-ma
 Mad Man Moon,Genesis,M,1976,Mad
 Madman Across The Water,Elton John,M,1971,Madman
 Maggie May,Rod Stewart,M,1971,Maggie
 Magic Man,Heart,M,1976,Magic
-Magnet And Steel,Walter Egan,M,0,Magnet
+Magnet And Steel,Walter Egan,M,1978,Magnet
 Mainline Florida,Eric Clapton,M,1974,Mainline
 Make It Funky,James Brown,M,1970,Make
 Make It With You,Bread,M,1970,Make
@@ -869,6 +869,82 @@ Man We Was Lonely,Paul McCartney,M,1970,Man
 Mandolin Wind,Rod Stewart,M,1971,Mandolin
 Mannish Boy,Muddy Waters,M,1977,Mannish
 Many Rivers To Cross,Jimmy Cliff,M,0,Many
-Margaritaville,Jimmy Buffett,M,0,Margaritaville
+Margaritaville,Jimmy Buffett,M,1977,Margaritaville
 Marquee Moon,Television,M,1977,Marquee
 Mary Queen Of Arkansas,Bruce Springsteen,M,1972,Mary
+May You Never,Eric Clapton,M,1977,May
+May You Never,John Martyn,M,1973,May
+Maybe I'm Amazed,Paul McCartney,M,1970,Maybe
+Me & Baby Jane,Leon Russell,M,1972,Me
+Me And Baby Brother,War,M,1973,Me
+Me And Bobby McGee,Janis Joplin,M,1971,Me
+Me And Julio Down By The Schoolyard,Paul Simon,M,1972,Me
+Meadows,Joe Walsh,M,1973,Meadows
+Meeting Across The River,Bruce Springsteen,M,1975,Meeting
+Melissa,The Allman Brothers,M,1972,Melissa
+Mellow My Mind,Neil Young,M,1975,Mellow
+Melody,The Rolling Stones,M,1976,Melody
+Memo From Turner,Mick Jagger,M,1970,Memo
+Memory Motel,The Rolling Stones,M,1976,Memory
+Mercury Blues,Steve Miller Band,M,1976,Mercury
+Mercy Mercy Me (The Ecology),Marvin Gaye,M,1971,Mercy
+Mess Around,Dr. John,M,1972,Mess
+Mess Around,Professor Longhair,M,1974,Mess
+Message In A Bottle,The Police,M,1979,Message
+Metal Guru,T Rex,M,1972,Metal
+Mexicali Blues,Bob Weir,M,1972,Mexicali
+Miami 2017,Billy Joel,M,1976,Miami
+Midnight Cruiser,Steely Dan,M,1972,Midnight
+Midnight On The Bay,The Stills-Young Band,M,1976,Midnight
+Midnight Rambler,The Rolling Stones,M,1970,Midnight
+Midnight Rider,Gregg Allman,M,1973,Midnight
+Midnight Rider,The Allman Brothers,M,1970,Midnight
+Midnight Train To Georgia,Gladys Knight & the Pips,M,0,Midnight
+Might As Well,Jerry Garcia,M,1976,Might
+Mighty Love,The Spinners,M,1978,Mighty
+Mind Games,John Lennon,M,1973,Mind
+Mirage,Santana,M,1974,Mirage
+Miss Judy's Farm,Faces,M,1971,Miss
+Miss You,The Rolling Stones,M,1978,Miss
+Mississippi Half-step Uptown Toodleloo,Grateful Dead,M,0,Mississippi
+Mississippi Queen,Mountain,M,1970,Mississippi
+Misty Mountain Hop,Led Zeppelin,M,1971,Misty
+Mohammed's Radio,Warren Zevon,M,1976,Mohammed's
+Mona Lisas And Mad Hatters,Elton John,M,1972,Mona
+Monday Morning,Fleetwood Mac,M,1975,Monday
+Money,Pink Floyd,M,1973,Money
+Money (That's What I Want),The Flying Lizards,M,0,Money
+Money In My Pocket,Dennis Brown,M,0,Money
+Montana,Frank Zappa,M,1973,Montana
+Moonage Daydream,David Bowie,M,0,Moonage
+Moondance,Van Morrison,M,1970,Moondance
+Moonlight Mile,The Rolling Stones,M,1971,Moonlight
+Morning Has Broken,Cat Stevens,M,1971,Morning
+Morning Morgantown,Joni Mitchell,M,1970,Morning
+Mother,John Lennon,M,1970,Mother
+Mother And Child Reunion,Paul Simon,M,1972,Mother
+Motherless Children,Eric Clapton,M,1974,Motherless
+Move On Up,Curtis Mayfield,M,1970,Move
+Move Over,Janis Joplin,M,1971,Move
+Moving In Stereo,The Cars,M,1978,Moving
+Mozambique,Bob Dylan,M,1976,Mozambique
+Mr. Big Stuff,Jean Knight,M,0,Mr
+Mr. Bojangles,David Bromberg,M,0,Mr
+Mud Slide Slim,James Taylor,M,1971,Mud
+My Baby Gives It Away,Pete Townshend & Ronnie Lane,M,1977,My
+My Father's Gun,Elton John,M,1971,My
+My Guitar Wants To Kill Your Mama,Frank Zappa,M,0,My
+My Little Town,Paul Simon,M,1975,My
+My Love,Paul McCartney & Wings,M,1973,My
+My Old Man,Joni Mitchell,M,1971,My
+My Old School,Steely Dan,M,1973,My
+My Sharona,The Knack,M,1979,My
+My Sweet Lord,George Harrison,M,1970,My
+My Wife,The Who,M,1971,My
+Mystery Dance,Elvis Costello,M,1977,Mystery
+Nantucket Sleighride (To Owen Coffin),Mountain,N,0,Nantucket
+Natural High,Bloodstone,N,1972,Natural
+Nature's Way,Spirit,N,1970,Nature's
+Never Ending Song Of Love,Delaney & Bonnie & Friends,N,1971,Never
+Never Going Back Again,Fleetwood Mac,N,1977,Never
+Never In My Life,Mountain,N,1970,Never
