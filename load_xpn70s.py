@@ -19,7 +19,7 @@ for letter in letters_so_far:
     tree = html.fromstring(page.content)
     songs = tree.xpath('//li/text()')
     for song in songs:
-        rows.append(song.split(' - ', 1) + [letter])
+        rows.append(song.rsplit(' - ', 1) + [letter])
 
 songs_by_letter = pd.DataFrame(rows, columns = ['Title', 'Artist', 'Letter'])
 print "got %d songs by letter" % len(songs_by_letter)
@@ -30,7 +30,7 @@ for year in years:
     tree = html.fromstring(page.content)
     songs = tree.xpath('//li/text()')
     for song in songs:
-        rows.append(song.split(' - ', 1) + [year])
+        rows.append(song.rsplit(' - ', 1) + [year])
 
 songs_by_year = pd.DataFrame(rows, columns = ['Title', 'Artist', 'Year'])
 print 'got %d songs by year' % len(songs_by_year)
