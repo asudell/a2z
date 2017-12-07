@@ -44,6 +44,7 @@ for day in pd.date_range(start_time.date(), end_time.date()):
                                               'Air Time': air_time},
                                              ignore_index=True)
 cronology = cronology.sort_values(by = 'Air Time')
+cronology = cronology.drop_duplicates()
 print 'loaded %d songs' % len(cronology)
 cronology.to_csv('cache/xpn/airtimes_70s.csv', index=False)
             
