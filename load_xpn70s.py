@@ -9,7 +9,7 @@ cache_dir = './cache'
 cache_file = path.join(cache_dir, 'xpn', 'seventies.csv')
 
 alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWZYZ'
-letters_so_far = list(alphabet)[:15]
+letters_so_far = list(alphabet)[:16]
 years = map(str, range(1970,1980))
 
 
