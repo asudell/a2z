@@ -1,12 +1,12 @@
-Title,Artist,Letter,Year,First Word
-Afternoon Delight,Starland Vocal Band,A,1976,Afternoon
-Bohemian Rhapsody,Queen,B,1975,Bohemian
-Disco Duck,Rick Dees,D,1978,Disco
-Feelings,Morris Albert,F,1974,Feelings
-Free Bird,Lynyrd Skynyrd,F,1973,Free
-Horse With No Name,America,H,1971,Horse
-Hotel California,The Eagles,H,1976,Hotel
-Mandy,Barry Manilow,M,1973,Mandy
-Margaritaville,Jimmy Buffett,M,1977,Margaritaville
-Muskrat Love,Captain & Tennille,M,1976,Muskrat
-Paradise By The Dashboard Light,Meatloaf,P,1977,Paradise
+Artist,Title,Air Time,Play,Year,Letter,First Word
+Starland Vocal Band,Afternoon Delight,2017-11-29 09:44:00,0,1976,A,Afternoon
+Queen,Bohemian Rhapsody,2017-11-30 10:57:00,0,1975,B,Bohemian
+Rick Dees,Disco Duck,2017-12-01 20:57:00,0,1978,D,Disco
+Morris Albert,Feelings,2017-12-02 13:27:00,0,1974,F,Feelings
+Lynyrd Skynyrd,Free Bird,2017-12-02 19:21:00,0,1973,F,Free
+America,Horse With No Name,2017-12-03 21:25:00,0,1971,H,Horse
+The Eagles,Hotel California,2017-12-03 22:11:00,0,1976,H,Hotel
+Barry Manilow,Mandy,2017-12-06 06:39:00,0,1973,M,Mandy
+Jimmy Buffett,Margaritaville,2017-12-06 07:22:00,0,1977,M,Margaritaville
+Captain & Tennille,Muskrat Love,2017-12-06 19:43:00,0,1976,M,Muskrat
+Meatloaf,Paradise By The Dashboard Light,2017-12-07 15:25:00,0,1977,P,Paradise
