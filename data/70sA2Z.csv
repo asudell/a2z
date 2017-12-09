@@ -2996,30 +2996,137 @@ The Who,Shakin' All Over,2017-12-08 23:42:00,0,0,S,Shakin',4
 MC5,Shakin' Street,2017-12-08 23:46:00,0,1970,S,Shakin',4
 Three Dog Night,Shambala,2017-12-08 23:50:00,0,1973,S,Shambala,3
 "Evelyn ""Champagne"" King",Shame,2017-12-08 23:53:00,0,0,S,Shame,8
-Shirley & Company,"Shame, Shame, Shame",2017-12-09 00:01:00,0,0,,Shame,4
-David Bowie,Shapes Of Things,2017-12-09 00:05:00,0,0,,Shapes,2
-David Bromberg,Sharon,2017-12-09 00:07:00,0,1972,,Sharon,7
-The Rolling Stones,Shattered,2017-12-09 00:14:00,0,1978,,Shattered,4
-Gram Parsons,She,2017-12-09 00:18:00,0,0,,She,5
-The Modern Lovers,She Cracked,2017-12-09 00:23:00,0,0,,She,3
-Dr. Feelgood,She Does It Right,2017-12-09 00:26:00,0,0,,She,3
-ZZ Top,She Loves My Automobile,2017-12-09 00:29:00,0,0,,She,4
-Charlie,She Loves To Be In Love,2017-12-09 00:33:00,0,0,,She,4
-Roxy Music,She Sells,2017-12-09 00:37:00,0,0,,She,3
-ZZ Top,She's A Heartbreaker,2017-12-09 00:40:00,0,1976,,She's,3
-Pretty Things,She's A Lover,2017-12-09 00:43:00,0,0,,She's,4
-Hound Dog Taylor,She's Gone,2017-12-09 00:47:00,0,0,,She's,4
-Hall & Oates,She's Gone,2017-12-09 00:51:00,0,0,,She's,5
-Tavares,She's Gone,2017-12-09 00:56:00,0,1974,,She's,4
-Billy Joel,She's Got A Way,2017-12-09 01:00:00,0,0,,She's,3
-Joy Division,She's Lost Control,2017-12-09 01:03:00,0,0,,She's,4
-Lou Reed,She's My Best Friend,2017-12-09 01:07:00,0,0,,She's,6
-The 8th Day,She's Not Just Another Woman,2017-12-09 01:13:00,0,0,,She's,3
-Santana,She's Not There,2017-12-09 01:16:00,0,0,,She's,5
-U.K. Subs,She's Not There,2017-12-09 01:21:00,0,0,,She's,1
-The Boomtown Rats,She's So Modern,2017-12-09 01:22:00,0,0,,She's,3
-Mink DeVille,She's So Yough,2017-12-09 01:25:00,0,0,,She's,3
-Bruce Springsteen,She's The One,2017-12-09 01:28:00,0,0,,She's,5
-The Ramones,Sheena Is A Punk Rocker,2017-12-09 01:33:00,0,0,,Sheena,2
-Pink Floyd,Sheep,2017-12-09 01:35:00,0,0,,Sheep,1
-Pink Floyd,Sheep,2017-12-09 01:36:00,1,0,,Sheep,0
+Shirley & Company,"Shame, Shame, Shame",2017-12-09 00:01:00,0,0,S,Shame,4
+David Bowie,Shapes Of Things,2017-12-09 00:05:00,0,0,S,Shapes,2
+David Bromberg,Sharon,2017-12-09 00:07:00,0,1972,S,Sharon,7
+The Rolling Stones,Shattered,2017-12-09 00:14:00,0,1978,S,Shattered,4
+Gram Parsons,She,2017-12-09 00:18:00,0,1973,S,She,5
+The Modern Lovers,She Cracked,2017-12-09 00:23:00,0,0,S,She,3
+Dr. Feelgood,She Does It Right,2017-12-09 00:26:00,0,1975,S,She,3
+ZZ Top,She Loves My Automobile,2017-12-09 00:29:00,0,1979,S,She,4
+Charlie,She Loves To Be In Love,2017-12-09 00:33:00,0,0,S,She,4
+Roxy Music,She Sells,2017-12-09 00:37:00,0,1975,S,She,3
+ZZ Top,She's A Heartbreaker,2017-12-09 00:40:00,0,1976,S,She's,3
+Pretty Things,She's A Lover,2017-12-09 00:43:00,0,0,S,She's,4
+Hound Dog Taylor,She's Gone,2017-12-09 00:47:00,0,0,S,She's,4
+Hall & Oates,She's Gone,2017-12-09 00:51:00,0,1973,S,She's,5
+Tavares,She's Gone,2017-12-09 00:56:00,0,1974,S,She's,4
+Billy Joel,She's Got A Way,2017-12-09 01:00:00,0,1971,S,She's,3
+Joy Division,She's Lost Control,2017-12-09 01:03:00,0,1979,S,She's,4
+Lou Reed,She's My Best Friend,2017-12-09 01:07:00,0,1975,S,She's,6
+The 8th Day,She's Not Just Another Woman,2017-12-09 01:13:00,0,1971,S,She's,3
+Santana,She's Not There,2017-12-09 01:16:00,0,1977,S,She's,5
+U.K. Subs,She's Not There,2017-12-09 01:21:00,0,0,S,She's,1
+The Boomtown Rats,She's So Modern,2017-12-09 01:22:00,0,0,S,She's,3
+Mink DeVille,She's So Yough,2017-12-09 01:25:00,0,1977,S,She's,3
+Bruce Springsteen,She's The One,2017-12-09 01:28:00,0,1975,S,She's,5
+The Ramones,Sheena Is A Punk Rocker,2017-12-09 01:33:00,0,1977,S,Sheena,2
+Pink Floyd,Sheep,2017-12-09 01:35:00,0,1977,S,Sheep,1
+Pink Floyd,Sheep,2017-12-09 01:36:00,1,1977,S,Sheep,10
+Queen,Sheer Heart Attack,2017-12-09 01:46:00,0,1977,S,Sheer,5
+Bob Dylan,Shelter From The Storm,2017-12-09 01:51:00,0,1975,S,Shelter,5
+The Rolling Stones,Shine A Light,2017-12-09 01:56:00,0,1972,S,Shine,4
+Humble Pie,Shine On,2017-12-09 02:00:00,0,0,S,Shine,3
+Peter Frampton,Shine On,2017-12-09 02:03:00,0,1976,S,Shine,4
+Pink Floyd,Shine On You Crazy Diamond (part 1),2017-12-09 02:07:00,0,1975,S,Shine,13
+Nils Lofgren,Shine Silently,2017-12-09 02:20:00,0,0,S,Shine,3
+Grand Funk Railroad,Shinin' On,2017-12-09 02:23:00,0,0,S,Shinin',9
+Earth Wind & Fire,Shining Star,2017-12-09 02:32:00,0,1975,S,Shining,3
+The Doors,Ship Of Fools,2017-12-09 02:35:00,0,1970,S,Ship,3
+Grateful Dead,Ship Of Fools,2017-12-09 02:38:00,0,1974,S,Ship,5
+Eddie Kendricks,Shoeshine Boy,2017-12-09 02:43:00,0,1974,S,Shoeshine,4
+Leon Russell,Shoot Out On The Plantation,2017-12-09 02:47:00,0,0,S,Shoot,3
+Bad Company,Shooting Star,2017-12-09 02:50:00,0,0,S,Shooting,6
+Lou Reed,Shooting Star,2017-12-09 02:56:00,0,1978,S,Shooting,4
+Traffic,Shootout At The Fantasy Factory,2017-12-09 03:00:00,0,1973,S,Shootout,6
+Randy Newman,Short People,2017-12-09 03:06:00,0,1977,S,Short,3
+Magazine,Shot By Both Sides,2017-12-09 03:09:00,0,0,S,Shot,4
+Dave Mason,Shouldn't Have Took More Than You Gave,2017-12-09 03:13:00,0,1970,S,Shouldn't,6
+Al Wilson,Show And Tell,2017-12-09 03:19:00,0,0,S,Show,3
+Joan Armatrading,Show Some Emotion,2017-12-09 03:22:00,0,1977,S,Show,4
+Steely Dan,Showbiz Kids,2017-12-09 03:26:00,0,1973,S,Showbiz,7
+Electric Light Orchestra,Showdown,2017-12-09 03:33:00,0,0,S,Showdown,4
+James Taylor,Shower The People,2017-12-09 03:37:00,0,1976,S,Shower,4
+Yes,Siberian Khatru,2017-12-09 03:41:00,0,1972,S,Siberian,10
+Led Zeppelin,Sick Again,2017-12-09 03:51:00,0,1975,S,Sick,4
+Aerosmith,Sick As A Dog,2017-12-09 03:55:00,0,1976,S,Sick,5
+Blue Magic,Sideshow,2017-12-09 04:00:00,0,0,S,Sideshow,4
+Randy Newman,Sigmund Freud's Impersonation Of Albert Einstein In America,2017-12-09 04:04:00,0,1977,S,Sigmund,3
+Stevie Wonder,"Signed, Sealed, Delivered I'm Yours",2017-12-09 04:07:00,0,1970,S,Signed,2
+Five Man Electrical Band,Signs,2017-12-09 04:09:00,0,0,S,Signs,5
+Wings,Silly Love Songs,2017-12-09 04:14:00,0,0,S,Silly,6
+Intergalactic Touring Band,Silver Lady,2017-12-09 04:20:00,0,0,S,Silver,4
+Hawkwind,Silver Machine,2017-12-09 04:24:00,0,0,S,Silver,7
+Mountain,Silver Paper,2017-12-09 04:31:00,0,1970,S,Silver,5
+The Rolling Stones,Silver Train,2017-12-09 04:36:00,0,1973,S,Silver,4
+Lynyrd Skynyrd,Simple Man,2017-12-09 04:40:00,0,1973,S,Simple,6
+Bob Dylan,Simple Twist Of Fate,2017-12-09 04:46:00,0,1975,S,Simple,6
+Grand Funk Railroad,Sin's A Good Man's Brother,2017-12-09 04:52:00,0,1970,S,Sin's,4
+Bonnie Raitt,Since I Fell For You,2017-12-09 04:56:00,0,1971,S,Since,4
+Led Zeppelin,Since I've Been Loving You,2017-12-09 05:00:00,0,0,S,Since,7
+Earth Wind & Fire,Sing A Song,2017-12-09 05:07:00,0,1975,S,Sing,5
+Jackson Browne,Sing My Songs To Me/for Everyman,2017-12-09 05:12:00,0,1973,S,Sing,9
+Rick Danko,Sip The Wine,2017-12-09 05:21:00,0,1977,S,Sip,5
+Stevie Wonder,Sir Duke,2017-12-09 05:26:00,0,1976,S,Sir,7
+America,Sister Golden Hair,2017-12-09 05:33:00,0,1975,S,Sister,3
+Iggy Pop,Sister Midnight,2017-12-09 05:36:00,0,1977,S,Sister,5
+Supertramp,Sister Moonshine,2017-12-09 05:41:00,0,1975,S,Sister,5
+Fleetwood Mac,Sisters Of The Moon,2017-12-09 05:46:00,0,1979,S,Sisters,4
+Jimmy Cliff,Sitting In Limbo,2017-12-09 05:50:00,0,0,S,Sitting,7
+The Flying Burrito Brothers,Six Days On The Road,2017-12-09 05:57:00,0,1971,S,Six,3
+Elton John,Sixty Years On,2017-12-09 06:00:00,0,1970,S,Sixty,5
+Jethro Tull,Skating Away On The Thin Ice Of The New Day,2017-12-09 06:05:00,0,0,S,Skating,4
+The Kinks,Skin & Bone,2017-12-09 06:09:00,0,0,S,Skin,5
+Little Feat,Skin It Back,2017-12-09 06:14:00,0,1979,S,Skin,4
+Ohio Players,Skin Tight,2017-12-09 06:18:00,0,1974,S,Skin,8
+Budgie,Sky High Percentage,2017-12-09 06:26:00,0,1977,S,Sky,8
+Brian Eno,Sky Saw,2017-12-09 06:34:00,0,1975,S,Sky,3
+Queen,Sleeping On The Sidewalk,2017-12-09 06:37:00,0,1977,S,Sleeping,5
+The Who,Slip Kid,2017-12-09 06:42:00,0,1975,S,Slip,4
+The Commodores,Slippery When Wet,2017-12-09 06:46:00,0,1975,S,Slippery,4
+War,Slippin' Into Darkness,2017-12-09 06:50:00,0,1971,S,Slippin',6
+Flamin' Groovies,Slow Death,2017-12-09 06:56:00,0,0,S,Slow,5
+Foghat,Slow Ride,2017-12-09 07:01:00,0,1975,S,Slow,10
+Bob Dylan,Slow Train Coming,2017-12-09 07:11:00,0,1979,S,Slow,6
+Eric Clapton,Slunky,2017-12-09 07:17:00,0,1970,S,Slunky,5
+Ry Cooder,Smack Dab In The Middle,2017-12-09 07:22:00,0,1976,S,Smack,3
+Carole King,Smackwater Jack,2017-12-09 07:25:00,0,1971,S,Smackwater,4
+Quincy Jones,Smackwater Jack,2017-12-09 07:29:00,0,1971,S,Smackwater,5
+Rick Danko,Small Town Talk,2017-12-09 07:34:00,0,0,S,Small,3
+Devo,Smart Patrol/Mr. DNA,2017-12-09 07:37:00,0,1979,S,Smart,6
+The Residents,Smelly Tongues,2017-12-09 07:43:00,0,1974,S,Smelly,2
+Laura Nyro,Smile,2017-12-09 07:45:00,0,0,S,Smile,5
+Paul & Linda McCartney,Smile Away,2017-12-09 07:50:00,0,1971,S,Smile,5
+The Undisputed Truth,Smiling Faces Sometimes,2017-12-09 07:55:00,0,1971,S,Smiling,4
+Sanford Townsend Band,Smoke From A Distant Fire,2017-12-09 07:59:00,0,0,S,Smoke,4
+Deep Purple,Smoke On The Water,2017-12-09 08:03:00,0,1972,S,Smoke,5
+Brownsville Station,Smokin' In The Boy's Room,2017-12-09 08:08:00,0,0,S,Smokin',5
+Elvis Costello,Sneaky Feelings,2017-12-09 08:13:00,0,1977,S,Sneaky,2
+War,So,2017-12-09 08:15:00,0,1975,S,So,5
+Carole King,So Far Away,2017-12-09 08:20:00,0,1971,S,So,3
+Electric Light Orchestra,So Fine,2017-12-09 08:23:00,0,1976,S,So,4
+Dave Mason,So High (Rock Me Baby And Roll Me Away),2017-12-09 08:27:00,0,1977,S,So,6
+Atlanta Rhythm Section,So Into You,2017-12-09 08:33:00,0,1976,S,So,5
+Nick Lowe,So It Goes,2017-12-09 08:38:00,0,1978,S,So,2
+The Police,So Lonely,2017-12-09 08:40:00,0,1978,S,So,6
+Simon & Garfunkel,"So Long, Frank Lloyd Wright",2017-12-09 08:46:00,0,1970,S,So,3
+Bob Marley & The Wailers,So Much Things To Say,2017-12-09 08:49:00,0,1977,S,So,4
+Tower Of Power,So Very Hard To Go,2017-12-09 08:53:00,0,1973,S,So,4
+Patti Smith,So You Want To Be A Rock And Roll Star,2017-12-09 08:57:00,0,0,S,So,5
+Al Green,So You're Leaving,2017-12-09 09:02:00,0,1972,S,So,3
+The Village People,Sodom And Gomorrah,2017-12-09 09:05:00,0,1978,S,Sodom,6
+Prince,Soft and Wet,2017-12-09 09:11:00,0,0,S,Soft,3
+John Martyn,Solid Air,2017-12-09 09:14:00,0,0,S,Solid,6
+Peter Gabriel,Solsbury Hill,2017-12-09 09:20:00,0,1977,S,Solsbury,6
+Grand Funk Railroad,Some Kind Of Wonderful,2017-12-09 09:26:00,0,1974,S,Some,4
+Gene Clark,Some Misunderstanding,2017-12-09 09:30:00,0,1974,S,Some,9
+Brian Eno,Some Of Them Are Old,2017-12-09 09:39:00,0,1973,S,Some,6
+Iggy Pop,Some Weird Sin,2017-12-09 09:45:00,0,1977,S,Some,3
+Geils,Somebody,2017-12-09 09:48:00,0,1977,S,Somebody,7
+Van Halen,Somebody Get Me A Doctor,2017-12-09 09:55:00,0,1979,S,Somebody,2
+Emitt Rhodes,Somebody Made For Me,2017-12-09 09:57:00,0,1970,S,Somebody,3
+Queen,Somebody To Love,2017-12-09 10:00:00,0,1976,S,Somebody,5
+David Bowie,Somebody Up There Likes Me,2017-12-09 10:05:00,0,1975,S,Somebody,8
+Rufus,Somebody's Watching You,2017-12-09 10:13:00,0,1974,S,Somebody's,3
+Little Sister,Somebody's Watching You,2017-12-09 10:16:00,0,0,S,Somebody's,4
+The Modern Lovers,Someone I Care About,2017-12-09 10:20:00,0,0,S,Someone,0
