@@ -1,12 +1,12 @@
-Artist,Title,Air Time,Play,Year,Letter,First Word
-Starland Vocal Band,Afternoon Delight,2017-11-29 09:44:00,0,1976,A,Afternoon
-Queen,Bohemian Rhapsody,2017-11-30 10:57:00,0,1975,B,Bohemian
-Rick Dees,Disco Duck,2017-12-01 20:57:00,0,1978,D,Disco
-Morris Albert,Feelings,2017-12-02 13:27:00,0,1974,F,Feelings
-Lynyrd Skynyrd,Free Bird,2017-12-02 19:21:00,0,1973,F,Free
-America,Horse With No Name,2017-12-03 21:25:00,0,1971,H,Horse
-The Eagles,Hotel California,2017-12-03 22:11:00,0,1976,H,Hotel
-Barry Manilow,Mandy,2017-12-06 06:39:00,0,1973,M,Mandy
-Jimmy Buffett,Margaritaville,2017-12-06 07:22:00,0,1977,M,Margaritaville
-Captain & Tennille,Muskrat Love,2017-12-06 19:43:00,0,1976,M,Muskrat
-Meatloaf,Paradise By The Dashboard Light,2017-12-07 15:25:00,0,1977,P,Paradise
+Artist,Title,Air Time,Play,Year,Letter,First Word,Duration
+Starland Vocal Band,Afternoon Delight,2017-11-29 09:44:00,0,1976,A,Afternoon,4
+Queen,Bohemian Rhapsody,2017-11-30 10:57:00,0,1975,B,Bohemian,6
+Rick Dees,Disco Duck,2017-12-01 20:57:00,0,1978,D,Disco,3
+Morris Albert,Feelings,2017-12-02 13:27:00,0,1974,F,Feelings,4
+Lynyrd Skynyrd,Free Bird,2017-12-02 19:21:00,0,1973,F,Free,10
+America,Horse With No Name,2017-12-03 21:25:00,0,1971,H,Horse,6
+The Eagles,Hotel California,2017-12-03 22:11:00,0,1976,H,Hotel,6
+Barry Manilow,Mandy,2017-12-06 06:39:00,0,1973,M,Mandy,4
+Jimmy Buffett,Margaritaville,2017-12-06 07:22:00,0,1977,M,Margaritaville,4
+Captain & Tennille,Muskrat Love,2017-12-06 19:43:00,0,1976,M,Muskrat,3
+Meatloaf,Paradise By The Dashboard Light,2017-12-07 15:25:00,0,1977,P,Paradise,11

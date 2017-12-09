@@ -1,160 +1,163 @@
-Artist,Title,Air Time,Play,Year,Letter,First Word
-Joni Mitchell,A Case Of You,2017-11-29 06:03:00,0,1971,A,A
-Leon Russell,A Song For You,2017-11-29 07:37:00,0,1970,A,A
-Led Zeppelin,Achilles Last Stand,2017-11-29 08:30:00,0,1976,A,Achilles
-The Beatles,Across The Universe,2017-11-29 08:53:00,0,1970,A,Across
-Bill Withers,Ain't No Sunshine,2017-11-29 10:29:00,0,1971,A,Ain't
-Steely Dan,Aja,2017-11-29 11:29:00,0,1977,A,Aja
-Elvis Costello,Alison,2017-11-29 11:57:00,0,1977,A,Alison
-The Rolling Stones,All Down The Line,2017-11-29 12:22:00,0,1972,A,All
-Mott The Hoople,All The Young Dudes,2017-11-29 13:42:00,0,1972,A,All
-Van Morrison,And It Stoned Me,2017-11-29 15:44:00,0,1970,A,And
-Jimi Hendrix,Angel,2017-11-29 16:16:00,0,1971,A,Angel
-John Prine,Angel From Montgomery,2017-11-29 16:33:00,0,1971,A,Angel
-The Rolling Stones,Angie,2017-11-29 16:44:00,0,1973,A,Angie
-Jethro Tull,Aqualung,2017-11-29 18:47:00,0,1971,A,Aqualung
-Stevie Wonder,As,2017-11-29 19:40:00,0,1976,A,As
-Bruce Springsteen,Backstreets,2017-11-29 23:25:00,0,1975,B,Backstreets
-Bruce Springsteen,Badlands,2017-11-30 00:24:00,0,1978,B,Badlands
-The Who,Bargain,2017-11-30 01:22:00,0,1971,B,Bargain
-The Rolling Stones,Beast Of Burden,2017-11-30 02:42:00,0,1978,B,Beast
-Patti Smith,Because The Night,2017-11-30 03:18:00,0,1978,B,Because
-The Who,Behind Blue Eyes,2017-11-30 03:42:00,0,1971,B,Behind
-Joni Mitchell,Big Yellow Taxi,2017-11-30 05:37:00,0,1970,B,Big
-Weather Report,Birdland,2017-11-30 06:17:00,0,1977,B,Birdland
-Led Zeppelin,Black Dog,2017-11-30 07:49:00,0,1971,B,Black
-Joni Mitchell,Blue,2017-11-30 09:49:00,0,1971,B,Blue
-Willie Nelson,Blue Eyes Crying In The Rain,2017-11-30 09:57:00,0,1975,B,Blue
-Queen,Bohemian Rhapsody,2017-11-30 10:57:00,0,1975,B,Bohemian
-Bruce Springsteen,Born To Run,2017-11-30 12:34:00,0,1975,B,Born
-Pink Floyd,Brain Damage/Eclipse,2017-11-30 13:15:00,0,1973,B,Brain
-The Commodores,Brick House,2017-11-30 14:13:00,0,1977,B,Brick
-Simon & Garfunkel,Bridge Over Troubled Water,2017-11-30 14:33:00,0,1970,B,Bridge
-The Rolling Stones,Brown Sugar,2017-11-30 15:46:00,0,1971,B,Brown
-Joni Mitchell,California,2017-11-30 17:46:00,0,1971,C,California
-Bruce Springsteen,Candy's Room,2017-11-30 20:24:00,0,1978,C,Candy's
-Billy Joel,Captain Jack,2017-11-30 20:43:00,0,1973,C,Captain
-Van Morrison,Caravan,2017-11-30 21:04:00,0,1970,C,Caravan
-Joni Mitchell,Carey,2017-11-30 21:23:00,0,1971,C,Carey
-Warren Zevon,Carmelita,2017-11-30 21:26:00,0,1976,C,Carmelita
-James Taylor,Carolina In My Mind,2017-11-30 21:38:00,0,1976,C,Carolina
-Crosby Stills Nash & Young,Carry On,2017-11-30 22:09:00,0,1970,C,Carry
-Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,1979,C,Carry
-The Kinks,Celluloid Heroes,2017-11-30 23:22:00,0,1972,C,Celluloid
-David Bowie,Changes,2017-12-01 00:03:00,0,1971,C,Changes
-The Clash,Clampdown,2017-12-01 03:27:00,0,1979,C,Clampdown
-Yes,Close To The Edge,2017-12-01 04:02:00,0,1972,C,Close
-Pink Floyd,Comfortably Numb,2017-12-01 06:33:00,0,1979,C,Comfortably
-Neil Young,Cortez The Killer,2017-12-01 08:16:00,0,1975,C,Cortez
-Heart,Crazy On You,2017-12-01 10:41:00,0,1976,C,Crazy
-Patti Smith,Dancing Barefoot,2017-12-01 14:56:00,0,1979,D,Dancing
-Bruce Springsteen,Darkness On The Edge Of Town,2017-12-01 16:16:00,0,1978,D,Darkness
-Steely Dan,Deacon Blues,2017-12-01 17:05:00,0,1977,D,Deacon
-The Rolling Stones,Dead Flowers,2017-12-01 17:21:00,0,1971,D,Dead
-Joan Baez,Diamonds And Rust,2017-12-01 19:38:00,0,1975,D,Diamonds
-Steely Dan,Dirty Work,2017-12-01 20:47:00,0,1972,D,Dirty
-Little Feat,Dixie Chicken,2017-12-01 21:21:00,0,1973,D,Dixie
-Peter Frampton,Do You Feel Like We Do,2017-12-01 22:22:00,0,1976,D,Do
-Pink Floyd,Dogs,2017-12-01 23:00:00,0,1977,D,Dogs
-Elton John,Don't Let The Sun Go Down On Me,2017-12-02 01:09:00,0,1974,D,Don't
-Aerosmith,Dream On,2017-12-02 04:02:00,0,1973,D,Dream
-Fleetwood Mac,Dreams,2017-12-02 04:23:00,0,1977,D,Dreams
-Pink Floyd,Echoes,2017-12-02 06:37:00,0,1971,E,Echoes
-Rod Stewart,Every Picture Tells A Story,2017-12-02 09:11:00,0,1971,E,Every
-Little Feat,Fat Man In The Bathtub,2017-12-02 12:26:00,0,1973,F,Fat
-Pink Floyd,Fearless,2017-12-02 12:45:00,0,1971,F,Fearless
-David Bowie,Five Years,2017-12-02 15:15:00,0,1972,F,Five
-Led Zeppelin,Fool In The Rain,2017-12-02 16:35:00,0,1979,F,Fool
-Jackson Browne,For A Dancer,2017-12-02 17:15:00,0,1974,F,For
-Jackson Browne,For Everyman,2017-12-02 17:19:00,0,1973,F,For
-Bob Dylan,Forever Young,2017-12-02 18:20:00,0,1974,F,Forever
-Jackson Browne,Fountain Of Sorrow,2017-12-02 18:25:00,0,1974,F,Fountain
-Lynyrd Skynyrd,Free Bird,2017-12-02 19:21:00,0,1973,F,Free
-Joni Mitchell,Free Man In Paris,2017-12-02 19:34:00,0,1974,F,Free
-The Beatles,Get Back,2017-12-02 23:44:00,0,1970,G,Get
-Patti Smith,Gloria,2017-12-03 03:43:00,0,1975,G,Gloria
-Fleetwood Mac,Go Your Own Way,2017-12-03 04:06:00,0,1977,G,Go
-Led Zeppelin,Going To California,2017-12-03 05:04:00,0,1971,G,Going
-Stevie Wonder,Golden Lady,2017-12-03 05:24:00,0,1973,G,Golden
-Elton John,Goodbye Yellow Brick Road,2017-12-03 07:16:00,0,1973,G,Goodbye
-Marvin Gaye,Got To Give It Up,2017-12-03 07:41:00,0,1977,G,Got
-The Rolling Stones,Happy,2017-12-03 11:07:00,0,1972,H,Happy
-Neil Young,Heart Of Gold,2017-12-03 14:08:00,0,1972,H,Heart
-Yes,Heart Of The Sunrise,2017-12-03 14:17:00,0,1971,H,Heart
-Todd Rundgren,Hello It's Me,2017-12-03 15:55:00,0,1975,H,Hello
-Joni Mitchell,Help Me,2017-12-03 16:08:00,0,1974,H,Help
-David Bowie,Heroes,2017-12-03 17:16:00,0,1977,H,Heroes
-Stevie Wonder,Higher Ground,2017-12-03 18:43:00,0,1973,H,Higher
-The Eagles,Hotel California,2017-12-03 22:11:00,0,1976,H,Hotel
-Bob Dylan,Hurricane,2017-12-03 23:44:00,0,1976,H,Hurricane
-The Ramones,I Wanna Be Sedated,2017-12-04 07:27:00,0,1978,I,I
-Grand Funk Railroad,I'm Your Captain,2017-12-04 13:02:00,0,1970,I,I'm
-Bob Dylan,Idiot Wind,2017-12-04 14:00:00,0,1975,I,Idiot
-John Lennon,Imagine,2017-12-04 15:46:00,0,1971,I,Imagine
-Led Zeppelin,Immigrant Song,2017-12-04 15:49:00,0,1970,I,Immigrant
-Van Morrison,Into The Mystic,2017-12-04 18:47:00,0,1970,I,Into
-George Harrison,Isn't It A Pity,2017-12-04 19:53:00,0,1970,I,Isn't
-The Band,It Makes No Difference,2017-12-04 21:08:00,0,1975,I,It
-Dolly Parton,Jolene,2017-12-05 02:11:00,0,1973,J,Jolene
-Bruce Springsteen,Jungleland,2017-12-05 03:29:00,0,1975,J,Jungleland
-Bob Dylan,Just Like A Woman,2017-12-05 04:17:00,0,1971,J,Just
-Led Zeppelin,Kashmir,2017-12-05 05:21:00,0,1975,K,Kashmir
-Queen,Killer Queen,2017-12-05 07:10:00,0,1974,K,Killer
-Paul Simon,Kodachrome,2017-12-05 08:41:00,0,1973,K,Kodachrome
-Fleetwood Mac,Landslide,2017-12-05 10:45:00,0,1975,L,Landslide
-Jackson Browne,Late For The Sky,2017-12-05 11:03:00,0,1974,L,Late
-Bill Withers,Lean On Me,2017-12-05 12:09:00,0,1972,L,Lean
-The Beatles,Let It Be,2017-12-05 12:59:00,0,1970,L,Let
-Marvin Gaye,Let's Get It On,2017-12-05 14:03:00,0,1973,L,Let's
-Al Green,Let's Stay Together,2017-12-05 14:34:00,0,1972,L,Let's
-Elton John,Levon,2017-12-05 14:50:00,0,1971,L,Levon
-Neil Young,Like A Hurricane,2017-12-05 16:34:00,0,1977,L,Like
-Jethro Tull,Locomotive Breath,2017-12-05 19:47:00,0,1971,L,Locomotive
-The Kinks,Lola,2017-12-05 19:52:00,0,1970,L,Lola
-The Clash,London Calling,2017-12-05 20:04:00,0,1979,L,London
-The Clash,Lost In The Supermarket,2017-12-05 22:10:00,0,1979,L,Lost
-The Who,Love Reign O'er Me,2017-12-06 00:20:00,0,1979,L,Love
-The Rolling Stones,Loving Cup,2017-12-06 01:50:00,0,1972,L,Loving
-Iggy Pop,Lust For Life,2017-12-06 02:59:00,0,1977,L,Lust
-Jimi Hendrix,Machine Gun,2017-12-06 03:45:00,0,1970,M,Machine
-Muddy Waters,Mannish Boy,2017-12-06 06:45:00,0,1977,M,Mannish
-Bruce Springsteen,Meeting Across The River,2017-12-06 09:27:00,0,1975,M,Meeting
-The Police,Message In A Bottle,2017-12-06 10:50:00,0,1979,M,Message
-The Rolling Stones,Midnight Rambler,2017-12-06 11:58:00,0,1970,M,Midnight
-The Rolling Stones,Miss You,2017-12-06 13:36:00,0,1978,M,Miss
-Elton John,Mona Lisas And Mad Hatters,2017-12-06 14:34:00,0,1972,M,Mona
-Pink Floyd,Money,2017-12-06 14:42:00,0,1973,M,Money
-David Bowie,Moonage Daydream,2017-12-06 15:49:00,0,0,M,Moonage
-Van Morrison,Moondance,2017-12-06 15:54:00,0,1970,M,Moondance
-The Rolling Stones,Moonlight Mile,2017-12-06 15:58:00,0,1971,M,Moonlight
-Boston,More Than A Feeling,2017-12-06 16:13:00,0,1976,M,More
-Curtis Mayfield,Move On Up,2017-12-06 18:00:00,0,1970,M,Move
-Electric Light Orchestra,Mr. Blue Sky,2017-12-06 18:42:00,0,1977,M,Mr
-Steely Dan,My Old School,2017-12-06 20:48:00,0,1973,M,My
-George Harrison,My Sweet Lord,2017-12-06 21:15:00,0,1970,M,My
-Bruce Springsteen,New York City Serenade,2017-12-07 00:05:00,0,1973,N,New
-Billy Joel,New York State Of Mind,2017-12-07 00:15:00,0,1976,N,New
-Led Zeppelin,No Quarter,2017-12-07 02:36:00,0,1973,N,No
-Nick Drake,Northern Sky,2017-12-07 03:46:00,0,1970,N,Northern
-Neil Young,Old Man,2017-12-07 07:05:00,0,1972,O,Old
-Led Zeppelin,Over The Hills And Far Away,2017-12-07 13:50:00,0,1973,O,Over
-The Doors,Peace Frog,2017-12-07 16:22:00,0,1970,P,Peace
-Lou Reed,Perfect Day,2017-12-07 17:11:00,0,1972,P,Perfect
-Nick Drake,Pink Moon,2017-12-07 18:57:00,0,1972,P,Pink
-Neil Young,Powderfinger,2017-12-07 21:28:00,0,0,P,Powderfinger
-Elvis Costello,Pump It Up,2017-12-07 23:57:00,0,0,P,Pump
-David Bowie,Queen Bitch,2017-12-08 01:00:00,0,1971,Q,Queen
-Golden Earring,Radar Love,2017-12-08 01:35:00,0,1973,R,Radar
-Fleetwood Mac,Rhiannon,2017-12-08 07:01:00,0,1975,R,Rhiannon
-The Doors,Riders On The Storm,2017-12-08 07:45:00,0,1971,R,Riders
-Al Stewart,Roads To Moscow,2017-12-08 09:52:00,0,1973,R,Roads
-Led Zeppelin,Rock And Roll,2017-12-08 10:39:00,0,1971,R,Rock
-The Rolling Stones,Rocks Off,2017-12-08 13:44:00,0,1972,R,Rocks
-Bruce Springsteen,Rosalita,2017-12-08 15:12:00,0,1973,R,Rosalita
-Yes,Roundabout,2017-12-08 15:24:00,0,1971,R,Roundabout
-The Police,Roxanne,2017-12-08 15:40:00,0,1978,R,Roxanne
-The Clash,Rudie Can't Fail,2017-12-08 16:07:00,0,0,,Rudie
-The Clash,Rudie Can't Fail,2017-12-08 16:08:00,1,0,,Rudie
-Jackson Browne,Running On Empty,2017-12-08 17:17:00,0,1977,R,Running
-Earth Wind & Fire,September,2017-12-08 22:19:00,0,0,S,September
-Big Star,September Gurls,2017-12-08 22:23:00,0,0,S,September
+Artist,Title,Air Time,Play,Year,Letter,First Word,Duration
+Joni Mitchell,A Case Of You,2017-11-29 06:03:00,0,1971,A,A,4
+Leon Russell,A Song For You,2017-11-29 07:37:00,0,1970,A,A,6
+Led Zeppelin,Achilles Last Stand,2017-11-29 08:30:00,0,1976,A,Achilles,12
+The Beatles,Across The Universe,2017-11-29 08:53:00,0,1970,A,Across,3
+Bill Withers,Ain't No Sunshine,2017-11-29 10:29:00,0,1971,A,Ain't,2
+Steely Dan,Aja,2017-11-29 11:29:00,0,1977,A,Aja,8
+Elvis Costello,Alison,2017-11-29 11:57:00,0,1977,A,Alison,4
+The Rolling Stones,All Down The Line,2017-11-29 12:22:00,0,1972,A,All,5
+Mott The Hoople,All The Young Dudes,2017-11-29 13:42:00,0,1972,A,All,3
+Van Morrison,And It Stoned Me,2017-11-29 15:44:00,0,1970,A,And,6
+Jimi Hendrix,Angel,2017-11-29 16:16:00,0,1971,A,Angel,4
+John Prine,Angel From Montgomery,2017-11-29 16:33:00,0,1971,A,Angel,3
+The Rolling Stones,Angie,2017-11-29 16:44:00,0,1973,A,Angie,5
+Jethro Tull,Aqualung,2017-11-29 18:47:00,0,1971,A,Aqualung,7
+Stevie Wonder,As,2017-11-29 19:40:00,0,1976,A,As,7
+Bruce Springsteen,Backstreets,2017-11-29 23:25:00,0,1975,B,Backstreets,6
+Bruce Springsteen,Badlands,2017-11-30 00:24:00,0,1978,B,Badlands,4
+The Who,Bargain,2017-11-30 01:22:00,0,1971,B,Bargain,5
+The Rolling Stones,Beast Of Burden,2017-11-30 02:42:00,0,1978,B,Beast,4
+Patti Smith,Because The Night,2017-11-30 03:18:00,0,1978,B,Because,3
+The Who,Behind Blue Eyes,2017-11-30 03:42:00,0,1971,B,Behind,4
+Joni Mitchell,Big Yellow Taxi,2017-11-30 05:37:00,0,1970,B,Big,2
+Weather Report,Birdland,2017-11-30 06:17:00,0,1977,B,Birdland,6
+Led Zeppelin,Black Dog,2017-11-30 07:49:00,0,1971,B,Black,5
+Joni Mitchell,Blue,2017-11-30 09:49:00,0,1971,B,Blue,3
+Willie Nelson,Blue Eyes Crying In The Rain,2017-11-30 09:57:00,0,1975,B,Blue,3
+Queen,Bohemian Rhapsody,2017-11-30 10:57:00,0,1975,B,Bohemian,6
+Bruce Springsteen,Born To Run,2017-11-30 12:34:00,0,1975,B,Born,6
+Pink Floyd,Brain Damage/Eclipse,2017-11-30 13:15:00,0,1973,B,Brain,8
+The Commodores,Brick House,2017-11-30 14:13:00,0,1977,B,Brick,4
+Simon & Garfunkel,Bridge Over Troubled Water,2017-11-30 14:33:00,0,1970,B,Bridge,7
+The Rolling Stones,Brown Sugar,2017-11-30 15:46:00,0,1971,B,Brown,3
+Joni Mitchell,California,2017-11-30 17:46:00,0,1971,C,California,4
+Bruce Springsteen,Candy's Room,2017-11-30 20:24:00,0,1978,C,Candy's,2
+Billy Joel,Captain Jack,2017-11-30 20:43:00,0,1973,C,Captain,7
+Van Morrison,Caravan,2017-11-30 21:04:00,0,1970,C,Caravan,7
+Joni Mitchell,Carey,2017-11-30 21:23:00,0,1971,C,Carey,3
+Warren Zevon,Carmelita,2017-11-30 21:26:00,0,1976,C,Carmelita,3
+James Taylor,Carolina In My Mind,2017-11-30 21:38:00,0,1976,C,Carolina,3
+Crosby Stills Nash & Young,Carry On,2017-11-30 22:09:00,0,1970,C,Carry,4
+Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,1979,C,Carry,15
+The Kinks,Celluloid Heroes,2017-11-30 23:22:00,0,1972,C,Celluloid,6
+David Bowie,Changes,2017-12-01 00:03:00,0,1971,C,Changes,3
+The Clash,Clampdown,2017-12-01 03:27:00,0,1979,C,Clampdown,3
+Yes,Close To The Edge,2017-12-01 04:02:00,0,1972,C,Close,18
+Pink Floyd,Comfortably Numb,2017-12-01 06:33:00,0,1979,C,Comfortably,9
+Neil Young,Cortez The Killer,2017-12-01 08:16:00,0,1975,C,Cortez,12
+Heart,Crazy On You,2017-12-01 10:41:00,0,1976,C,Crazy,6
+Patti Smith,Dancing Barefoot,2017-12-01 14:56:00,0,1979,D,Dancing,5
+Bruce Springsteen,Darkness On The Edge Of Town,2017-12-01 16:16:00,0,1978,D,Darkness,5
+Steely Dan,Deacon Blues,2017-12-01 17:05:00,0,1977,D,Deacon,9
+The Rolling Stones,Dead Flowers,2017-12-01 17:21:00,0,1971,D,Dead,6
+Joan Baez,Diamonds And Rust,2017-12-01 19:38:00,0,1975,D,Diamonds,6
+Steely Dan,Dirty Work,2017-12-01 20:47:00,0,1972,D,Dirty,4
+Little Feat,Dixie Chicken,2017-12-01 21:21:00,0,1973,D,Dixie,4
+Peter Frampton,Do You Feel Like We Do,2017-12-01 22:22:00,0,1976,D,Do,16
+Pink Floyd,Dogs,2017-12-01 23:00:00,0,1977,D,Dogs,17
+Elton John,Don't Let The Sun Go Down On Me,2017-12-02 01:09:00,0,1974,D,Don't,6
+Aerosmith,Dream On,2017-12-02 04:02:00,0,1973,D,Dream,5
+Fleetwood Mac,Dreams,2017-12-02 04:23:00,0,1977,D,Dreams,4
+Pink Floyd,Echoes,2017-12-02 06:37:00,0,1971,E,Echoes,24
+Rod Stewart,Every Picture Tells A Story,2017-12-02 09:11:00,0,1971,E,Every,6
+Little Feat,Fat Man In The Bathtub,2017-12-02 12:26:00,0,1973,F,Fat,4
+Pink Floyd,Fearless,2017-12-02 12:45:00,0,1971,F,Fearless,6
+David Bowie,Five Years,2017-12-02 15:15:00,0,1972,F,Five,5
+Led Zeppelin,Fool In The Rain,2017-12-02 16:35:00,0,1979,F,Fool,7
+Jackson Browne,For A Dancer,2017-12-02 17:15:00,0,1974,F,For,4
+Jackson Browne,For Everyman,2017-12-02 17:19:00,0,1973,F,For,8
+Bob Dylan,Forever Young,2017-12-02 18:20:00,0,1974,F,Forever,5
+Jackson Browne,Fountain Of Sorrow,2017-12-02 18:25:00,0,1974,F,Fountain,7
+Lynyrd Skynyrd,Free Bird,2017-12-02 19:21:00,0,1973,F,Free,10
+Joni Mitchell,Free Man In Paris,2017-12-02 19:34:00,0,1974,F,Free,3
+The Beatles,Get Back,2017-12-02 23:44:00,0,1970,G,Get,3
+Patti Smith,Gloria,2017-12-03 03:43:00,0,1975,G,Gloria,5
+Fleetwood Mac,Go Your Own Way,2017-12-03 04:06:00,0,1977,G,Go,3
+Led Zeppelin,Going To California,2017-12-03 05:04:00,0,1971,G,Going,3
+Stevie Wonder,Golden Lady,2017-12-03 05:24:00,0,1973,G,Golden,5
+Elton John,Goodbye Yellow Brick Road,2017-12-03 07:16:00,0,1973,G,Goodbye,3
+Marvin Gaye,Got To Give It Up,2017-12-03 07:41:00,0,1977,G,Got,12
+The Rolling Stones,Happy,2017-12-03 11:07:00,0,1972,H,Happy,6
+Neil Young,Heart Of Gold,2017-12-03 14:08:00,0,1972,H,Heart,4
+Yes,Heart Of The Sunrise,2017-12-03 14:17:00,0,1971,H,Heart,10
+Todd Rundgren,Hello It's Me,2017-12-03 15:55:00,0,1975,H,Hello,4
+Joni Mitchell,Help Me,2017-12-03 16:08:00,0,1974,H,Help,3
+David Bowie,Heroes,2017-12-03 17:16:00,0,1977,H,Heroes,6
+Stevie Wonder,Higher Ground,2017-12-03 18:43:00,0,1973,H,Higher,4
+The Eagles,Hotel California,2017-12-03 22:11:00,0,1976,H,Hotel,6
+Bob Dylan,Hurricane,2017-12-03 23:44:00,0,1976,H,Hurricane,11
+The Ramones,I Wanna Be Sedated,2017-12-04 07:27:00,0,1978,I,I,3
+Grand Funk Railroad,I'm Your Captain,2017-12-04 13:02:00,0,1970,I,I'm,10
+Bob Dylan,Idiot Wind,2017-12-04 14:00:00,0,1975,I,Idiot,8
+John Lennon,Imagine,2017-12-04 15:46:00,0,1971,I,Imagine,3
+Led Zeppelin,Immigrant Song,2017-12-04 15:49:00,0,1970,I,Immigrant,3
+Van Morrison,Into The Mystic,2017-12-04 18:47:00,0,1970,I,Into,5
+George Harrison,Isn't It A Pity,2017-12-04 19:53:00,0,1970,I,Isn't,7
+The Band,It Makes No Difference,2017-12-04 21:08:00,0,1975,I,It,8
+Dolly Parton,Jolene,2017-12-05 02:11:00,0,1973,J,Jolene,3
+Bruce Springsteen,Jungleland,2017-12-05 03:29:00,0,1975,J,Jungleland,9
+Bob Dylan,Just Like A Woman,2017-12-05 04:17:00,0,1971,J,Just,5
+Led Zeppelin,Kashmir,2017-12-05 05:21:00,0,1975,K,Kashmir,8
+Queen,Killer Queen,2017-12-05 07:10:00,0,1974,K,Killer,3
+Paul Simon,Kodachrome,2017-12-05 08:41:00,0,1973,K,Kodachrome,4
+Fleetwood Mac,Landslide,2017-12-05 10:45:00,0,1975,L,Landslide,6
+Jackson Browne,Late For The Sky,2017-12-05 11:03:00,0,1974,L,Late,8
+Bill Withers,Lean On Me,2017-12-05 12:09:00,0,1972,L,Lean,6
+The Beatles,Let It Be,2017-12-05 12:59:00,0,1970,L,Let,4
+Marvin Gaye,Let's Get It On,2017-12-05 14:03:00,0,1973,L,Let's,5
+Al Green,Let's Stay Together,2017-12-05 14:34:00,0,1972,L,Let's,3
+Elton John,Levon,2017-12-05 14:50:00,0,1971,L,Levon,7
+Neil Young,Like A Hurricane,2017-12-05 16:34:00,0,1977,L,Like,10
+Jethro Tull,Locomotive Breath,2017-12-05 19:47:00,0,1971,L,Locomotive,5
+The Kinks,Lola,2017-12-05 19:52:00,0,1970,L,Lola,4
+The Clash,London Calling,2017-12-05 20:04:00,0,1979,L,London,3
+The Clash,Lost In The Supermarket,2017-12-05 22:10:00,0,1979,L,Lost,4
+The Who,Love Reign O'er Me,2017-12-06 00:20:00,0,1979,L,Love,6
+The Rolling Stones,Loving Cup,2017-12-06 01:50:00,0,1972,L,Loving,5
+Iggy Pop,Lust For Life,2017-12-06 02:59:00,0,1977,L,Lust,5
+Jimi Hendrix,Machine Gun,2017-12-06 03:45:00,0,1970,M,Machine,12
+Muddy Waters,Mannish Boy,2017-12-06 06:45:00,0,1977,M,Mannish,9
+Bruce Springsteen,Meeting Across The River,2017-12-06 09:27:00,0,1975,M,Meeting,3
+The Police,Message In A Bottle,2017-12-06 10:50:00,0,1979,M,Message,5
+The Rolling Stones,Midnight Rambler,2017-12-06 11:58:00,0,1970,M,Midnight,9
+The Rolling Stones,Miss You,2017-12-06 13:36:00,0,1978,M,Miss,5
+Elton John,Mona Lisas And Mad Hatters,2017-12-06 14:34:00,0,1972,M,Mona,5
+Pink Floyd,Money,2017-12-06 14:42:00,0,1973,M,Money,7
+David Bowie,Moonage Daydream,2017-12-06 15:49:00,0,0,M,Moonage,5
+Van Morrison,Moondance,2017-12-06 15:54:00,0,1970,M,Moondance,4
+The Rolling Stones,Moonlight Mile,2017-12-06 15:58:00,0,1971,M,Moonlight,7
+Boston,More Than A Feeling,2017-12-06 16:13:00,0,1976,M,More,4
+Curtis Mayfield,Move On Up,2017-12-06 18:00:00,0,1970,M,Move,10
+Electric Light Orchestra,Mr. Blue Sky,2017-12-06 18:42:00,0,1977,M,Mr,7
+Steely Dan,My Old School,2017-12-06 20:48:00,0,1973,M,My,7
+George Harrison,My Sweet Lord,2017-12-06 21:15:00,0,1970,M,My,4
+Bruce Springsteen,New York City Serenade,2017-12-07 00:05:00,0,1973,N,New,10
+Billy Joel,New York State Of Mind,2017-12-07 00:15:00,0,1976,N,New,6
+Led Zeppelin,No Quarter,2017-12-07 02:36:00,0,1973,N,No,7
+Nick Drake,Northern Sky,2017-12-07 03:46:00,0,1970,N,Northern,4
+Neil Young,Old Man,2017-12-07 07:05:00,0,1972,O,Old,6
+Led Zeppelin,Over The Hills And Far Away,2017-12-07 13:50:00,0,1973,O,Over,4
+The Doors,Peace Frog,2017-12-07 16:22:00,0,1970,P,Peace,3
+Lou Reed,Perfect Day,2017-12-07 17:11:00,0,1972,P,Perfect,5
+Nick Drake,Pink Moon,2017-12-07 18:57:00,0,1972,P,Pink,3
+Neil Young,Powderfinger,2017-12-07 21:28:00,0,0,P,Powderfinger,8
+Elvis Costello,Pump It Up,2017-12-07 23:57:00,0,0,P,Pump,3
+David Bowie,Queen Bitch,2017-12-08 01:00:00,0,1971,Q,Queen,3
+Golden Earring,Radar Love,2017-12-08 01:35:00,0,1973,R,Radar,6
+Fleetwood Mac,Rhiannon,2017-12-08 07:01:00,0,1975,R,Rhiannon,4
+The Doors,Riders On The Storm,2017-12-08 07:45:00,0,1971,R,Riders,9
+Al Stewart,Roads To Moscow,2017-12-08 09:52:00,0,1973,R,Roads,8
+Led Zeppelin,Rock And Roll,2017-12-08 10:39:00,0,1971,R,Rock,3
+The Rolling Stones,Rocks Off,2017-12-08 13:44:00,0,1972,R,Rocks,5
+Bruce Springsteen,Rosalita,2017-12-08 15:12:00,0,1973,R,Rosalita,7
+Yes,Roundabout,2017-12-08 15:24:00,0,1971,R,Roundabout,8
+The Police,Roxanne,2017-12-08 15:40:00,0,1978,R,Roxanne,3
+The Clash,Rudie Can't Fail,2017-12-08 16:07:00,0,0,,Rudie,1
+The Clash,Rudie Can't Fail,2017-12-08 16:08:00,1,0,,Rudie,3
+Jackson Browne,Running On Empty,2017-12-08 17:17:00,0,1977,R,Running,5
+Earth Wind & Fire,September,2017-12-08 22:19:00,0,0,S,September,4
+Big Star,September Gurls,2017-12-08 22:23:00,0,0,S,September,2
+The Rolling Stones,Shattered,2017-12-09 00:14:00,0,1978,,Shattered,4
+Bruce Springsteen,She's The One,2017-12-09 01:28:00,0,0,,She's,5
+The Ramones,Sheena Is A Punk Rocker,2017-12-09 01:33:00,0,0,,Sheena,2

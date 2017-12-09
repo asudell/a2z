@@ -1,0 +1,888 @@
+Artist,Duration
+Neil Young,204
+Elton John,202
+The Rolling Stones,192
+Led Zeppelin,171
+David Bowie,167
+Steely Dan,162
+Grateful Dead,158
+Joni Mitchell,155
+Bob Dylan,153
+Bruce Springsteen,129
+Fleetwood Mac,127
+Pink Floyd,125
+The Allman Brothers,109
+Yes,103
+Stevie Wonder,103
+Genesis,99
+Bob Marley & The Wailers,93
+Lou Reed,92
+Van Morrison,92
+Eric Clapton,91
+Little Feat,91
+Todd Rundgren,90
+John Lennon,89
+Jackson Browne,85
+The Eagles,81
+Paul McCartney & Wings,81
+Frank Zappa,80
+The Doobie Brothers,78
+Tom Petty & The Heartbreakers,76
+James Brown,76
+The Clash,76
+Electric Light Orchestra,76
+Al Green,72
+Cat Stevens,69
+Curtis Mayfield,69
+The Ramones,69
+George Harrison,64
+Billy Joel,64
+Queen,62
+Patti Smith,61
+Rod Stewart,58
+Hall & Oates,58
+Mott The Hoople,58
+Black Sabbath,57
+Santana,56
+Muddy Waters,56
+The Who,56
+The Band,56
+Lynyrd Skynyrd,56
+Roxy Music,55
+Paul Simon,55
+Elvis Costello,53
+Marvin Gaye,52
+James Taylor,51
+The Isley Brothers,51
+Ry Cooder,49
+Kraftwerk,49
+Chicago,49
+Warren Zevon,47
+T Rex,47
+Crosby Stills Nash & Young,47
+Earth Wind & Fire,47
+The Doors,46
+Aretha Franklin,46
+Bee Gees,45
+The J. Geils Band,45
+Tom Waits,44
+The Spinners,44
+War,43
+Jefferson Starship,43
+Creedence Clearwater Revival,42
+Derek & The Dominos,42
+The Kinks,41
+Graham Parker,41
+Television,41
+Blondie,40
+Talking Heads,40
+Bad Company,40
+Big Star,40
+John Prine,40
+ZZ Top,39
+Randy Newman,39
+Sly & The Family Stone,38
+Boz Scaggs,38
+Kiss,38
+Robert Palmer,37
+Budgie,37
+The O'Jays,37
+Traffic,37
+Wings,37
+Dan Fogelberg,37
+Peter Tosh,36
+Miles Davis,36
+Nick Drake,36
+Bonnie Raitt,36
+XTC,36
+Funkadelic,35
+Cheap Trick,35
+Patrick Cowley,35
+Jeff Beck,35
+Weather Report,35
+Parliament,35
+Alice Cooper,35
+Supertramp,35
+The Cars,35
+Caravan,34
+Joe Walsh,34
+The Jam,34
+The Meters,34
+Jethro Tull,33
+Nick Lowe,33
+Isaac Hayes,33
+The Temptations,32
+Grand Funk Railroad,32
+The Modern Lovers,32
+Peter Frampton,32
+Leon Russell,32
+Rush,32
+10cc,32
+Bill Withers,31
+Gram Parsons,30
+The Guess Who,30
+John Cale,30
+The Police,30
+Bob Weir,30
+Joe Jackson,30
+Three Dog Night,29
+Paul McCartney,29
+Dave Edmunds,29
+Faces,29
+Procol Harum,28
+The Beach Boys,28
+Meatloaf,28
+Average White Band,28
+The Beatles,28
+Kool & The Gang,28
+The Boomtown Rats,27
+Dr. John,27
+Harry Nilsson,27
+Herbie Hancock,27
+Brian Eno,27
+Jimi Hendrix,26
+Jerry Garcia,26
+Donna Summer,26
+Aerosmith,26
+Ian Dury & The Blockheads,26
+The Moody Blues,26
+Peter Gabriel,25
+Rare Earth,25
+Iggy Pop,25
+Ian Hunter,25
+Styx,25
+Montrose,25
+The Staple Singers,25
+Al Stewart,24
+Robin Trower,24
+The Damned,24
+Can,24
+Dire Straits,24
+Steve Miller Band,23
+The Raspberries,23
+Ringo Starr,23
+Linda Ronstadt,23
+Boston,23
+Chic,23
+Grover Washington Jr.,23
+New Riders Of The Purple Sage,23
+Bachman-Turner Overdrive,23
+Janis Joplin,22
+Stephen Stills,22
+The Commodores,22
+Gladys Knight & the Pips,22
+Public Image Ltd.,22
+Gang Of Four,21
+The Alan Parsons Project,21
+AC/DC,21
+Heart,21
+Ohio Players,21
+Joan Baez,21
+Brothers Johnson,21
+Emerson Lake & Palmer,21
+B-52's,21
+David Bromberg,21
+Freddie Hubbard,21
+Slade,21
+Crosby Stills & Nash,21
+Bob Seger,20
+Ambrosia,20
+Richard Hell & The Voidoids,20
+Barry Manilow,20
+Soft Machine,20
+Emmylou Harris,20
+Return To Forever,19
+Iggy & The Stooges,19
+J. J. Cale,19
+New York Dolls,19
+The Carpenters,19
+Bob Dylan And The Band,19
+The Congos,19
+Willie Nelson,19
+Devo,18
+Hot Tuna,18
+Suicide,18
+Eddie Kendricks,18
+Little River Band,18
+Loggins & Messina,18
+Argent,18
+David Johansen,18
+Jimmy Buffett,18
+Chuck Berry,18
+Barry White,18
+The Velvet Underground,18
+Thin Lizzy,18
+Pat Metheny Group,18
+Nils Lofgren,18
+Kris Kristofferson,18
+Wire,18
+Foreigner,17
+Humble Pie,17
+Bob Welch,17
+William Onyeabor,17
+NRBQ,17
+NEKTAR,17
+Sweet,17
+Roberta Flack,17
+The Fall,17
+Leonard Cohen,17
+The Heptones,17
+Bob Seger & The Silver Bullet Band,17
+Mountain,16
+Andy Pratt,16
+Deep Purple,16
+Crazy Horse,16
+Michael Jackson,16
+Steeleye Span,16
+The Outlaws,16
+John Hartford,16
+Dan Hicks & The Hot Licks,16
+The Move,16
+John Martyn,16
+Bloodrock,16
+Kansas,15
+Carly Simon,15
+The Stooges,15
+George Thorogood & The Destroyers,15
+Gary Numan,15
+Pete Townshend,15
+America,15
+Mink DeVille,15
+Michael Franks,15
+Mahavishnu Orchestra,15
+Freddie King,15
+Rufus,15
+Curved Air,15
+Fairport Convention,15
+The Crusaders,15
+Dave Mason,15
+The Byrds,15
+Grant Green,15
+Andy Gibb,15
+John Denver,15
+Fela Kuti,14
+Gentle Giant,14
+Natalie Cole,14
+Syd Barrett,14
+Renaissance,14
+Toots & The Maytals,14
+The Knack,14
+REO Speedwagon,14
+George Benson,14
+Lonnie Liston Smith,14
+The Runaways,14
+Jackson 5,14
+Joe Cocker,14
+Waylon Jennings,13
+Molly Hatchet,13
+Joan Armatrading,13
+Pablo Cruise,13
+Carole King,13
+Jesse Winchester,13
+Van Halen,13
+Pere Ubu,13
+Gerry Rafferty,13
+Poco,13
+Joy Of Cooking,13
+L.T.D.,13
+The Stylistics,13
+Sex Pistols,13
+Simon & Garfunkel,13
+Bobbi Humphrey,13
+Strawbs,13
+Mandrill,13
+Steve Forbert,13
+The Souther-Hillman-Furay Band,13
+King Crimson,12
+Armageddon,12
+Elvis Presley,12
+Generation X,12
+Badfinger,12
+Pat Travers,12
+Motorhead,12
+Harry Chapin,12
+Rickie Lee Jones,12
+Kenny Loggins,12
+The Chi-Lites,12
+Stanley Clarke,11
+Hawkwind,11
+Neil Diamond,11
+Jim Croce,11
+Daryl Hall,11
+Helen Reddy,11
+Tavares,11
+Captain & Tennille,11
+Dead Boys,11
+Gregg Allman,11
+Brian Auger's Oblivion Express,11
+Blackfoot,11
+Manfred Mann,11
+Jerry Jeff Walker,11
+Con Funk Shun,11
+The Stranglers,11
+Donny Hathaway,11
+Ike & Tina Turner,11
+The Babys,11
+KC & The Sunshine Band,11
+Taj Mahal,11
+"Johnny ""Guitar"" Watson",10
+Joy Division,10
+Maria Muldaur,10
+Marianne Faithfull,10
+Mick Ronson,10
+The Undertones,10
+Brick,10
+Rupert Holmes,10
+Rose Royce,10
+Rory Gallagher,10
+The Sex Pistols,10
+Brass Construction,10
+Frankie Valli,10
+Cher,10
+Dickey Betts & Great Southern,10
+Gary Numan & Tubeway Army,10
+Bauhaus,10
+Wild Cherry,10
+Be Bop Deluxe,10
+Captain Beefheart,10
+Graham Central Station,10
+Ozark Mountain Daredevils,10
+Olivia Newton-John,10
+Neil Sedaka,10
+Harold Melvin & The Bluenotes,10
+The Pointer Sisters,10
+The Buzzcocks,9
+Diana Ross,9
+The Jacksons,9
+Don McLean,9
+Hot Chocolate,9
+The Stills-Young Band,9
+Clarence Wheeler & The Enforcers,9
+The American Dream,9
+Townes Van Zandt,9
+Cameo,9
+Wilson Pickett,9
+Donald Byrd,9
+Roy Buchanan,9
+Terry Reid,9
+Foghat,9
+Herbie Mann,9
+Gordon Lightfoot,9
+Giorgio Moroder,9
+George McCrae,9
+Garland Jeffreys,9
+Free,9
+Four Tops,9
+Stray,9
+Eddie Money,9
+"Emerson, Lake & Palmer",9
+Uriah Heep,8
+The Blackbyrds,8
+Willie Hutch,8
+B. T. Express,8
+Journey,8
+Blue Oyster Cult,8
+Wayne County & The Back Street Boys,8
+Spirit,8
+The Osmonds,8
+Albert King,8
+The Dramatics,8
+Richard & Linda Thompson,8
+Mungo Jerry,8
+Ron Wood,8
+Seals & Crofts,8
+Ted Nugent,8
+Leon Haywood,8
+Captain Beyond,8
+Camel,8
+"Evelyn ""Champagne"" King",8
+Brand X,8
+Focus,8
+Greg Kihn,8
+Idris Muhammed,8
+England Dan & John Ford Coley,8
+Elvis Costello & The Attractions,8
+Elizabeth Barraclaugh,8
+James Gang,8
+Fabulous Poodles,8
+Jerry Butler,8
+Chairmen Of The Board,8
+Echo & The Bunnymen,8
+Earth Wind and Fire,8
+Charlie,8
+Disco Circus,8
+Dennis Wilson,8
+Cashman & West,8
+Jesse Colin Young,8
+"Hamilton, Joe Frank & Reynolds",7
+Heatwave,7
+Henry Cow,7
+Burning Spear,7
+Billy Thorpe,7
+Billy Preston,7
+Tony Orlando and Dawn,7
+Trapeze,7
+Millie Jackson,7
+Melanie,7
+Utopia,7
+J.J. Light,7
+MC5,7
+Buddy Miles,7
+Billy Brooks,7
+Bootsy Collins,7
+Bobby Hutcherson,7
+Squeeze,7
+The Heartbreakers,7
+Delaney & Bonnie & Friends,7
+The Intruders,7
+The Main Ingredient,7
+Edgar Winter,7
+Syl Johnson,7
+Sugarloaf,7
+Sugarhill Gang,7
+Starz,7
+Sparks,7
+Graham Nash,7
+The Partridge Family,7
+Sister Sledge,7
+The Raincoats,7
+Banbarra,7
+Ray Stevens,7
+Gary Wright,7
+Chris Squire,7
+Pete Townshend & Ronnie Lane,7
+Cheech & Chong,7
+Wayne Shorter,7
+The Groundhogs,7
+Johnny Nash,7
+Abba,7
+Wishbone Ash,7
+Jonathan Richman And The Modern Lovers,7
+Willie Alexander And The Boom Boom Band,7
+Bay City Rollers,6
+X-Ray Spex,6
+National Lampoon,6
+Kate & Anna McGarrigle,6
+Ronnie Laws,6
+Roy Ayers,6
+Flamin' Groovies,6
+Silver Convention,6
+Sea Level,6
+Crack The Sky,6
+Tuff Darts,6
+Smokey Robinson,6
+Twink & The Fairies,6
+Michael Viner's Incredible Bongo Band,6
+Bread,6
+Jerry Garcia Band,6
+The Soul Children,6
+The Shirts,6
+Steve Winwood,6
+Chelsea,6
+Paul Ray & The Cobras (feat. Stevie Ray Vaughan),6
+Golden Earring,6
+Brother Soul,6
+The Trammps,6
+Poobah,6
+Pacific Gas & Electric,6
+CHIP TAYLOR,6
+Quicksilver Messenger Service,6
+Randy California,6
+Jimmy Cliff,6
+Night,6
+The Specials,6
+Klaatu,6
+James White And The Blacks,6
+William DeVaughn,6
+Tim Buckley,6
+Dr. Feelgood,6
+Marshall Tucker Band,6
+Johnnie Taylor,6
+Ten Years After,6
+Luther Grovesnor,6
+B.J. Thomas,6
+Luther,6
+Lucinda Williams,6
+Edgar Winter's White Trash,6
+Bobby Bloom,6
+Sweathog,6
+Automatic Man,6
+Love Sculpture,6
+Brian Auger & Julie Tippetts,6
+Mac Davis,6
+Jefferson Airplane,6
+Dixie Dregs,6
+Dead Kennedys,6
+The Inmates,6
+Stevie Wright,6
+The Dickies,6
+McFadden & Whitehead,6
+Jimmy Castor Bunch,5
+Bob James,5
+The Emotions,5
+Reunion,5
+Frederick Knight,5
+Redbone,5
+Ashford & Simpson,5
+Bootsy's Rubber Band,5
+Dobie Gray,5
+Rainbow,5
+Radio Birdman,5
+Glen Campbell,5
+Genya Raven,5
+The A's,5
+Wizzard,5
+Elvin Bishop,5
+Axis,5
+Rick James,5
+Anita Ward,5
+Cymande,5
+Eric Andersen,5
+Eric Burdon & War,5
+Stackridge,5
+Spooky Tooth,5
+Jools Holland,5
+Brinsley Schwarz,5
+Elf,5
+Third World,5
+Sun Ra,5
+The Roches,5
+Samantha Sang,5
+Sad Cafe,5
+Crosby & Nash,5
+Barbra Streisand,5
+Edgar Winter Group,5
+Taste (featuring Rory Gallagher),5
+Barbra Streisand/Donna Summer,5
+Rocky Horror Picture Show Cast,5
+Frank Marino & Mahogany Rush,5
+Teddy Pendergrass,5
+Robert John,5
+The Sensational Alex Harvey band,5
+Back Street Crawler,5
+Coven,5
+Major Harris,5
+"Muddy Waters, Johnny Winter & James Cotton",5
+Grin,5
+Les Dudek,5
+McCoy Tyner,5
+Nite-Liters,5
+Iggy Pop & James Williamson,5
+Lowell George,5
+Albert Hammond,5
+Nine Nine Nine,5
+Gruppo Sportivo,5
+U.K.,5
+Alex Chilton,5
+Jerry Reed,5
+Jaco Pastorius,5
+O.V. Wright,5
+Willie Dixon,5
+Wet Willie,5
+Magazine,5
+Paul Revere & The Raiders,5
+Jean-Luc Ponty,5
+Head East,5
+Bobby Charles,5
+Billy Paul,5
+Bill Bruford,5
+Lou Donaldson,5
+Lighthouse,5
+Tim Curry,5
+Dave Loggins,4
+Marmalade,4
+The Motors,4
+B. B. King,4
+Johnny Winter,4
+Edwin Starr,4
+Penny McLean,4
+Daniel Boone,4
+U.F.O.,4
+Judas Priest,4
+Joe Ely,4
+Spinal Tap,4
+Mick Taylor,4
+Joe Simon,4
+C.J.& Co.,4
+Mick Jagger,4
+Starland Vocal Band,4
+Joe Tex,4
+Jorge Ben,4
+Maxine Nightingale,4
+Michael Nesmith,4
+Steve Goodman,4
+Steve Harley & Cockney Rebel,4
+Brighter Side Of Darkness,4
+Merry Clayton,4
+Chakachas,4
+Bloodstone,4
+The New Seekers,4
+Johnny Paycheck,4
+Stories,4
+The Melodians,4
+Eddie & The Hot Rods,4
+Dennis Brown,4
+The Charlie Daniels Band,4
+The Impressions,4
+The Hollies,4
+Destroy All Monsters,4
+John Entwistle,4
+Dennis Coffey,4
+The Cure,4
+The Dictators,4
+"Bobby ""Blue"" Bland",4
+Loretta Lynn,4
+The Hello People,4
+John Hall,4
+John Kongos,4
+Long John Baldry,4
+The Five Stairsteps,4
+The Four Seasons,4
+"Lipps, Inc.",4
+Bo Donaldson & The Heywoods,4
+Waylon Jennings & Willie Nelson,4
+Carly Simon & James Taylor,4
+Macondo,4
+The 101ers,4
+King Floyd,4
+M,4
+The Manhattans,4
+The Atlantics,4
+Love Unlimited Orchestra,4
+The Bar-Kays,4
+Anne Murray,4
+April Wine,4
+The Jags,4
+David Geddes,4
+Don Covay,4
+Arlo Guthrie,4
+John Stewart,4
+Eric Weissberg,4
+The People's Choice,4
+Leo Kottke,4
+Richie Havens,4
+Off Broadway,4
+Ram Jam,4
+Nitty Gritty Dirt Band,4
+Kate Bush,4
+Nino Rota,4
+Andrew Gold,4
+Billy Cobham,4
+The Slits,4
+Hound Dog Taylor,4
+Ricky Nelson,4
+Iain Matthews,4
+Tonio K.,4
+Bram Tchaikovsky,4
+Foxy,4
+Cactus,4
+Larry Graham & Graham Central Station,4
+Rachel Sweet,4
+ACE,4
+Clint Holmes,4
+Allen Toussaint,4
+Thelma Houston,4
+Betty Wright,4
+Bellamy Brothers,4
+Gino Vannelli,4
+Phil Manzanera,4
+Chris Bell,4
+Phoebe Snow,4
+Bobby Womack,4
+Pleasure,4
+Gilbert O'Sullivan,4
+Pousette-Dart Band,4
+Pretty Things,4
+Gil Scott-Heron,4
+Pure Prairie League,4
+Climax Blues Band,4
+Rodney Crowell,4
+Janis Ian,4
+Charles Wright & The Watts 103rd Street Rhythm Band,4
+Mocedades,4
+C.W. McCall,4
+Hues Corporation,4
+Shaun Cassidy,4
+Root Boy Slim & The Sex Change Band,4
+Sandy Denny,4
+Moon Martin,4
+Morris Albert,4
+Shirley & Company,4
+Bang,4
+Toto,4
+Shuggie Otis,4
+British Lions,4
+Jimmy Webb,4
+Karla Bonoff,4
+Junior Byles,4
+Andy Kim,4
+Junior Murvin,4
+Rose Tattoo,4
+The Pioneers,3
+David Soul,3
+Chuck Mangione,3
+Crystal Gayle,3
+Canned Heat,3
+Tin Huey,3
+Chris Spedding,3
+"Crosby, Stills, Nash, & Young",3
+The Go-Betweens,3
+A Taste Of Honey,3
+The Undisputed Truth,3
+Timmy Thomas,3
+David Sancious,3
+Wreckless Eric,3
+The Saints,3
+The Residents,3
+The Only Ones,3
+Commander Cody & His Lost Planet Airmen,3
+Walter Egan,3
+Vanity Fare,3
+The Mothers Of Invention,3
+Bryan Ferry,3
+The Selecter,3
+Brook Benton,3
+Yvonne Elliman,3
+Tommy James & The Shondells,3
+Tommy Bolin,3
+Ann Peebles,3
+The Slickers,3
+Candi Staton,3
+The Rubinoos,3
+White Plains,3
+The Nerves,3
+The Laughing Dogs,3
+David Crosby,3
+Tower Of Power,3
+David Essex,3
+African Music Machine,3
+John Handy,3
+Prince,3
+Beverly Bremers,3
+Minnie Ripperton,3
+Hurricane Smith,3
+Hound Dog Taylor And The Houserockers,3
+Mouth & MacNeal,3
+New York City,3
+Gulliver,3
+Nick Gilder,3
+Nicolette Larson,3
+Orleans,3
+Bobby Sherman,3
+Graham Parker & The Rumor,3
+Peaches & Herb,3
+Richard Thompson,3
+Peoples Chocie,3
+Godspell Cast,3
+Gloria Gaynor,3
+Pezband,3
+Phil Ochs,3
+Philadelphia Phillies 1976,3
+Plastic Bertrand,3
+Player,3
+George Duke,3
+Quincy Jones,3
+R. Dean Taylor,3
+Mighty Diamonds,3
+Michael Nesmith & The First National Band,3
+Ian Gomm,3
+Merle Haggard,3
+Blues Image,3
+KC and the Sunshine Band,3
+Kenny Rankin,3
+Kingfish,3
+Labelle,3
+Larry Wallis,3
+Blue Ash,3
+Lee Michaels,3
+Lene Lovich,3
+20/20,3
+Leon Redbone,3
+Link Wray,3
+Little Beaver,3
+Looking Glass,3
+Lou Rawls,3
+Blood Sweat & Tears,3
+Loudon Wainwright III,3
+Lyn Collins,3
+Madness,3
+J.D. Souther,3
+Iron City Houserockers,3
+Mark Lindsay,3
+Max Romeo,3
+Free Movement,3
+Sammy Johns,3
+Rick Dees,3
+The Arrows,3
+Steve Martin,3
+Steve Miller,3
+Brewer & Shipley,3
+Eggs Over Easy,3
+Edison Lighthouse,3
+Terry Jacks,3
+The 5th Dimension,3
+The 8th Day,3
+The Adverts,3
+Dwight Twilley Band,3
+Donovan Carless,3
+Sniff N The Tears,3
+Donovan,3
+The Beat,3
+The Beginning Of The End,3
+The Bellamy Brothers,3
+The Blues Brothers,3
+Dolly Parton,3
+Augustus Pablo,3
+Audience,3
+Art Garfunkel,3
+Delaney & Bonnie,3
+Southside Johnny & The Asbury Jukes,3
+Stiff Little Fingers,3
+Ernie Graham,3
+Ernie Hines,3
+Rick Derringer,3
+Frankie Miller,3
+Robert Gordon with Link Wray,3
+Robin McNamara,3
+Flora Purim,3
+Flash And The Pan,3
+John Holt,3
+Sid Vicious,3
+Silverhead,3
+Firefall,3
+Skull Snaps,3
+Siouxsie & The Banshees,3
+Freda Payne,2
+Conway Twitty,2
+Professor Longhair,2
+Frank Zappa & The Mothers,2
+Eric Donaldson,2
+Dickie Goodman,2
+Blue Swede,2
+King Harvest,2
+Donny Osmond,2
+Kevin Ayres,2
+The Cramps,2
+Jimmy Reed,2
+Harmonettes,2
+Josie & The Pussycats,2
+Freddy Fender,2
+The Flying Lizards,2
+Leon Russell & Marc Benno,2
+Subway Sect,2
+Billy Swan,2
+Suicide Commandos,2
+Black Flag,2
+Bette Midler,2
+Steve Martin & The Toot Uncommons,2
+The Miracles,2
+Fanny,2
+The Rezillos,2
+Monty Python,2
+The Pipkins,2
+Chambers Brothers,2
+Howlin' Wolf,2
+Jean Knight,2
+Roger Voudouris,2
+The Germs,2
+U.K. Subs,1
