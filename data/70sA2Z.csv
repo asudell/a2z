@@ -500,7 +500,7 @@ Led Zeppelin,Carouselambra,2017-11-30 21:50:00,0,1979,C,Carouselambra,10
 Renaissance,Carpet Of The Sun,2017-11-30 22:00:00,0,1973,C,Carpet,4
 Crosby & Nash,Carry Me,2017-11-30 22:04:00,0,1975,C,Carry,5
 Crosby Stills Nash & Young,Carry On,2017-11-30 22:09:00,0,1970,C,Carry,4
-Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,1979,C,Carry,15
+Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,0,C,Carry,15
 Kansas,Carry On Wayward Son,2017-11-30 22:28:00,0,1976,C,Carry,5
 Gary Numan,Cars,2017-11-30 22:33:00,0,1979,C,Cars,4
 The Doors,Cars Hiss By My Window,2017-11-30 22:37:00,0,1971,C,Cars,4
@@ -721,8 +721,8 @@ Cher,Dark Lady,2017-12-01 16:06:00,0,1974,D,Dark,6
 Crosby Stills & Nash,Dark Star,2017-12-01 16:12:00,0,1977,D,Dark,4
 Bruce Springsteen,Darkness On The Edge Of Town,2017-12-01 16:16:00,0,1978,D,Darkness,5
 The O'Jays,"Darlin' Darlin' Baby (Sweet, Tender, Love)",2017-12-01 16:21:00,0,1976,D,Darlin',3
-Cheech & Chong,Dave,2017-12-01 16:24:00,0,1972,D,Dave,0
-The Jam,David Watts,2017-12-01 16:24:00,0,1978,D,David,5
+The Jam,David Watts,2017-12-01 16:24:00,0,1978,D,David,0
+Cheech & Chong,Dave,2017-12-01 16:24:00,0,1972,D,Dave,5
 Badfinger,Day After Day,2017-12-01 16:29:00,0,1971,D,Day,3
 Godspell Cast,Day By Day,2017-12-01 16:32:00,0,1974,D,Day,3
 Aretha Franklin,Day Dreaming,2017-12-01 16:35:00,0,1972,D,Day,5
@@ -2684,7 +2684,7 @@ David Bowie,Prettiest Star,2017-12-07 22:24:00,0,1973,P,Prettiest,3
 Jefferson Airplane,Pretty As You Feel,2017-12-07 22:27:00,0,1971,P,Pretty,6
 Blondie,Pretty Baby,2017-12-07 22:33:00,0,0,P,Pretty,3
 John Prine,Pretty Good,2017-12-07 22:36:00,0,1971,P,Pretty,1
-John Prine,Pretty Good,2017-12-07 22:37:00,1,1971,P,Pretty,3
+John Prine,Pretty Good,2017-12-07 22:37:00,1,0,P,Pretty,3
 The Eagles,Pretty Maids All In A Row,2017-12-07 22:40:00,0,1976,P,Pretty,4
 Sex Pistols,Pretty Vacant,2017-12-07 22:44:00,0,1977,P,Pretty,3
 Steely Dan,Pretzel Logic,2017-12-07 22:47:00,0,1974,P,Pretzel,6
@@ -3022,7 +3022,7 @@ Mink DeVille,She's So Yough,2017-12-09 01:25:00,0,1977,S,She's,3
 Bruce Springsteen,She's The One,2017-12-09 01:28:00,0,1975,S,She's,5
 The Ramones,Sheena Is A Punk Rocker,2017-12-09 01:33:00,0,1977,S,Sheena,2
 Pink Floyd,Sheep,2017-12-09 01:35:00,0,1977,S,Sheep,1
-Pink Floyd,Sheep,2017-12-09 01:36:00,1,1977,S,Sheep,10
+Pink Floyd,Sheep,2017-12-09 01:36:00,1,0,S,Sheep,10
 Queen,Sheer Heart Attack,2017-12-09 01:46:00,0,1977,S,Sheer,5
 Bob Dylan,Shelter From The Storm,2017-12-09 01:51:00,0,1975,S,Shelter,5
 The Rolling Stones,Shine A Light,2017-12-09 01:56:00,0,1972,S,Shine,4
@@ -3687,7 +3687,7 @@ Jethro Tull,To Cry You A Song,2017-12-11 07:02:00,0,1970,T,To,6
 Syreeta,To Know You Is To Love You,2017-12-11 07:14:00,0,1972,T,To,6
 Journey,To Play Some Music,2017-12-11 07:20:00,0,1975,T,To,5
 The Ramones,"Today Your Love, Tomorrow The World",2017-12-11 07:25:00,0,1976,T,Today,2
-The Ramones,"Today Your Love, Tomorrow The World",2017-12-11 07:27:00,1,1976,T,Today,2
+The Ramones,"Today Your Love, Tomorrow The World",2017-12-11 07:27:00,1,0,T,Today,2
 Eric Clapton,Told You For The Last Time,2017-12-11 07:29:00,0,1970,T,Told,2
 Tom Waits,Tom Traubert's Blues,2017-12-11 07:31:00,0,1976,T,Tom,9
 The Clash,Tommy Gun,2017-12-11 07:40:00,0,1978,T,Tommy,3
@@ -3837,7 +3837,7 @@ Harold Melvin & The Bluenotes,Wake Up Everybody,2017-12-11 18:19:00,0,1975,W,Wak
 Trapeze,"Wake Up, Shake Up",2017-12-11 18:24:00,0,0,W,Wake,4
 James Gang,Walk Away,2017-12-11 18:28:00,0,1971,W,Walk,3
 David Ruffin,Walk Away From Love,2017-12-11 18:31:00,0,1975,W,Walk,1
-David Ruffin,Walk Away From Love,2017-12-11 18:32:00,1,1975,W,Walk,6
+David Ruffin,Walk Away From Love,2017-12-11 18:32:00,1,0,W,Walk,6
 Grand Funk Railroad,Walk Like A Man (You Can Call Me Your Man),2017-12-11 18:38:00,0,1973,W,Walk,4
 Neil Young,Walk On,2017-12-11 18:42:00,0,1974,W,Walk,2
 The Stranglers,Walk On By,2017-12-11 18:44:00,0,0,W,Walk,1
@@ -4005,4 +4005,68 @@ Billy Preston,Will It Go Round In Circles,2017-12-12 06:42:00,0,1972,W,Will,4
 The Nitty Gritty Dirt Band,Will The Circle Be Unbroken,2017-12-12 06:46:00,0,0,W,Will,8
 Pentangle,Will The Circle Be Unbroken?,2017-12-12 06:54:00,0,0,W,Will,5
 Neil Young,Will To Love,2017-12-12 06:59:00,0,1977,W,Will,7
-Eric Clapton,Willie And The Hand Jive,2017-12-12 07:06:00,0,1974,W,Willie,0
+Eric Clapton,Willie And The Hand Jive,2017-12-12 07:06:00,0,1974,W,Willie,6
+Linda Ronstadt,Willin',2017-12-12 07:12:00,0,1974,W,Willin',3
+Little Feat,Willin',2017-12-12 07:15:00,0,1972,W,Willin',4
+Joan Armatrading,Willow,2017-12-12 07:19:00,0,1977,W,Willow,5
+David Bowie,Win,2017-12-12 07:24:00,0,1975,W,Win,4
+Crosby & Nash,Wind On The Water,2017-12-12 07:28:00,0,1975,W,Wind,6
+Frank Zappa,Wind Up Workin' In A Gas Station,2017-12-12 07:34:00,0,1976,W,Wind,6
+Jethro Tull,Wind-up,2017-12-12 07:40:00,0,1971,W,Wind-up,6
+Stomu Yamashta,Winner/Loser,2017-12-12 07:46:00,0,0,W,Winner,7
+Gil Scott-Heron,Winter In America,2017-12-12 07:53:00,0,1975,W,Winter,6
+Steve Miller Band,Winter Time,2017-12-12 07:59:00,0,1977,W,Winter,3
+Neil Young,Winterlong,2017-12-12 08:02:00,0,1977,W,Winterlong,6
+Alice Cooper,Wish You Were Here,2017-12-12 08:08:00,0,1976,W,Wish,5
+Pink Floyd,Wish You Were Here,2017-12-12 08:13:00,0,1975,W,Wish,8
+Jim Pepper,Witchi Tai To,2017-12-12 08:21:00,0,1971,W,Witchi,7
+Wings,With A Little Luck,2017-12-12 08:28:00,0,0,W,With,3
+Jethro Tull,With You There To Help Me,2017-12-12 08:31:00,0,1970,W,With,9
+Harry Nilsson,Without You,2017-12-12 08:40:00,0,1971,W,Without,3
+Todd Rundgren,Wolfman Jack,2017-12-12 08:43:00,0,1975,W,Wolfman,3
+Deep Purple,Woman from Tokyo,2017-12-12 08:46:00,0,1973,W,Woman,9
+Bobby Womack,Woman's Gotta Have It,2017-12-12 08:55:00,0,0,W,Woman's,4
+Bonnie Raitt,Women Be Wise,2017-12-12 08:59:00,0,1971,W,Women,4
+The Who,Won't Get Fooled Again,2017-12-12 09:03:00,0,1971,W,Won't,9
+Peter Frampton,Won't You Be My Friend,2017-12-12 09:12:00,0,1977,W,Won't,8
+Eric Clapton,Wonderful Tonight,2017-12-12 09:20:00,0,1977,W,Wonderful,5
+Jimmy Cliff,Wonderful World Beautiful People,2017-12-12 09:25:00,0,1972,W,Wonderful,3
+Bruce Cockburn,Wondering Where The Lions Are,2017-12-12 09:28:00,0,0,W,Wondering,4
+Yes,Wonderous Stories,2017-12-12 09:32:00,0,1977,W,Wonderous,6
+Crosby Stills Nash & Young,Woodstock,2017-12-12 09:38:00,0,1970,W,Woodstock,4
+Joni Mitchell,Woodstock,2017-12-12 09:42:00,0,1970,W,Woodstock,5
+David Bowie,Word On A Wing,2017-12-12 09:47:00,0,1976,W,Word,7
+Neil Young,Words (Between The Lines Of Age),2017-12-12 09:54:00,0,1972,W,Words,7
+Average White Band,Work To Do,2017-12-12 10:01:00,0,1974,W,Work,4
+The Isley Brothers,Work To Do,2017-12-12 10:05:00,0,0,W,Work,3
+Robert Palmer,Work To Make It Work,2017-12-12 10:08:00,0,1975,W,Work,4
+Jim Croce,Workin' At The Car Wash Blues,2017-12-12 10:12:00,0,1973,W,Workin',3
+Michael Jackson,Workin' Day and Night,2017-12-12 10:15:00,0,1979,W,Workin',5
+John Lennon,Working Class Hero,2017-12-12 10:20:00,0,1970,W,Working,4
+Lynyrd Skynyrd,Working For MCA,2017-12-12 10:24:00,0,1974,W,Working,6
+Rush,Working Man,2017-12-12 10:30:00,0,1974,W,Working,7
+Neil Young,World On A String,2017-12-12 10:37:00,0,1975,W,World,3
+Fleetwood Mac,World Turning,2017-12-12 10:40:00,0,1975,W,World,4
+Bonnie Raitt,Write Me A Few Of Your Lines / Kokomo Blues,2017-12-12 10:44:00,0,1973,W,Write,4
+Elton John,Writing,2017-12-12 10:48:00,0,1975,W,Writing,5
+The Clash,Wrong 'Em Boyo,2017-12-12 10:53:00,0,1979,W,Wrong,3
+Kate Bush,Wuthering Heights,2017-12-12 10:56:00,0,1978,W,Wuthering,5
+Blondie,X Offender,2017-12-12 11:01:00,0,0,X,X,3
+Root Boy Slim & The Sex Change Band,Xmas At K Mart,2017-12-12 11:04:00,0,0,X,Xmas,3
+Lee Dorsey,Ya Ya,2017-12-12 11:07:00,0,0,Y,Ya,5
+Al Stewart,Year Of The Cat,2017-12-12 11:12:00,0,1976,Y,Year,6
+20/20,Yellow Pills,2017-12-12 11:18:00,0,0,Y,Yellow,6
+Christie,Yellow River,2017-12-12 11:24:00,0,1971,Y,Yellow,3
+Ry Cooder,Yellow Roses,2017-12-12 11:27:00,0,1976,Y,Yellow,6
+Lee Dorsey,Yes We Can Can,2017-12-12 11:33:00,0,0,Y,Yes,3
+The Pointer Sisters,Yes We Can Can,2017-12-12 11:36:00,0,0,Y,Yes,5
+The Village People,YMCA,2017-12-12 11:41:00,0,0,Y,YMCA,3
+Rick James,You & I,2017-12-12 11:44:00,0,0,Y,You,9
+Bachman-Turner Overdrive,You Ain't Seen Nothing Yet,2017-12-12 11:53:00,0,1974,Y,You,4
+Chris Bell,You And Your Sister,2017-12-12 11:57:00,0,0,Y,You,4
+The Stylistics,You Are Everything,2017-12-12 12:01:00,0,1975,Y,You,3
+Joe Cocker,You Are So Beautiful,2017-12-12 12:04:00,0,1974,Y,You,3
+Stevie Wonder,You Are The Sunshine Of My Life,2017-12-12 12:07:00,0,1972,Y,You,4
+Carly Simon,You Belong To Me,2017-12-12 12:11:00,0,1978,Y,You,4
+Elvis Costello,You Belong To Me,2017-12-12 12:15:00,0,0,Y,You,2
+The Doobie Brothers,You Belong To Me,2017-12-12 12:17:00,0,1977,Y,You,0

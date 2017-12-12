@@ -39,7 +39,7 @@ Joni Mitchell,Carey,2017-11-30 21:23:00,0,1971,C,Carey,3
 Warren Zevon,Carmelita,2017-11-30 21:26:00,0,1976,C,Carmelita,3
 James Taylor,Carolina In My Mind,2017-11-30 21:38:00,0,1976,C,Carolina,3
 Crosby Stills Nash & Young,Carry On,2017-11-30 22:09:00,0,1970,C,Carry,4
-Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,1979,C,Carry,15
+Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,0,C,Carry,15
 The Kinks,Celluloid Heroes,2017-11-30 23:22:00,0,1972,C,Celluloid,6
 David Bowie,Changes,2017-12-01 00:03:00,0,1971,C,Changes,3
 The Clash,Clampdown,2017-12-01 03:27:00,0,1979,C,Clampdown,3
@@ -223,3 +223,9 @@ George Harrison,What Is Life,2017-12-12 00:55:00,0,1970,W,What,5
 Marvin Gaye,What's Going On,2017-12-12 01:31:00,0,1971,W,What's,4
 Led Zeppelin,When The Levee Breaks,2017-12-12 02:27:00,0,1971,W,When,8
 Cat Stevens,Wild World,2017-12-12 06:32:00,0,1970,W,Wild,3
+Little Feat,Willin',2017-12-12 07:15:00,0,1972,W,Willin',4
+Pink Floyd,Wish You Were Here,2017-12-12 08:13:00,0,1975,W,Wish,8
+The Who,Won't Get Fooled Again,2017-12-12 09:03:00,0,1971,W,Won't,9
+Eric Clapton,Wonderful Tonight,2017-12-12 09:20:00,0,1977,W,Wonderful,5
+Kate Bush,Wuthering Heights,2017-12-12 10:56:00,0,1978,W,Wuthering,5
+Al Stewart,Year Of The Cat,2017-12-12 11:12:00,0,1976,Y,Year,6

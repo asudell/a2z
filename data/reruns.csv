@@ -181,7 +181,7 @@ Led Zeppelin,Carouselambra,2017-11-30 21:50:00,0,1979,C,Carouselambra,10,2016-12
 Renaissance,Carpet Of The Sun,2017-11-30 22:00:00,0,1973,C,Carpet,4,2016-12-02 03:11:00,C,4
 Crosby & Nash,Carry Me,2017-11-30 22:04:00,0,1975,C,Carry,5,2016-12-02 03:26:00,C,3
 Crosby Stills Nash & Young,Carry On,2017-11-30 22:09:00,0,1970,C,Carry,4,2016-12-02 03:29:00,C,17
-Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,1979,C,Carry,15,2016-12-02 03:29:00,C,17
+Crosby Stills Nash & Young,Carry On,2017-11-30 22:13:00,1,0,C,Carry,15,2016-12-02 03:29:00,C,17
 Gary Numan,Cars,2017-11-30 22:33:00,0,1979,C,Cars,4,2016-12-02 03:54:00,C,3
 The Doors,Cars Hiss By My Window,2017-11-30 22:37:00,0,1971,C,Cars,4,2016-12-02 03:57:00,C,5
 Grateful Dead,Casey Jones,2017-11-30 22:41:00,0,1970,C,Casey,5,2016-12-02 04:02:00,C,4
@@ -1601,4 +1601,34 @@ Dire Straits,Wild West End,2017-12-12 06:27:00,0,1978,W,Wild,5,2016-12-16 19:08:
 Cat Stevens,Wild World,2017-12-12 06:32:00,0,1970,W,Wild,3,2016-12-16 19:18:00,W,3
 Michael Murphey,Wildfire,2017-12-12 06:35:00,0,0,W,Wildfire,7,2016-12-16 19:21:00,W,3
 The Nitty Gritty Dirt Band,Will The Circle Be Unbroken,2017-12-12 06:46:00,0,0,W,Will,8,2016-12-16 19:30:00,W,5
-Eric Clapton,Willie And The Hand Jive,2017-12-12 07:06:00,0,1974,W,Willie,0,2016-12-16 19:47:00,W,4
+Eric Clapton,Willie And The Hand Jive,2017-12-12 07:06:00,0,1974,W,Willie,6,2016-12-16 19:47:00,W,4
+Linda Ronstadt,Willin',2017-12-12 07:12:00,0,1974,W,Willin',3,2016-12-16 19:51:00,W,3
+Little Feat,Willin',2017-12-12 07:15:00,0,1972,W,Willin',4,2016-12-16 19:54:00,W,3
+Frank Zappa,Wind Up Workin' In A Gas Station,2017-12-12 07:34:00,0,1976,W,Wind,6,2016-12-16 19:57:00,W,3
+Stomu Yamashta,Winner/Loser,2017-12-12 07:46:00,0,0,W,Winner,7,2016-12-16 20:14:00,W,4
+Gil Scott-Heron,Winter In America,2017-12-12 07:53:00,0,1975,W,Winter,6,2016-12-16 20:18:00,W,8
+Pink Floyd,Wish You Were Here,2017-12-12 08:13:00,0,1975,W,Wish,8,2016-12-16 20:35:00,W,6
+Jim Pepper,Witchi Tai To,2017-12-12 08:21:00,0,1971,W,Witchi,7,2016-12-16 20:59:00,W,7
+Harry Nilsson,Without You,2017-12-12 08:40:00,0,1971,W,Without,3,2016-12-16 21:41:00,W,4
+The Who,Won't Get Fooled Again,2017-12-12 09:03:00,0,1971,W,Won't,9,2016-12-16 22:35:00,W,9
+Eric Clapton,Wonderful Tonight,2017-12-12 09:20:00,0,1977,W,Wonderful,5,2016-12-16 22:18:00,W,5
+Jimmy Cliff,Wonderful World Beautiful People,2017-12-12 09:25:00,0,1972,W,Wonderful,3,2016-12-16 22:23:00,W,3
+Bruce Cockburn,Wondering Where The Lions Are,2017-12-12 09:28:00,0,0,W,Wondering,4,2016-12-16 22:26:00,W,4
+Crosby Stills Nash & Young,Woodstock,2017-12-12 09:38:00,0,1970,W,Woodstock,4,2016-12-16 23:00:00,W,4
+Joni Mitchell,Woodstock,2017-12-12 09:42:00,0,1970,W,Woodstock,5,2016-12-16 23:04:00,W,8
+David Bowie,Word On A Wing,2017-12-12 09:47:00,0,1976,W,Word,7,2016-12-16 23:17:00,W,7
+Average White Band,Work To Do,2017-12-12 10:01:00,0,1974,W,Work,4,2016-12-17 00:11:00,W,5
+The Isley Brothers,Work To Do,2017-12-12 10:05:00,0,0,W,Work,3,2016-12-17 00:16:00,W,3
+Robert Palmer,Work To Make It Work,2017-12-12 10:08:00,0,1975,W,Work,4,2016-12-17 00:19:00,W,3
+Michael Jackson,Workin' Day and Night,2017-12-12 10:15:00,0,1979,W,Workin',5,2016-12-16 23:49:00,W,6
+Lynyrd Skynyrd,Working For MCA,2017-12-12 10:24:00,0,1974,W,Working,6,2016-12-17 00:00:00,W,4
+Fleetwood Mac,World Turning,2017-12-12 10:40:00,0,1975,W,World,4,2016-12-17 00:35:00,W,5
+Blondie,X Offender,2017-12-12 11:01:00,0,0,X,X,3,2016-12-17 01:40:00,X,3
+Lee Dorsey,Ya Ya,2017-12-12 11:07:00,0,0,Y,Ya,5,2016-12-17 01:58:00,Y,3
+Al Stewart,Year Of The Cat,2017-12-12 11:12:00,0,1976,Y,Year,6,2016-12-17 02:05:00,Y,6
+The Pointer Sisters,Yes We Can Can,2017-12-12 11:36:00,0,0,Y,Yes,5,2016-12-17 02:44:00,Y,3
+Bachman-Turner Overdrive,You Ain't Seen Nothing Yet,2017-12-12 11:53:00,0,1974,Y,You,4,2016-12-17 03:09:00,Y,3
+Chris Bell,You And Your Sister,2017-12-12 11:57:00,0,0,Y,You,4,2016-12-17 03:15:00,Y,3
+Stevie Wonder,You Are The Sunshine Of My Life,2017-12-12 12:07:00,0,1972,Y,You,4,2016-12-17 03:32:00,Y,3
+Elvis Costello,You Belong To Me,2017-12-12 12:15:00,0,0,Y,You,2,2016-12-17 03:38:00,Y,2
+The Doobie Brothers,You Belong To Me,2017-12-12 12:17:00,0,1977,Y,You,0,2016-12-17 03:40:00,Y,3
