@@ -1,6 +1,6 @@
 Artist,Duration
 Neil Young,289
-David Bowie,284
+David Bowie,288
 Elton John,260
 Led Zeppelin,256
 The Rolling Stones,255
@@ -16,7 +16,7 @@ Stevie Wonder,165
 Jackson Browne,163
 The Allman Brothers,156
 Yes,145
-Bob Marley & The Wailers,133
+Bob Marley & The Wailers,139
 The Eagles,133
 Todd Rundgren,126
 Eric Clapton,125
@@ -27,6 +27,7 @@ John Lennon,114
 Little Feat,111
 The Clash,107
 The Doobie Brothers,106
+Frank Zappa,105
 Cat Stevens,104
 Lou Reed,104
 Electric Light Orchestra,100
@@ -34,7 +35,6 @@ Lynyrd Skynyrd,100
 Tom Petty & The Heartbreakers,99
 Queen,98
 The Who,95
-Frank Zappa,93
 Curtis Mayfield,89
 James Taylor,89
 Paul McCartney & Wings,87
@@ -54,61 +54,61 @@ Patti Smith,71
 Talking Heads,71
 Aretha Franklin,70
 Roxy Music,69
-Hall & Oates,69
 Kraftwerk,69
+Hall & Oates,69
 The Doors,68
 Bee Gees,68
-Ry Cooder,67
 Paul Simon,67
+Ry Cooder,67
 Marvin Gaye,65
 Earth Wind & Fire,62
 Tom Waits,62
 Wings,61
+Budgie,60
 Muddy Waters,59
 Boz Scaggs,59
 Grand Funk Railroad,59
-Warren Zevon,56
 Santana,56
+Warren Zevon,56
 Cheap Trick,56
-T Rex,55
 Dan Fogelberg,55
 Randy Newman,55
 Derek & The Dominos,55
 Steve Miller Band,55
+T Rex,55
 Graham Parker,54
 10cc,54
-Paul McCartney,53
 Crosby Stills Nash & Young,53
-Alice Cooper,52
+Paul McCartney,53
 The Kinks,52
-Supertramp,51
+Alice Cooper,52
 Creedence Clearwater Revival,51
 Big Star,51
+Supertramp,51
 Aerosmith,50
+Leon Russell,49
+Chicago,49
+Traffic,49
+Isaac Hayes,49
 Blondie,49
 Peter Frampton,49
-Traffic,49
-Leon Russell,49
-Isaac Hayes,49
-Chicago,49
-Ohio Players,48
 Bad Company,48
 John Prine,48
 The J. Geils Band,48
+Ohio Players,48
 The Spinners,48
 The Commodores,47
-The Police,46
 Robert Palmer,46
-Budgie,45
-Television,45
-Funkadelic,45
+The Police,46
 Sly & The Family Stone,45
-Joe Walsh,44
+Funkadelic,45
+Television,45
+Peter Tosh,44
 Jerry Garcia,44
 Faces,44
-Peter Tosh,44
-Jefferson Starship,43
+Joe Walsh,44
 Dire Straits,43
+Jefferson Starship,43
 ZZ Top,43
 Kiss,42
 Linda Ronstadt,42
@@ -123,79 +123,79 @@ The Cars,39
 Nick Lowe,39
 The Beach Boys,39
 Brian Eno,39
-Deep Purple,38
-The Moody Blues,38
-Bill Withers,38
 Kool & The Gang,38
 Parliament,38
-Gram Parsons,37
-Robin Trower,37
-Carly Simon,37
+Fela Kuti,38
+Bill Withers,38
+Deep Purple,38
+The Moody Blues,38
 The Meters,37
-Average White Band,36
-The Jam,36
-Al Stewart,36
+Robin Trower,37
+Gram Parsons,37
+Carly Simon,37
 The Modern Lovers,36
-Miles Davis,36
+Al Stewart,36
+The Jam,36
 David Bromberg,36
+Miles Davis,36
+Average White Band,36
 Dr. John,35
 Weather Report,35
 Harry Nilsson,35
-The Beatles,35
 Jeff Beck,35
+The Beatles,35
+Caravan,34
 Joe Jackson,34
 Herbie Hancock,34
-Caravan,34
 Ian Hunter,34
-The Guess Who,33
 Dave Mason,33
-Brothers Johnson,32
-Bachman-Turner Overdrive,32
+The Guess Who,33
+Devo,32
 The Temptations,32
 Dave Edmunds,32
+Brothers Johnson,32
 Procol Harum,32
-Devo,32
+Bachman-Turner Overdrive,32
 Kris Kristofferson,31
-Loggins & Messina,31
-Peter Gabriel,31
 Carole King,31
+Peter Gabriel,31
+Loggins & Messina,31
 The Alan Parsons Project,30
 John Cale,30
 Thin Lizzy,30
 Bob Weir,30
-The Carpenters,29
-Boston,29
 Rufus,29
-The Velvet Underground,29
 Three Dog Night,29
-Can,28
+The Carpenters,29
+The Velvet Underground,29
+Boston,29
 Mountain,28
-John Denver,28
+Can,28
 George Benson,28
+John Denver,28
 The Boomtown Rats,27
-Simon & Garfunkel,27
-Bloodrock,27
-Stephen Stills,27
-The Buzzcocks,27
-Hawkwind,27
-Return To Forever,27
-Humble Pie,27
 Heart,27
+Simon & Garfunkel,27
+Stephen Stills,27
+Bloodrock,27
+Hawkwind,27
+The Buzzcocks,27
+Return To Forever,27
 The Raspberries,27
-New York Dolls,26
-Ringo Starr,26
-Ian Dury & The Blockheads,26
-America,26
-Barry White,26
-Donna Summer,26
-John Martyn,26
+Humble Pie,27
 Jimi Hendrix,26
+Ringo Starr,26
+New York Dolls,26
+America,26
+Donna Summer,26
+Ian Dury & The Blockheads,26
+John Martyn,26
+Barry White,26
 Harry Chapin,26
-The Staple Singers,25
 Foreigner,25
 AC/DC,25
 Foghat,25
-Fela Kuti,25
+The Staple Singers,25
 Rare Earth,25
 Montrose,25
 Styx,25
@@ -274,200 +274,201 @@ Gil Scott-Heron,18
 Pat Travers,18
 Marshall Tucker Band,18
 Little River Band,18
-Chuck Berry,18
-Elvin Bishop,18
 Argent,18
+Elvin Bishop,18
 David Johansen,18
-Sea Level,17
-Jackson 5,17
-The Heptones,17
-Waylon Jennings,17
-William Onyeabor,17
+Chuck Berry,18
 NEKTAR,17
+The Heptones,17
+Jackson 5,17
 Van Halen,17
 The Fall,17
+Sea Level,17
+Waylon Jennings,17
 Neil Diamond,17
-Bob Welch,17
+William Onyeabor,17
 Heatwave,17
+Bob Welch,17
 Pablo Cruise,17
-Dan Hicks & The Hot Licks,16
-Abba,16
-Kenny Loggins,16
-Brian Auger's Oblivion Express,16
 The Move,16
+Brian Auger's Oblivion Express,16
+Dan Hicks & The Hot Licks,16
+Kenny Loggins,16
+Abba,16
+King Crimson,16
 Crazy Horse,16
 The Outlaws,16
-King Crimson,16
-Gary Numan,15
-Garland Jeffreys,15
-Diana Ross,15
-The Crusaders,15
 The Chi-Lites,15
+The Crusaders,15
+Diana Ross,15
 Andy Gibb,15
 Utopia,15
 The Byrds,15
+Gary Numan,15
 Grant Green,15
 Pete Townshend,15
 Freddie King,15
+Garland Jeffreys,15
 Captain Beefheart,15
-Curved Air,15
 The Pointer Sisters,15
 Bootsy Collins,15
 Seals & Crofts,15
 Fairport Convention,15
+Curved Air,15
 Sandy Denny,14
-REO Speedwagon,14
-B. B. King,14
-Rainbow,14
 The Runaways,14
+Rainbow,14
+REO Speedwagon,14
+Quicksilver Messenger Service,14
 Syd Barrett,14
 Elvis Presley,14
 The Sensational Alex Harvey band,14
-Renaissance,14
-The Sex Pistols,14
 Joy Division,14
+Billy Preston,14
 Gregg Allman,14
+Renaissance,14
+B. B. King,14
 Dead Boys,14
-The Knack,14
 Rick James,14
-The Tubes,14
+The Sex Pistols,14
+The Knack,14
 Lonnie Liston Smith,14
 Free,14
-Billy Preston,14
-Quicksilver Messenger Service,14
-Poco,13
-Flamin' Groovies,13
+The Tubes,14
+Sex Pistols,13
 Joy Of Cooking,13
 The Blackbyrds,13
-Sex Pistols,13
+Eddie Money,13
+L.T.D.,13
+Mandrill,13
+The Souther-Hillman-Furay Band,13
 Pere Ubu,13
-Molly Hatchet,13
+Bobbi Humphrey,13
+Poco,13
+Don McLean,13
+The Undertones,13
+Gary Wright,13
+Flamin' Groovies,13
+Jesse Winchester,13
 Journey,13
 Gerry Rafferty,13
-L.T.D.,13
-Eddie Money,13
+Molly Hatchet,13
 Strawbs,13
-Jesse Winchester,13
-Gary Wright,13
-The Undertones,13
-The Souther-Hillman-Furay Band,13
-Don McLean,13
-Mandrill,13
-Bobbi Humphrey,13
-Badfinger,12
-Motorhead,12
-Hot Chocolate,12
-Armageddon,12
 The Dramatics,12
-Bobby Womack,12
+Hot Chocolate,12
+Motorhead,12
+Armageddon,12
 Kate Bush,12
+Badfinger,12
+Bobby Womack,12
 Rick Danko,12
 Camel,12
-Rickie Lee Jones,12
 Steve Winwood,12
+Rickie Lee Jones,12
 The Babys,11
-Billy Cobham,11
-Jerry Jeff Walker,11
-Manfred Mann,11
-George Duke,11
-Ray Stevens,11
-Ike & Tina Turner,11
+Johnny Nash,11
 Daryl Hall,11
 Atlanta Rhythm Section,11
-Con Funk Shun,11
-Tavares,11
+Ray Stevens,11
+George Duke,11
 Taj Mahal,11
-Johnny Nash,11
+Con Funk Shun,11
+Les Dudek,11
+Tavares,11
+Billy Cobham,11
+Manfred Mann,11
 Blackfoot,11
 Trapeze,11
-Captain & Tennille,11
-Klaatu,11
+Squeeze,11
+Jerry Jeff Walker,11
+Helen Reddy,11
 KC & The Sunshine Band,11
 Crosby & Nash,11
-Helen Reddy,11
-Squeeze,11
-"Johnny ""Guitar"" Watson",10
-Brick,10
-Eric Burdon & War,10
-Marianne Faithfull,10
-Stiff Little Fingers,10
-Gary Numan & Tubeway Army,10
-Shoes,10
+Klaatu,11
+Captain & Tennille,11
+Ike & Tina Turner,11
 Wild Cherry,10
+Gary Numan & Tubeway Army,10
+Maria Muldaur,10
+Marianne Faithfull,10
+Brick,10
 Lowell George,10
-Rose Royce,10
+Sister Sledge,10
 Frankie Valli,10
 Back Street Crawler,10
-Rupert Holmes,10
-Brass Construction,10
 The Specials,10
 Frank Marino & Mahogany Rush,10
 Rory Gallagher,10
 The Flying Burrito Brothers,10
-Sister Sledge,10
+Rose Royce,10
+"Johnny ""Guitar"" Watson",10
+Brass Construction,10
+Rupert Holmes,10
+Shoes,10
+Eric Burdon & War,10
 Jefferson Airplane,10
-Maria Muldaur,10
-Neil Sedaka,10
-Mick Ronson,10
-Olivia Newton-John,10
-Dickey Betts & Great Southern,10
-Janis Ian,10
-Dr. Hook & The Medicine Show,10
-Syl Johnson,10
-Buddy Miles,10
-Ozark Mountain Daredevils,10
-Cher,10
+Stiff Little Fingers,10
 Be Bop Deluxe,10
-Blue Oyster Cult,10
 Delaney & Bonnie & Friends,10
+Ozark Mountain Daredevils,10
+Syl Johnson,10
+Dr. Hook & The Medicine Show,10
+Neil Sedaka,10
+Dickey Betts & Great Southern,10
+Cher,10
+Blue Oyster Cult,10
+Mick Ronson,10
+Buddy Miles,10
 Bauhaus,10
 Candi Staton,10
-Townes Van Zandt,9
-20/20,9
-Barbra Streisand,9
-Four Tops,9
-Wreckless Eric,9
+Janis Ian,10
+Olivia Newton-John,10
 "Emerson, Lake & Palmer",9
-John Mayall,9
-Donald Byrd,9
 Creative Source,9
-Roy Buchanan,9
 Wilson Pickett,9
-Billy Paul,9
-Teddy Pendergrass,9
-Herbie Mann,9
-Leo Sayer,9
 The Village People,9
+Leo Sayer,9
+Wreckless Eric,9
+John Mayall,9
+Townes Van Zandt,9
 The Shirts,9
-Stray,9
-Gene Clark,9
+Roy Buchanan,9
+Herbie Mann,9
+Teddy Pendergrass,9
+Billy Paul,9
+Four Tops,9
+The American Dream,9
 The Jones Girls,9
+The Stills-Young Band,9
+Barbra Streisand,9
+20/20,9
+Gene Clark,9
+The Hollies,9
 The Honey Cone,9
-George McCrae,9
+Stray,9
+Donald Byrd,9
 Edwin Starr,9
-X-Ray Spex,9
+George McCrae,9
+Terry Reid,9
 Magazine,9
 MC5,9
-Giorgio Moroder,9
-The Jacksons,9
 Cameo,9
+The Jacksons,9
+X-Ray Spex,9
 Clarence Wheeler & The Enforcers,9
-The Hollies,9
+Giorgio Moroder,9
 Laura Nyro,9
-The American Dream,9
-The Stills-Young Band,9
-Terry Reid,9
-Spirit,8
-Orleans,8
-The Osmonds,8
 The Nitty Gritty Dirt Band,8
+Orleans,8
+Spirit,8
+The Osmonds,8
 Richard & Linda Thompson,8
 Lee Dorsey,8
 Brand X,8
 Leon Haywood,8
 B. T. Express,8
-The Melodians,8
 Cashman & West,8
+The Melodians,8
 Chairmen Of The Board,8
 Charlie,8
 Ron Wood,8
@@ -479,279 +480,278 @@ Chris Bell,8
 Max Romeo,8
 Captain Beyond,8
 England Dan & John Ford Coley,8
-David Crosby,8
-Timmy Thomas,8
-Wayne County & The Back Street Boys,8
-Idris Muhammed,8
-Echo & The Bunnymen,8
-Andrew Gold,8
-Tonio K.,8
-Dennis Wilson,8
-Focus,8
-Fabulous Poodles,8
-"Evelyn ""Champagne"" King",8
-Albert King,8
 Allen Toussaint,8
-Disco Circus,8
-Earth Wind and Fire,8
-Elizabeth Barraclaugh,8
-Jerry Butler,8
-April Wine,8
-Jesse Colin Young,8
+Wayne County & The Back Street Boys,8
 The Slits,8
-Karla Bonoff,8
-Elvis Costello & The Attractions,8
 Greg Kihn,8
+Tonio K.,8
+Andrew Gold,8
+Idris Muhammed,8
+Timmy Thomas,8
+Earth Wind and Fire,8
+Dennis Wilson,8
+Albert King,8
+Echo & The Bunnymen,8
+David Crosby,8
+Disco Circus,8
+Elizabeth Barraclaugh,8
+Elvis Costello & The Attractions,8
+Jerry Butler,8
+Jesse Colin Young,8
+Karla Bonoff,8
+"Evelyn ""Champagne"" King",8
+April Wine,8
+Fabulous Poodles,8
 Willie Hutch,8
-Gary Burton,7
-Michael Murphey,7
-Rikki Ililonga & Musi-O-Tunya,7
-Rick Derringer,7
-The Lafayette Afro Rock Band,7
-Anne Murray,7
-The Gap Band,7
-Wayne Shorter,7
+Focus,8
+Billy Brooks,7
+Tony Orlando and Dawn,7
+The Undisputed Truth,7
 The Heartbreakers,7
 Chris Squire,7
-The Undisputed Truth,7
-Jim Pepper,7
-Malo,7
-The Groundhogs,7
-Edgar Winter,7
-Geils,7
-Millie Jackson,7
-Graham Parker & The Rumor,7
-Pete Townshend & Ronnie Lane,7
-Graham Nash,7
-Billy Thorpe,7
-"Hamilton, Joe Frank & Reynolds",7
-Glen Campbell,7
-Henry Cow,7
-Sugarloaf,7
-The Partridge Family,7
-Billy Brooks,7
-Sugarhill Gang,7
-Tony Orlando and Dawn,7
-Eddie & The Hot Rods,7
-Root Boy Slim & The Sex Change Band,7
 J.D. Souther,7
-Stomu Yamashta,7
 J.J. Light,7
-David Ruffin,7
+Millie Jackson,7
+Michael Murphey,7
 Melanie,7
+The Gap Band,7
+The Groundhogs,7
+Anne Murray,7
 Burning Spear,7
-The Selecter,7
-Starz,7
+Henry Cow,7
+"Hamilton, Joe Frank & Reynolds",7
 Bobby Hutcherson,7
 Wishbone Ash,7
-Jonathan Richman And The Modern Lovers,7
-Loretta Lynn,7
-Banbarra,7
-The Raincoats,7
-The Intruders,7
-Aztec Two-Step,7
+Starz,7
 Willie Alexander And The Boom Boom Band,7
+Root Boy Slim & The Sex Change Band,7
+Wayne Shorter,7
+Rikki Ililonga & Musi-O-Tunya,7
+Gary Burton,7
+Rick Derringer,7
+Geils,7
+Stomu Yamashta,7
+Edgar Winter,7
+Eddie & The Hot Rods,7
+Sugarhill Gang,7
+Sugarloaf,7
+Glen Campbell,7
+Graham Nash,7
+Graham Parker & The Rumor,7
+Malo,7
+Pete Townshend & Ronnie Lane,7
+Billy Thorpe,7
+Jim Pepper,7
+The Partridge Family,7
+The Lafayette Afro Rock Band,7
+The Intruders,7
+Jonathan Richman And The Modern Lovers,7
+The Raincoats,7
+Loretta Lynn,7
 Dan Fogelberg & Tim Weisberg,7
+Banbarra,7
 The Main Ingredient,7
-Crack The Sky,6
-The Inmates,6
-Off Broadway,6
-B.J. Thomas,6
-Howlin' Wolf,6
-National Lampoon,6
-Night,6
-Johnnie Taylor,6
-"Faith, Hope & Charity",6
-Nick Gilder,6
-Randy California,6
+David Ruffin,7
+The Selecter,7
+Aztec Two-Step,7
 Dixie Dregs,6
-Brother Soul,6
-Pacific Gas & Electric,6
-Automatic Man,6
-Golden Earring,6
-Ten Years After,6
-Kate & Anna McGarrigle,6
-CHIP TAYLOR,6
-Smokey Robinson,6
-Poobah,6
-Syreeta,6
-Dyke & The Blazers,6
-KC and the Sunshine Band,6
-Prince,6
-Ben E. King,6
+Off Broadway,6
+Edgar Winter's White Trash,6
+Stevie Wright,6
+Howlin' Wolf,6
+Nick Gilder,6
+Night,6
+Crack The Sky,6
 Prism,6
-Paul Ray & The Cobras (feat. Stevie Ray Vaughan),6
+The Three Degrees,6
+National Lampoon,6
+William DeVaughn,6
+Love Sculpture,6
+Ronnie Laws,6
+Bobby Bloom,6
+Stone The Crows,6
+Tuff Darts,6
+Pacific Gas & Electric,6
+Pat Benatar,6
+Golden Earring,6
+Dyke & The Blazers,6
+Syreeta,6
+Poobah,6
 Goblin,6
 Sweathog,6
-Silver Convention,6
-Twink & The Fairies,6
-Tuff Darts,6
-Pat Benatar,6
-Bette Midler,6
-Madness,6
-Stone The Crows,6
-The Three Degrees,6
-Michael Viner's Incredible Bongo Band,6
-Delaney & Bonnie,6
-Luther,6
-Stevie Wright,6
-Bread,6
-Dead Kennedys,6
-James White And The Blacks,6
-Luther Grovesnor,6
-Chelsea,6
-Love Sculpture,6
-Lucinda Williams,6
 Dr. Feelgood,6
-The Trammps,6
-McFadden & Whitehead,6
-Bay City Rollers,6
+Ten Years After,6
+CHIP TAYLOR,6
+The Soul Children,6
+B.J. Thomas,6
+Randy California,6
+Paul Ray & The Cobras (feat. Stevie Ray Vaughan),6
+Brother Soul,6
+Johnnie Taylor,6
+Twink & The Fairies,6
+Bread,6
+Automatic Man,6
+Brian Auger & Julie Tippetts,6
 Roy Ayers,6
 The Dickies,6
-Jerry Garcia Band,6
-Bobby Bloom,6
-Mac Davis,6
-Tim Buckley,6
-David Gilmour,6
-Ronnie Laws,6
-William DeVaughn,6
-The Soul Children,6
-Edgar Winter's White Trash,6
+Michael Viner's Incredible Bongo Band,6
+Delaney & Bonnie,6
+Luther Grovesnor,6
+James White And The Blacks,6
+KC and the Sunshine Band,6
 Lyn Collins,6
-Brian Auger & Julie Tippetts,6
-Wet Willie,5
-Bunny Sigler,5
-Swamp Dogg,5
-Elf,5
-Rocky Horror Picture Show Cast,5
-Wizzard,5
-Frederick Knight,5
-Taste (featuring Rory Gallagher),5
-Fotheringay,5
-Brinsley Schwarz,5
-Van McCoy,5
-Bootsy's Rubber Band,5
-Edgar Winter Group,5
-Samantha Sang,5
-Stackridge,5
-Reunion,5
-Five Man Electrical Band,5
-Redbone,5
-Sad Cafe,5
-Spooky Tooth,5
-Bobby Caldwell,5
-Willie Dixon,5
-Robert John,5
-Brownsville Station,5
-Albert Hammond,5
+"Faith, Hope & Charity",6
+McFadden & Whitehead,6
+Dead Kennedys,6
+David Gilmour,6
+Mac Davis,6
+Kate & Anna McGarrigle,6
+The Inmates,6
+Madness,6
+Jerry Garcia Band,6
+Silver Convention,6
+Smokey Robinson,6
+Bay City Rollers,6
+Prince,6
+Lucinda Williams,6
+The Trammps,6
+Bette Midler,6
+Ben E. King,6
+Luther,6
+Chelsea,6
+Tim Buckley,6
 Ralph McTell,5
-Bobby Charles,5
-Soul Survivors,5
+Cornelious Brothers & Sister Rose,5
 Radio Birdman,5
-Bob James,5
+Cymande,5
+Rocky Horror Picture Show Cast,5
+Soul Survivors,5
+The Pretty Things,5
+Lighthouse,5
+Swamp Dogg,5
 Sun Ra,5
+Van McCoy,5
+Albert Hammond,5
+Elf,5
+The Paley Brothers,5
+Bunny Sigler,5
 Sid Vicious,5
+The Records,5
+Wizzard,5
+Bobby Charles,5
+Jools Holland,5
+Brinsley Schwarz,5
+Brownsville Station,5
+Bobby Caldwell,5
+The Roches,5
+Leo Kottke,5
+Sad Cafe,5
+Axis,5
+Willie Dixon,5
+Bob James,5
+Samantha Sang,5
+Edgar Winter Group,5
+Stackridge,5
+Robert John,5
+Reunion,5
+Fotheringay,5
+Frederick Knight,5
+Five Man Electrical Band,5
+Spooky Tooth,5
+The Residents,5
+Redbone,5
+Coven,5
+Bootsy's Rubber Band,5
+Wet Willie,5
 Genya Raven,5
-Nite-Liters,5
-Alex Chilton,5
-McCoy Tyner,5
-Jimmy Castor Bunch,5
 Major Harris,5
-Manu Dibango,5
-Jerry Reed,5
-Mark-Almond,5
-Jean-Luc Ponty,5
+The Buggles,5
 The Emotions,5
-Love Unlimited,5
-U.K.,5
+McCoy Tyner,5
+David Bromberg Band,5
+Trooper,5
+Norman Greenbaum,5
+Nite-Liters,5
+Nine Nine Nine,5
+Althea & Donna,5
+Lou Donaldson,5
+Carole Bayer Sager,5
+Amon Duul II,5
+Bill Bruford,5
+Head East,5
+Barbra Streisand/Donna Summer,5
 Third World,5
 Jaco Pastorius,5
 Mike Oldfield,5
 Anita Ward,5
-Tim Curry,5
-The JB's,5
-Lou Donaldson,5
-"Muddy Waters, Johnny Winter & James Cotton",5
-The Roches,5
-The Paley Brothers,5
-Axis,5
-The Pretty Things,5
-The Records,5
-The Residents,5
-Jools Holland,5
-Leo Kottke,5
-David Bromberg Band,5
-Cymande,5
-Coven,5
-Cornelious Brothers & Sister Rose,5
-Les Dudek,5
-Lighthouse,5
-Ashford & Simpson,5
-Charlie Rich,5
-Barbra Streisand/Donna Summer,5
-Althea & Donna,5
-Gruppo Sportivo,5
-Paper Lace,5
-Head East,5
 Iggy Pop & James Williamson,5
+"Muddy Waters, Johnny Winter & James Cotton",5
+Love Unlimited,5
+Charlie Rich,5
+Tim Curry,5
 Dobie Gray,5
-Trooper,5
 O.V. Wright,5
-Norman Greenbaum,5
-Donny Hathaway & Roberta Flack,5
-Nine Nine Nine,5
-Paul Revere & The Raiders,5
-Paul & Linda McCartney,5
-Carole Bayer Sager,5
-Dolly Parton,5
-Grin,5
-Amon Duul II,5
-The A's,5
+Paper Lace,5
+Gruppo Sportivo,5
+Manu Dibango,5
+Taste (featuring Rory Gallagher),5
+Alex Chilton,5
+Jimmy Castor Bunch,5
+U.K.,5
+Jerry Reed,5
 Eric Andersen,5
-The Buggles,5
-Bill Bruford,5
+Grin,5
+Mark-Almond,5
+The A's,5
 Pentangle,5
-The Motors,4
-The Stampeders,4
-The Sinceros,4
-The Manhattans,4
+Dolly Parton,5
+The JB's,5
+Donny Hathaway & Roberta Flack,5
+Ashford & Simpson,5
+Paul Revere & The Raiders,5
+Jean-Luc Ponty,5
+Paul & Linda McCartney,5
 The Persuaders,4
-Bloodstone,4
-The 101ers,4
-The Members,4
-The New Seekers,4
-U.F.O.,4
-Blue Magic,4
-Tyrone Davis,4
-The Atlantics,4
-Spinal Tap,4
-ACE,4
-The Charlie Daniels Band,4
-Bang,4
-Starland Vocal Band,4
-Suzi Quatro,4
-Andy Kim,4
-Stories,4
 Bellamy Brothers,4
 The Cure,4
-Sugar Billy,4
-Betty Wright,4
+Starland Vocal Band,4
+Spinal Tap,4
+The Five Stairsteps,4
+Bang,4
+The Hello People,4
 The Dictators,4
+The Impressions,4
+ACE,4
+The Four Seasons,4
+The Headboys,4
+Thelma Houston,4
+The Manhattans,4
+The New Seekers,4
+The Charlie Daniels Band,4
+Bloodstone,4
+Suzi Quatro,4
+The Members,4
+The Sinceros,4
+U.F.O.,4
+The Stampeders,4
+The Atlantics,4
+Tyrone Davis,4
+Sugar Billy,4
+Stories,4
+The People's Choice,4
+The Motors,4
 Waylon Jennings & Willie Nelson,4
 Bo Donaldson & The Heywoods,4
 Toto,4
-Thelma Houston,4
-The Five Stairsteps,4
-The Four Seasons,4
+Blue Magic,4
 Steve Harley & Cockney Rebel,4
-The Headboys,4
-The Hello People,4
-William Bell,4
-The Impressions,4
-"Bobby ""Blue"" Bland",4
-Arlo Guthrie,4
 The Jags,4
-The People's Choice,4
+Arlo Guthrie,4
+William Bell,4
+Betty Wright,4
+"Bobby ""Blue"" Bland",4
+Andy Kim,4
+The 101ers,4
 Phil Manzanera,4
 Long John Baldry,4
 Clint Holmes,4
