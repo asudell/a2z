@@ -1,8 +1,17 @@
-# Analysis of XPN's A to Z Playlist
+# Analysis of XPN's A to Z Playlists
 
+## Notebooks
+
+ - My origional [A-Z notebook](AtoZ.ipynb) 
+ - A quick look at [Word Splitting](Word Splitting.ipynb)
+ - Numbers and parentheticals that were [Leftovers](Leftovers.ipynb)
+ - My [70s A-Z notebook](70sA2Z.ipynb)
+ - The ongoing, at this writing, [80s A-Z notebook](80sA2Z.ipynb)
+
+## Back Story
 In December of 2016, [WXPN](http://xpn.org)
 did a multi-week alphabetical play list
-called [A to Z](http://xpn.org/music-artist/xpn-a-z).
+called [A to Z](http://xpn.org/music-artist/885-countdown/2016/xpn-a-z).
 For a bit of background on the playlist, see
 [All about the XPN A to Z](http://thekey.xpn.org/2016/11/30/the-xpn-a-to-z/).
 Early discussions about ordering,
@@ -55,4 +64,12 @@ with all the non-alphabetical titles that were skipped before.
 I've got some evolving data on that in the
 [Leftovers notebook](https://nbviewer.jupyter.org/github/asudell/a2z/blob/master/Leftovers.ipynb).
 
+Since then there have been two more A-Z playlists.
+Last Year there was a [XPN 70s A-Z](http://xpn.org/music-artist/885-countdown/2017/xpn-a-z) that was all 70s music.
+And this year we went to the 80s with
+[XPN 80s A-Z](http://www.xpn.org/music-artist/xpn-a-z).
+I did noteboos for them as well:
+[70's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/70sA2Z.ipynb)
+and
+[80's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/80sA2Z.ipynb)
 
