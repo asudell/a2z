@@ -3,7 +3,7 @@
 ## Notebooks
 
  - My origional [A-Z notebook](AtoZ.ipynb) 
- - A quick look at [Word Splitting](Word+Splitting.ipynb)
+ - A quick look at [Word Splitting](Word%20Splitting.ipynb)
  - Numbers and parentheticals that were [Leftovers](Leftovers.ipynb)
  - My [70s A-Z notebook](70sA2Z.ipynb)
  - The ongoing, at this writing, [80s A-Z notebook](80sA2Z.ipynb)
