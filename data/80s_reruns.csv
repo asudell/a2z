@@ -492,7 +492,7 @@ The Police,One World,2018-12-04 18:05:00,O,One,6,1981,2016-12-10 07:36:00,O,5
 The Smithereens,Only A Memory,2018-12-04 18:19:00,O,Only,3,1988,2016-12-10 07:41:00,O,5
 Yaz,Only You,2018-12-04 18:37:00,O,Only,1,0,2016-12-10 08:04:00,O,4
 Yaz,Only You,2018-12-04 18:38:00,O,Only,3,0,2016-12-10 08:04:00,O,4
-R. E. M.,Orange Crush,2018-12-04 19:04:00,O,Orange,5,0,2016-12-10 08:57:00,O,4
+R. E. M.,Orange Crush,2018-12-04 19:04:00,O,Orange,5,1988,2016-12-10 08:57:00,O,4
 Enya,Orinocco Flow,2018-12-04 19:09:00,O,Orinocco,4,0,2016-12-10 09:24:00,O,5
 Bruce Springsteen,Out In The Street,2018-12-04 19:44:00,O,Out,7,1980,2016-12-10 09:53:00,O,5
 Yes,Owner Of A Lonely Heart,2018-12-04 20:20:00,O,Owner,4,0,2016-12-10 10:53:00,O,4
@@ -515,11 +515,11 @@ Bruce Springsteen,Point Blank,2018-12-05 02:02:00,P,Point,6,1980,2016-12-10 19:0
 ABC,Poison Arrow,2018-12-05 02:12:00,P,Poison,6,1982,2016-12-10 19:15:00,P,5
 The Clash,Police On My Back,2018-12-05 02:18:00,P,Police,3,1980,2016-12-10 19:33:00,P,4
 Prince & The Revolution,Pop Life,2018-12-05 02:34:00,P,Pop,4,1985,2016-12-10 20:03:00,P,4
-R. E. M.,Pop Song 89,2018-12-05 02:38:00,P,Pop,4,0,2016-12-10 20:11:00,P,3
+R. E. M.,Pop Song 89,2018-12-05 02:38:00,P,Pop,4,1988,2016-12-10 20:11:00,P,3
 Midnight Oil,Power And Passion,2018-12-05 03:00:00,P,Power,6,0,2016-12-10 20:52:00,P,7
 Eric Clapton,Pretending,2018-12-05 03:42:00,P,Pretending,5,1989,2016-12-10 21:21:00,P,4
 Psychedelic Furs,Pretty In Pink,2018-12-05 03:52:00,P,Pretty,4,1981,2016-12-10 21:36:00,P,6
-R. E. M.,Pretty Persuasion,2018-12-05 03:56:00,P,Pretty,4,0,2016-12-10 21:49:00,P,6
+R. E. M.,Pretty Persuasion,2018-12-05 03:56:00,P,Pretty,4,1984,2016-12-10 21:49:00,P,6
 Stevie Ray Vaughan,Pride And Joy,2018-12-05 04:04:00,P,Pride,4,1986,2016-12-10 22:12:00,P,5
 B-52's,Private Idaho,2018-12-05 04:32:00,P,Private,4,1980,2016-12-10 22:36:00,P,3
 The Pretenders,Private Life,2018-12-05 04:49:00,P,Private,6,0,2016-12-10 22:39:00,P,8
@@ -532,7 +532,7 @@ M/A/R/R/S,Pump Up The Volume,2018-12-05 05:52:00,P,Pump,4,1987,2016-12-10 23:29:
 Dead Milkmen,Punk Rock Girl,2018-12-05 05:56:00,P,Punk,3,1988,2016-12-10 23:33:00,P,4
 Prince,Purple Rain,2018-12-05 05:59:00,P,Purple,9,1989,2016-12-10 23:51:00,P,9
 Garland Jeffreys,R.o.c.k.,2018-12-05 06:56:00,R,R,4,1981,2016-12-11 00:52:00,R,4
-R. E. M.,Radio Free Europe,2018-12-05 07:08:00,R,Radio,5,0,2016-12-11 01:17:00,R,4
+R. E. M.,Radio Free Europe,2018-12-05 07:08:00,R,Radio,5,1981,2016-12-11 01:17:00,R,4
 Queen,Radio Ga Ga,2018-12-05 07:13:00,R,Radio,6,1984,2016-12-11 01:21:00,R,5
 Tom Waits,Rain Dogs,2018-12-05 07:53:00,R,Rain,3,1985,2016-12-11 01:58:00,R,4
 John Mellencamp,Rain On The Scarecrow,2018-12-05 08:01:00,R,Rain,4,0,2016-12-11 02:12:00,R,4
@@ -621,7 +621,7 @@ Steve Winwood,Spanish Dancer,2018-12-06 12:31:00,S,Spanish,5,1980,2016-12-12 22:
 The Police,Spirits In The Material World,2018-12-06 13:13:00,S,Spirits,4,1981,2016-12-12 23:23:00,S,3
 Black Uhuru,Sponji Reggae,2018-12-06 13:22:00,S,Sponji,4,1981,2016-12-12 23:38:00,S,5
 Teena Marie,Square Biz,2018-12-06 13:36:00,S,Square,8,1981,2016-12-12 23:43:00,S,7
-R. E. M.,Stand,2018-12-06 13:51:00,S,Stand,5,0,2016-12-13 00:21:00,S,3
+R. E. M.,Stand,2018-12-06 13:51:00,S,Stand,5,1988,2016-12-13 00:21:00,S,3
 Rick James and The Temptations,Standing On The Top,2018-12-06 14:08:00,S,Standing,12,0,2016-12-13 00:40:00,S,10
 The Rolling Stones,Start Me Up,2018-12-06 14:40:00,S,Start,3,1989,2016-12-13 01:20:00,S,3
 The Blue Nile,Stay,2018-12-06 15:04:00,S,Stay,7,1984,2016-12-13 02:01:00,S,4
@@ -637,7 +637,7 @@ U2,"Sunday, Bloody Sunday",2018-12-06 18:54:00,S,Sunday,6,1983,2016-12-13 10:40:
 Don Henley,Sunset Grill,2018-12-06 19:04:00,S,Sunset,6,1984,2016-12-13 11:01:00,S,6
 Bob Mould,Sunspots,2018-12-06 19:10:00,S,Sunspots,2,1989,2016-12-13 11:16:00,S,2
 Rick James,Super Freak,2018-12-06 19:12:00,S,Super,5,1981,2016-12-13 11:30:00,S,4
-R. E. M.,Superman,2018-12-06 19:21:00,S,Superman,2,0,2016-12-13 11:39:00,S,2
+R. E. M.,Superman,2018-12-06 19:21:00,S,Superman,2,1986,2016-12-13 11:39:00,S,2
 Phil Collins,Sussudio,2018-12-06 19:45:00,S,Sussudio,5,1985,2016-12-13 13:11:00,S,5
 Talking Heads,Swamp,2018-12-06 19:55:00,S,Swamp,5,1983,2016-12-13 13:21:00,S,5
 Eurythmics,Sweet Dreams (Are Made Of This),2018-12-06 20:20:00,S,Sweet,3,0,2016-12-13 13:39:00,S,4
@@ -646,4 +646,13 @@ The Kings,Switchin' To Glide / This Beat Goes On,2018-12-06 21:00:00,S,Switchin'
 The Police,Synchronicity II,2018-12-06 21:16:00,S,Synchronicity,5,1983,2016-12-13 15:21:00,S,5
 Soft Cell,Tainted Love,2018-12-06 21:30:00,T,Tainted,2,0,2016-12-13 15:36:00,T,2
 Keith Richards,Take It So Hard,2018-12-06 21:51:00,T,Take,3,1988,2016-12-13 16:20:00,T,3
-Talking Heads,Take Me To The River,2018-12-06 21:54:00,T,Take,0,1981,2016-12-13 17:07:00,T,9
+Talking Heads,Take Me To The River,2018-12-06 21:54:00,T,Take,5,1981,2016-12-13 17:07:00,T,9
+Prince & The Revolution,Take Me With U,2018-12-06 21:59:00,T,Take,4,1984,2016-12-13 17:16:00,T,4
+a-ha,Take On Me,2018-12-06 22:07:00,T,Take,6,1985,2016-12-13 17:30:00,T,4
+Camper Van Beethoven,Take The Skinheads Bowling,2018-12-06 22:17:00,T,Take,3,1985,2016-12-13 17:53:00,T,3
+R. E. M.,Talk About the Passion,2018-12-06 22:40:00,T,Talk,4,1981,2016-12-13 18:14:00,T,3
+The Pretenders,Talk Of The Town,2018-12-06 22:48:00,T,Talk,2,1980,2016-12-13 18:20:00,T,3
+Talk Talk,Talk Talk,2018-12-06 22:50:00,T,Talk,4,1982,2016-12-13 18:23:00,T,3
+Tracy Chapman,Talkin' Bout A Revolution,2018-12-06 23:10:00,T,Talkin',3,1988,2016-12-13 18:30:00,T,3
+Steve Winwood,Talking Back To The Night,2018-12-06 23:13:00,T,Talking,5,1981,2016-12-13 18:36:00,T,8
+Rockpile,"Teacher, Teacher",2018-12-07 00:00:00,T,Teacher,2,1980,2016-12-13 19:27:00,T,3
