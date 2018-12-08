@@ -490,12 +490,13 @@ The Fixx,One Thing Leads To Another,2018-12-04 17:52:00,O,One,3,1987,2016-12-10 
 Los Lobos,"One Time, One Night",2018-12-04 17:55:00,O,One,5,1987,2016-12-10 07:11:00,O,5
 The Police,One World,2018-12-04 18:05:00,O,One,6,1981,2016-12-10 07:36:00,O,5
 The Smithereens,Only A Memory,2018-12-04 18:19:00,O,Only,3,1988,2016-12-10 07:41:00,O,5
-Yaz,Only You,2018-12-04 18:37:00,O,Only,1,0,2016-12-10 08:04:00,O,4
-Yaz,Only You,2018-12-04 18:38:00,O,Only,3,0,2016-12-10 08:04:00,O,4
+Yaz,Only You,2018-12-04 18:37:00,O,Only,1,1982,2016-12-10 08:04:00,O,4
+Yaz,Only You,2018-12-04 18:38:00,O,Only,3,1982,2016-12-10 08:04:00,O,4
 R. E. M.,Orange Crush,2018-12-04 19:04:00,O,Orange,5,1988,2016-12-10 08:57:00,O,4
-Enya,Orinocco Flow,2018-12-04 19:09:00,O,Orinocco,4,0,2016-12-10 09:24:00,O,5
+Enya,Orinocco Flow,2018-12-04 19:09:00,O,Orinocco,4,1988,2016-12-10 09:24:00,O,5
+Madness,Our House,2018-12-04 19:30:00,O,Our,9,1982,2016-12-10 09:42:00,O,5
 Bruce Springsteen,Out In The Street,2018-12-04 19:44:00,O,Out,7,1980,2016-12-10 09:53:00,O,5
-Yes,Owner Of A Lonely Heart,2018-12-04 20:20:00,O,Owner,4,0,2016-12-10 10:53:00,O,4
+Yes,Owner Of A Lonely Heart,2018-12-04 20:20:00,O,Owner,4,1983,2016-12-10 10:53:00,O,4
 James McMurtry,Painting By Numbers,2018-12-04 20:37:00,P,Painting,6,1989,2016-12-10 11:19:00,P,5
 Tears For Fears,Pale Shelter,2018-12-04 20:48:00,P,Pale,4,1983,2016-12-10 11:24:00,P,6
 The Smiths,Panic,2018-12-04 21:09:00,P,Panic,2,1986,2016-12-10 11:33:00,P,2
@@ -509,25 +510,25 @@ Lloyd Cole & The Commotions,Perfect Skin,2018-12-04 23:31:00,P,Perfect,3,1984,20
 Camper Van Beethoven,Photograph,2018-12-05 00:04:00,P,Photograph,4,1987,2016-12-10 16:30:00,P,3
 Camper Van Beethoven,Pictures Of Matchstick Men,2018-12-05 00:28:00,P,Pictures,5,1989,2016-12-10 17:00:00,P,3
 The Cure,Pictures Of You,2018-12-05 00:33:00,P,Pictures,7,1989,2016-12-10 17:08:00,P,3
-Afrika Bambaata & Soul Sonic Force,Planet Rock,2018-12-05 01:17:00,P,Planet,8,0,2016-12-10 17:55:00,P,0
+Afrika Bambaata & Soul Sonic Force,Planet Rock,2018-12-05 01:17:00,P,Planet,8,1986,2016-12-10 17:55:00,P,0
 Rockpile,Play That Fast Thing One More Time,2018-12-05 01:35:00,P,Play,4,1980,2016-12-10 18:08:00,P,5
 Bruce Springsteen,Point Blank,2018-12-05 02:02:00,P,Point,6,1980,2016-12-10 19:04:00,P,8
 ABC,Poison Arrow,2018-12-05 02:12:00,P,Poison,6,1982,2016-12-10 19:15:00,P,5
 The Clash,Police On My Back,2018-12-05 02:18:00,P,Police,3,1980,2016-12-10 19:33:00,P,4
 Prince & The Revolution,Pop Life,2018-12-05 02:34:00,P,Pop,4,1985,2016-12-10 20:03:00,P,4
 R. E. M.,Pop Song 89,2018-12-05 02:38:00,P,Pop,4,1988,2016-12-10 20:11:00,P,3
-Midnight Oil,Power And Passion,2018-12-05 03:00:00,P,Power,6,0,2016-12-10 20:52:00,P,7
+Midnight Oil,Power And Passion,2018-12-05 03:00:00,P,Power,6,1982,2016-12-10 20:52:00,P,7
 Eric Clapton,Pretending,2018-12-05 03:42:00,P,Pretending,5,1989,2016-12-10 21:21:00,P,4
 Psychedelic Furs,Pretty In Pink,2018-12-05 03:52:00,P,Pretty,4,1981,2016-12-10 21:36:00,P,6
 R. E. M.,Pretty Persuasion,2018-12-05 03:56:00,P,Pretty,4,1984,2016-12-10 21:49:00,P,6
 Stevie Ray Vaughan,Pride And Joy,2018-12-05 04:04:00,P,Pride,4,1986,2016-12-10 22:12:00,P,5
 B-52's,Private Idaho,2018-12-05 04:32:00,P,Private,4,1980,2016-12-10 22:36:00,P,3
-The Pretenders,Private Life,2018-12-05 04:49:00,P,Private,6,0,2016-12-10 22:39:00,P,8
+The Pretenders,Private Life,2018-12-05 04:49:00,P,Private,6,1980,2016-12-10 22:39:00,P,8
 World Party,Private Revolution,2018-12-05 05:01:00,P,Private,4,1986,2016-12-10 22:47:00,P,4
 Simple Minds,Promised You A Miracle,2018-12-05 05:15:00,P,Promised,4,1982,2016-12-10 22:51:00,P,4
 Naked Eyes,Promises Promises,2018-12-05 05:19:00,P,Promises,3,1983,2016-12-10 22:55:00,P,4
 Grace Jones,Pull Up To The Bumper,2018-12-05 05:38:00,P,Pull,4,1981,2016-12-10 23:18:00,P,4
-Squeeze,Pulling Mussels From A Shell,2018-12-05 05:42:00,P,Pulling,4,0,2016-12-10 23:22:00,P,4
+Squeeze,Pulling Mussels From A Shell,2018-12-05 05:42:00,P,Pulling,4,1980,2016-12-10 23:22:00,P,4
 M/A/R/R/S,Pump Up The Volume,2018-12-05 05:52:00,P,Pump,4,1987,2016-12-10 23:29:00,P,4
 Dead Milkmen,Punk Rock Girl,2018-12-05 05:56:00,P,Punk,3,1988,2016-12-10 23:33:00,P,4
 Prince,Purple Rain,2018-12-05 05:59:00,P,Purple,9,1989,2016-12-10 23:51:00,P,9
@@ -719,4 +720,62 @@ Michael Penn,This And That,2018-12-07 20:14:00,T,This,4,1989,2016-12-14 22:14:00
 The Smiths,This Charming Man,2018-12-07 20:22:00,T,This,3,1983,2016-12-14 22:17:00,T,3
 Public Image Ltd.,This Is Not A Love Song,2018-12-07 20:40:00,T,This,5,1983,2016-12-14 22:36:00,T,5
 Pat Metheny & David Bowie,This Is Not America,2018-12-07 20:46:00,T,This,6,0,2016-12-14 22:41:00,T,4
-Talking Heads,This Must Be The Place (Naive Melody),2018-12-07 21:13:00,T,This,0,1983,2016-12-14 23:01:00,T,5
+Talking Heads,This Must Be The Place (Naive Melody),2018-12-07 21:13:00,T,This,5,1983,2016-12-14 23:01:00,T,5
+Lyle Lovett,This Old Porch,2018-12-07 21:20:00,T,This,7,1986,2016-12-14 23:14:00,T,4
+King Crimson,Three Of A Perfect Pair,2018-12-07 21:42:00,T,Three,4,1984,2016-12-15 00:03:00,T,4
+Michael Jackson,Thriller,2018-12-07 21:46:00,T,Thriller,7,1982,2016-12-15 00:07:00,T,8
+Stevie Ray Vaughan,Tight Rope,2018-12-07 22:19:00,T,Tight,4,0,2016-12-15 00:38:00,T,5
+Todd Rundgren,Time Heals,2018-12-07 23:01:00,T,Time,4,1981,2016-12-15 01:31:00,T,4
+The Pretenders,Time The Avenger,2018-12-07 23:09:00,T,Time,5,1984,2016-12-15 02:09:00,T,5
+The Blue Nile,Tinseltown In The Rain,2018-12-07 23:21:00,T,Tinseltown,7,1984,2016-12-15 02:37:00,T,6
+Ziggy Marley,Tomorrow People,2018-12-08 00:00:00,T,Tomorrow,4,0,2016-12-15 03:47:00,T,5
+Suzanne Vega,Tom's Diner,2018-12-08 00:04:00,T,Tom's,2,1987,2016-12-15 03:52:00,T,3
+The Police,Too Much Information,2018-12-08 00:56:00,T,Too,4,1981,2016-12-15 04:35:00,T,5
+Kajagoogoo,Too Shy,2018-12-08 01:00:00,T,Too,4,0,2016-12-15 05:00:00,T,3
+The Selecter,Too Much Pressure,2018-12-08 01:04:00,T,Too,4,1980,2016-12-15 04:40:00,T,3
+Van Morrison,Tore Down A La Rimbaud,2018-12-08 01:15:00,T,Tore,4,1984,2016-12-15 05:10:00,T,4
+Grateful Dead,Touch Of Grey,2018-12-08 01:43:00,T,Touch,7,1987,2016-12-15 05:22:00,T,6
+Bruce Springsteen,Tougher Than The Rest,2018-12-08 01:50:00,T,Tougher,4,1987,2016-12-15 05:32:00,T,5
+XTC,Towers Of London,2018-12-08 02:00:00,T,Towers,5,1980,2016-12-15 05:37:00,T,5
+Paul Simon,Train In The Distance,2018-12-08 02:07:00,T,Train,6,1983,2016-12-15 06:16:00,T,9
+U2,Trip Through Your Wires,2018-12-08 02:55:00,T,Trip,3,1987,2016-12-15 07:53:00,T,4
+Lindsey Buckingham,Trouble,2018-12-08 02:58:00,T,Trouble,4,1981,2016-12-15 08:16:00,T,7
+"10,000 Maniacs",Trouble Me,2018-12-08 03:06:00,T,Trouble,4,1989,2016-12-15 08:46:00,T,5
+Spandau Ballet,True,2018-12-08 03:10:00,T,True,6,1989,2016-12-15 09:08:00,T,6
+The Fabulous Thunderbirds,Tuff Enuff,2018-12-08 03:39:00,T,Tuff,3,1987,2016-12-15 10:48:00,T,3
+Ziggy Marley,Tumblin' Down,2018-12-08 03:51:00,T,Tumblin',4,1988,2016-12-15 10:56:00,T,5
+Bruce Springsteen,Tunnel Of Love,2018-12-08 03:55:00,T,Tunnel,5,1987,2016-12-15 11:07:00,T,6
+Dire Straits,Tunnel Of Love,2018-12-08 04:00:00,T,Tunnel,8,1980,2016-12-15 11:13:00,T,8
+Genesis,Turn It On Again,2018-12-08 04:15:00,T,Turn,5,0,2016-12-15 11:38:00,T,4
+Traveling Wilburys,Tweeter and The Monkey Man,2018-12-08 04:33:00,T,Tweeter,6,1988,2016-12-15 12:29:00,T,5
+The English Beat,Twist & Crawl,2018-12-08 04:48:00,T,Twist,4,0,2016-12-15 12:43:00,T,3
+Tanita Tikaram,Twist In My Sobriety,2018-12-08 04:52:00,T,Twist,4,1988,2016-12-15 12:54:00,T,5
+Dire Straits,Twisting By The Pool,2018-12-08 04:56:00,T,Twisting,4,1982,2016-12-15 13:02:00,T,4
+Bruce Springsteen,Two Hearts,2018-12-08 05:04:00,T,Two,2,1980,2016-12-15 13:20:00,T,4
+U2,Two Hearts Beat As One,2018-12-08 05:06:00,T,Two,4,1983,2016-12-15 13:24:00,T,4
+Frankie Goes To Hollywood,Two Tribes,2018-12-08 05:24:00,T,Two,3,1985,2016-12-15 13:56:00,T,4
+The The,Uncertain Smile,2018-12-08 05:38:00,U,Uncertain,6,1982,2016-12-15 14:35:00,U,8
+Paul Simon,Under African Skies,2018-12-08 05:53:00,U,Under,3,1986,2016-12-15 14:56:00,U,4
+David Bowie & Queen,Under Pressure,2018-12-08 06:01:00,U,Under,5,0,2016-12-15 15:04:00,U,4
+The Church,Under The Milky Way,2018-12-08 06:15:00,U,Under,5,1985,2016-12-15 15:21:00,U,4
+Neil Young,Union Man,2018-12-08 06:30:00,U,Union,3,1980,2016-12-15 15:44:00,U,2
+Meat Puppets,Up On The Sun,2018-12-08 07:06:00,U,Up,5,1985,2016-12-15 16:35:00,U,6
+Diana Ross,Upside Down,2018-12-08 07:24:00,U,Upside,4,1987,2016-12-15 16:56:00,U,4
+Billy Joel,Uptown Girl,2018-12-08 07:37:00,U,Uptown,4,1983,2016-12-15 17:07:00,U,6
+Richard Thompson,Valerie,2018-12-08 08:12:00,V,Valerie,5,1986,2016-12-15 18:16:00,V,4
+Steve Winwood,Valerie,2018-12-08 08:17:00,V,Valerie,4,1982,2016-12-15 18:20:00,V,6
+Frank Zappa,Valley Girl,2018-12-08 08:21:00,V,Valley,7,1982,2016-12-15 18:28:00,V,5
+The Buggles,Video Killed The Radio Star,2018-12-08 08:51:00,V,Video,5,0,2016-12-15 19:46:00,V,5
+Ultravox,Vienna,2018-12-08 08:56:00,V,Vienna,5,1983,2016-12-15 19:51:00,V,4
+'Til Tuesday,Voices Carry,2018-12-08 09:25:00,V,Voices,4,1985,2016-12-15 20:32:00,V,4
+The Rolling Stones,Waiting On A Friend,2018-12-08 10:08:00,W,Waiting,6,1981,2016-12-15 22:11:00,W,4
+Fugazi,Waiting Room,2018-12-08 10:14:00,W,Waiting,3,1988,2016-12-15 22:19:00,W,3
+The Replacements,Waitress In The Sky,2018-12-08 10:17:00,W,Waitress,2,1985,2016-12-15 22:22:00,W,2
+Toni Childs,Walk And Talk Like An Angel,2018-12-08 10:33:00,W,Walk,7,0,2016-12-15 22:53:00,W,6
+Indigo Girls,Walk Away,2018-12-08 10:40:00,W,Walk,6,1987,2016-12-15 22:59:00,W,6
+Donald Fagen,Walk Between The Raindrops,2018-12-08 10:46:00,W,Walk,2,0,2016-12-15 23:21:00,W,2
+Bangles,Walk Like An Egyptian,2018-12-08 10:53:00,W,Walk,3,1982,2016-12-15 23:34:00,W,4
+Dire Straits,Walk Of Life,2018-12-08 10:56:00,W,Walk,5,1985,2016-12-15 23:38:00,W,4
+Run-DMC,Walk This Way,2018-12-08 11:08:00,W,Walk,8,0,2016-12-16 00:25:00,W,5
+Cowboy Junkies,Walking After Midnight,2018-12-08 11:22:00,W,Walking,6,1988,2016-12-16 00:42:00,W,6
+Missing Persons,Walking In L. A.,2018-12-08 11:28:00,W,Walking,0,0,2016-12-16 00:54:00,W,4
