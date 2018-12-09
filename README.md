@@ -75,3 +75,10 @@ I did notebooks for them as well:
 and
 [80's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/80sA2Z.ipynb)
 
+In addition to my work, and [Bruce's](https://public.tableau.com/profile/besegal#!/vizhome/BESegalWXPNAtoZPlayListPublished/XPNAtoZFindYourSongfromAtoZ)
+for the 80s A-Z,
+[Lisa Bartlet](https://twitter.com/lmbartelt) did a real nice
+[series of tweets](https://twitter.com/lmbartelt/status/1068110730233331713)
+with word clouds for each letter.
+The playlists generate a good bit of nerdy data play.
+
