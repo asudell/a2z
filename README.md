@@ -6,7 +6,9 @@
  - A quick look at [Word Splitting](Word%20Splitting.ipynb)
  - Numbers and parentheticals that were [Leftovers](Leftovers.ipynb)
  - My [70s A-Z notebook](70sA2Z.ipynb)
- - The ongoing, at this writing, [80s A-Z notebook](80sA2Z.ipynb)
+ - My latest, [80s A-Z notebook](80sA2Z.ipynb)
+ - A small [80s Leftovers notebook](89sLeftovers.ipynb) follow on
+   to the 80s A-Z
 
 ## Back Story
 In December of 2016, [WXPN](http://xpn.org)
