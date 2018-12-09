@@ -70,7 +70,7 @@ Since then there have been two more A-Z playlists.
 Last Year there was a [XPN 70s A-Z](http://xpn.org/music-artist/885-countdown/2017/xpn-a-z) that was all 70s music.
 And this year we went to the 80s with
 [XPN 80s A-Z](http://www.xpn.org/music-artist/xpn-a-z).
-I did noteboos for them as well:
+I did notebooks for them as well:
 [70's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/70sA2Z.ipynb)
 and
 [80's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/80sA2Z.ipynb)
