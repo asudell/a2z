@@ -75,6 +75,16 @@ I did notebooks for them as well:
 and
 [80's A-Z notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/80sA2Z.ipynb)
 
+After a year's hiatus, countdowns are back,
+but in the previous listener curated style.
+So in 2020 we have the
+[XPN 2020 Countdown](https://xpn.org/music-artist/885-countdown/2020/).
+I've started a notebook for that,
+[XPN 2020 notebook](http://nbviewer.jupyter.org/github/asudell/a2z/blob/master/XPN2020.ipynb).
+And this year the station is doing stats as well,
+as [The 2020 Countdown, By the Numbers](https://thekey.xpn.org/wxpn-2020-numbers/).
+Be sure to check them out too.
+
 In addition to my work, and [Bruce's](https://public.tableau.com/profile/besegal#!/vizhome/BESegalWXPNAtoZPlayListPublished/XPNAtoZFindYourSongfromAtoZ)
 for the 80s A-Z,
 [Lisa Bartlet](https://twitter.com/lmbartelt) did a real nice
