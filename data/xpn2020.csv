@@ -214,7 +214,7 @@ Screamin' Jay Hawkins,I Put A Spell On You,2020-12-11 01:12:00,I,I,3,1956
 Neil Young,The Needle And The Damage Done,2020-12-11 01:15:00,T,The,2,1972
 Men At Work,Overkill,2020-12-11 01:17:00,O,Overkill,3,1983
 Annie Lennox,Why,2020-12-11 01:20:00,W,Why,6,1992
-AntÃ´nio Carlos Jobim,The Girl From Ipanema,2020-12-11 01:26:00,T,The,2,0
+AntÃÂ´nio Carlos Jobim,The Girl From Ipanema,2020-12-11 01:26:00,T,The,2,0
 Duran Duran,Ordinary World,2020-12-11 01:28:00,O,Ordinary,5,1993
 The Beach Boys,Heroes and Villains,2020-12-11 01:33:00,H,Heroes,3,1967
 Elvis Costello & The Attractions,Oliver's Army,2020-12-11 01:36:00,O,Oliver's,4,1979
@@ -421,4 +421,81 @@ U2,One Tree Hill,2020-12-11 17:26:00,O,One,7,1987
 The Beatles,The Night Before,2020-12-11 17:33:00,T,The,2,1965
 The Cars,Moving In Stereo,2020-12-11 17:35:00,M,Moving,5,1978
 R. E. M.,Perfect Circle,2020-12-11 17:40:00,P,Perfect,4,1983
-Emmylou Harris,Boulder To Birmingham,2020-12-11 17:44:00,B,Boulder,7,1975
+Emmylou Harris,Boulder To Birmingham,2020-12-11 17:44:00,B,Boulder,3,1975
+Death Cab For Cutie,I Will Follow You Into The Dark,2020-12-11 17:47:00,I,I,4,2005
+R. E. M.,Walk Unafraid,2020-12-11 17:51:00,W,Walk,5,1998
+Petula Clark,Downtown,2020-12-11 17:56:00,D,Downtown,5,1985
+The Allman Brothers,Mountain Jam,2020-12-11 18:01:00,M,Mountain,36,1972
+Joni Mitchell,Hejira,2020-12-11 18:37:00,H,Hejira,6,1976
+The Afghan Whigs,Rebirth Of The Cool,2020-12-11 18:43:00,R,Rebirth,8,1992
+The White Stripes,Fell In Love With A Girl,2020-12-11 18:51:00,F,Fell,1,1998
+Crosby Stills & Nash,Guinnevere,2020-12-11 18:52:00,G,Guinnevere,6,1969
+Little Richard,Rip It Up,2020-12-11 18:58:00,R,Rip,3,1956
+Meatloaf,Bat Out Of Hell,2020-12-11 19:01:00,B,Bat,10,0
+Mother Earth,Down So Low,2020-12-11 19:11:00,D,Down,6,1968
+Loreena McKennitt,The Mystic's Dream,2020-12-11 19:17:00,T,The,7,1994
+Ozzy Osbourne,Crazy Train,2020-12-11 19:24:00,C,Crazy,6,1980
+Billy Bragg,Waiting For The Great Leap Forwards,2020-12-11 19:30:00,W,Waiting,4,1988
+XTC,The Ballad Of Peter Pumpkinhead,2020-12-11 19:34:00,T,The,5,1992
+Dusty Springfield,Windmills Of Your Mind,2020-12-11 19:39:00,W,Windmills,5,1969
+The Stills-Young Band,Long May You Run,2020-12-11 19:44:00,L,Long,4,1976
+"Friedrich Gulda, Vienna Philharmonic & Claudio Abbado","Piano Concerto No. 21 in C Major, K. 467: II. Andante",2020-12-11 19:48:00,P,Piano,9,0
+Spirit,I Got A Line On You,2020-12-11 19:57:00,I,I,3,1969
+Tame Impala,Eventually,2020-12-11 20:00:00,E,Eventually,6,2015
+Tash Sultana,Jungle,2020-12-11 20:06:00,J,Jungle,7,2016
+The Cure,Disintegration,2020-12-11 20:13:00,D,Disintegration,8,1989
+The Who,Gettin' In Tune,2020-12-11 20:21:00,G,Gettin',7,1996
+R. E. M.,Radio Free Europe,2020-12-11 20:28:00,R,Radio,4,1981
+Warren Zevon,Excitable Boy,2020-12-11 20:32:00,E,Excitable,3,1978
+Creedence Clearwater Revival,Run Through The Jungle,2020-12-11 20:35:00,R,Run,3,1970
+Bob Dylan,If Not For You,2020-12-11 20:38:00,I,If,3,1970
+Richie Havens,Here Comes The Sun,2020-12-11 20:41:00,H,Here,4,1970
+Leonard Cohen,I'm Your Man,2020-12-11 20:45:00,I,I'm,5,1974
+Led Zeppelin,You Shook Me,2020-12-11 20:50:00,Y,You,7,1969
+Dr. Dog,Where'd All The Time Go?,2020-12-11 20:57:00,W,Where'd,5,2010
+Hozier,From Eden,2020-12-11 21:02:00,F,From,3,2013
+Red Hot Chili Peppers,Under The Bridge,2020-12-11 21:05:00,U,Under,5,1991
+Howlin' Wolf,Spoonful,2020-12-11 21:10:00,S,Spoonful,3,1960
+Hall & Oates,Kiss On My List,2020-12-11 21:13:00,K,Kiss,4,1983
+The Byrds,Mr. Tambourine Man,2020-12-11 21:17:00,M,Mr,3,1970
+Prince,When You Were Mine,2020-12-11 21:20:00,W,When,4,1980
+Tina Turner,What's Love Got To Do With It,2020-12-11 21:24:00,W,What's,4,1985
+Gorillaz,Feel Good Inc.,2020-12-11 21:28:00,F,Feel,4,2005
+Mott The Hoople,Roll Away The Stone,2020-12-11 21:32:00,R,Roll,3,1974
+The English Beat,Save It For Later,2020-12-11 21:35:00,S,Save,5,1991
+The Allman Brothers,Stormy Monday,2020-12-11 21:40:00,S,Stormy,9,1982
+The Rolling Stones,Play With Fire,2020-12-11 21:49:00,P,Play,2,1965
+Coldplay,Shiver,2020-12-11 21:51:00,S,Shiver,6,2000
+The Byrds,You Ain't Going Nowhere,2020-12-11 21:57:00,Y,You,3,1968
+Bruce Hornsby & The Range,The Way It Is,2020-12-11 22:00:00,T,The,5,1987
+Aretha Franklin,Until You Come Back To Me (That's What I'm Gonna Do),2020-12-11 22:05:00,U,Until,4,1974
+Janelle Monae,Tightrope,2020-12-11 22:09:00,T,Tightrope,5,2010
+Robyn,Call Your Girlfriend,2020-12-11 22:14:00,C,Call,4,2010
+The Trammps,Disco Inferno,2020-12-11 22:18:00,D,Disco,3,1977
+Stevie Wonder,Boogie On Reggae Woman,2020-12-11 22:21:00,B,Boogie,7,1974
+AC/DC,Highway To Hell,2020-12-11 22:28:00,H,Highway,4,1979
+Elvis Presley,Heartbreak Hotel,2020-12-11 22:32:00,H,Heartbreak,2,1972
+The Commodores,Easy,2020-12-11 22:34:00,E,Easy,4,1996
+Crosby Stills Nash & Young,Country Girl,2020-12-11 22:38:00,C,Country,6,1970
+Neil Young,Unknown Legend,2020-12-11 22:44:00,U,Unknown,5,1992
+Jerry Garcia,The Wheel,2020-12-11 22:49:00,T,The,4,1972
+Mott The Hoople,All The Young Dudes,2020-12-11 22:53:00,A,All,4,1974
+The Supremes,Stop! In The Name Of Love,2020-12-11 22:57:00,S,Stop,3,1965
+Elvis Presley,Jailhouse Rock,2020-12-11 23:00:00,J,Jailhouse,3,1975
+Dave Matthews Band,The Best Of What's Around,2020-12-11 23:03:00,T,The,4,1994
+John Prine,Illegal Smile,2020-12-11 23:07:00,I,Illegal,4,1971
+Three Dog Night,Shambala,2020-12-11 23:11:00,S,Shambala,3,1973
+Earth Wind & Fire,Let's Groove,2020-12-11 23:14:00,L,Let's,6,1981
+Stevie Wonder,I Wish,2020-12-11 23:20:00,I,I,6,1976
+The Who,5:15,2020-12-11 23:26:00,5,5,4,1979
+Talking Heads,Crosseyed And Painless,2020-12-11 23:30:00,C,Crosseyed,5,1980
+Steely Dan,Hey Nineteen,2020-12-11 23:35:00,H,Hey,5,1980
+Sly & The Family Stone,Dance To The Music,2020-12-11 23:40:00,D,Dance,4,1985
+Sex Pistols,Anarchy In The U.K.,2020-12-11 23:44:00,A,Anarchy,3,1979
+Rush,YYZ,2020-12-11 23:47:00,Y,YYZ,5,1981
+Michael Penn,No Myth,2020-12-11 23:52:00,N,No,5,1989
+Grateful Dead,Friend Of The Devil,2020-12-11 23:57:00,F,Friend,4,1981
+The Cure,The Love Cats,2020-12-12 00:01:00,T,The,3,1983
+The Beach Boys,Surf's Up,2020-12-12 00:04:00,S,Surf's,4,1971
+Billy Paul,Me and Mrs. Jones,2020-12-12 00:08:00,M,Me,6,1990
+Lyle Lovett,Church,2020-12-12 00:14:00,C,Church,9,1992
