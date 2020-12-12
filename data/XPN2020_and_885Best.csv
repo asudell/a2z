@@ -1,46 +1,61 @@
-Artist,Title,Air Time,Letter,First Word,Duration,Year
-Grand Funk Railroad,I'm Your Captain,2020-12-10 09:07:00,I,I'm,9,1970
-Prince,1999,2020-12-10 09:27:00,1,1999,4,1982
-Carole King,You've Got A Friend,2020-12-10 10:38:00,Y,You've,7,1971
-Santana,Smooth,2020-12-10 15:13:00,S,Smooth,5,1999
-The Rolling Stones,Shattered,2020-12-10 17:21:00,S,Shattered,4,1982
-Elvis Costello,Man Out Of Time,2020-12-10 17:54:00,M,Man,6,1982
-Vampire Weekend,A-Punk,2020-12-10 19:41:00,A,A-Punk,2,2007
-The Beatles,Got To Get You Into My Life,2020-12-10 20:23:00,G,Got,5,1963
-M83,Midnight City,2020-12-10 21:17:00,M,Midnight,4,2010
-Sonic Youth,Teenage Riot,2020-12-11 00:27:00,T,Teenage,7,1988
-Oasis,Don't Look Back In Anger,2020-12-11 00:55:00,D,Don't,5,1996
-Eminem,Lose Yourself,2020-12-11 02:21:00,L,Lose,6,2002
-Dave Matthews Band,Crush,2020-12-11 03:48:00,C,Crush,5,2000
-The Rolling Stones,Under My Thumb,2020-12-11 04:09:00,U,Under,4,1966
-My Morning Jacket,Wordless Chorus,2020-12-11 04:13:00,W,Wordless,4,2005
-The Clash,Rudie Can't Fail,2020-12-11 04:38:00,R,Rudie,5,1979
-Steppenwolf,Born To Be Wild,2020-12-11 05:14:00,B,Born,3,1983
-The Rolling Stones,Tumbling Dice,2020-12-11 10:59:00,T,Tumbling,4,1972
-The Rolling Stones,Happy,2020-12-11 11:07:00,H,Happy,4,1973
-U2,Mysterious Ways,2020-12-11 11:14:00,M,Mysterious,6,1991
-Phish,Bouncing Around The Room,2020-12-11 11:30:00,B,Bouncing,4,2003
-Simon & Garfunkel,The Only Living Boy In New York,2020-12-11 11:37:00,T,The,4,1970
-The Beatles,The End,2020-12-11 13:30:00,T,The,2,1969
-Pink Floyd,On The Turning Away,2020-12-11 13:39:00,O,On,6,1987
-The Strokes,Last Nite,2020-12-11 14:17:00,L,Last,3,2001
-Citizen Cope,Sideways,2020-12-11 14:20:00,S,Sideways,5,2002
-Joni Mitchell,Help Me,2020-12-11 15:00:00,H,Help,4,1974
-Carole King,So Far Away,2020-12-11 15:56:00,S,So,4,1971
-Pearl Jam,Black,2020-12-11 16:25:00,B,Black,6,2000
-Death Cab For Cutie,I Will Follow You Into The Dark,2020-12-11 17:47:00,I,I,4,2005
-Hozier,From Eden,2020-12-11 21:02:00,F,From,3,2013
-Mott The Hoople,All The Young Dudes,2020-12-11 22:53:00,A,All,4,1974
-Otis Redding,These Arms Of Mine,2020-12-12 01:16:00,T,These,3,1962
-Billy Joel,Captain Jack,2020-12-12 02:35:00,C,Captain,7,1973
-Michael Jackson,Billie Jean,2020-12-12 02:42:00,B,Billie,6,1982
-Billy Joel,New York State Of Mind,2020-12-12 03:47:00,N,New,7,1976
-Smashing Pumpkins,Tonight Tonight,2020-12-12 04:13:00,T,Tonight,4,1995
-James Taylor,Carolina In My Mind,2020-12-12 05:07:00,C,Carolina,6,1968
-The Who,Pinball Wizard,2020-12-12 05:25:00,P,Pinball,4,1976
-Willie Nelson,Crazy,2020-12-12 05:57:00,C,Crazy,4,1962
-Paul Simon,Late In The Evening,2020-12-12 06:29:00,L,Late,4,1980
-Gnarls Barkley,Crazy,2020-12-12 06:33:00,C,Crazy,5,2006
-Michael Jackson,Beat It,2020-12-12 06:48:00,B,Beat,6,1982
-The Rolling Stones,Ruby Tuesday,2020-12-12 07:04:00,R,Ruby,3,1967
-New Order,Love Vigilantes,2020-12-12 08:49:00,L,Love,6,1985
+Artist,Title
+Grand Funk Railroad,I'm Your Captain
+Prince,1999
+Carole King,You've Got A Friend
+Santana,Smooth
+The Rolling Stones,Shattered
+Elvis Costello,Man Out Of Time
+Vampire Weekend,A-Punk
+The Beatles,Got To Get You Into My Life
+M83,Midnight City
+Sonic Youth,Teenage Riot
+Oasis,Don't Look Back In Anger
+Eminem,Lose Yourself
+Dave Matthews Band,Crush
+The Rolling Stones,Under My Thumb
+My Morning Jacket,Wordless Chorus
+The Clash,Rudie Can't Fail
+Steppenwolf,Born To Be Wild
+The Rolling Stones,Tumbling Dice
+The Rolling Stones,Happy
+U2,Mysterious Ways
+Phish,Bouncing Around The Room
+Simon & Garfunkel,The Only Living Boy In New York
+The Beatles,The End
+Pink Floyd,On The Turning Away
+The Strokes,Last Nite
+Citizen Cope,Sideways
+Joni Mitchell,Help Me
+Carole King,So Far Away
+Pearl Jam,Black
+Death Cab For Cutie,I Will Follow You Into The Dark
+Hozier,From Eden
+Mott The Hoople,All The Young Dudes
+Otis Redding,These Arms Of Mine
+Billy Joel,Captain Jack
+Michael Jackson,Billie Jean
+Billy Joel,New York State Of Mind
+Smashing Pumpkins,Tonight Tonight
+James Taylor,Carolina In My Mind
+The Who,Pinball Wizard
+Willie Nelson,Crazy
+Paul Simon,Late In The Evening
+Gnarls Barkley,Crazy
+Michael Jackson,Beat It
+The Rolling Stones,Ruby Tuesday
+New Order,Love Vigilantes
+U2,A Sort Of Homecoming
+Jimi Hendrix,Fire
+The Cure,In Between Days
+Bruce Springsteen,Brilliant Disguise
+Coldplay,The Scientist
+Beck,Lost Cause
+Dr. Dog,That Old Black Hole
+Joni Mitchell,Free Man In Paris
+Heart,Crazy On You
+The Beatles,I've Just Seen A Face
+Dusty Springfield,Son Of A Preacher Man
+Counting Crows,Rain King
+My Morning Jacket,Steam Engine
+John Mayall,Room To Move
+The Kinks,All Day And All Of The Night
