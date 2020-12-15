@@ -3,7 +3,7 @@ Booker T. & The MG's,Time Is Tight,2020-12-10 08:02:00,T,Time,3,1980
 AC/DC,T.N.T.,2020-12-10 08:05:00,T,T,6,1975
 Peter Frampton,Show Me the Way,2020-12-10 08:11:00,S,Show,5,1975
 The Drifters,Under The Boardwalk,2020-12-10 08:16:00,U,Under,3,1989
-Adele,Rumor Has It,2020-12-10 08:19:00,R,Rumor,5,0
+Adele,Rumor Has It,2020-12-10 08:19:00,R,Rumor,5,2011
 Smith,Baby It's You,2020-12-10 08:24:00,B,Baby,4,1969
 Aretha Franklin,Call Me,2020-12-10 08:28:00,C,Call,3,1970
 Marvin Gaye & Kim Weston,It Takes Two,2020-12-10 08:31:00,I,It,3,1966
@@ -26,8 +26,8 @@ Timmy Thomas,Why Can't We Live Together,2020-12-10 09:52:00,W,Why,6,1972
 Jackie DeShannon,What The World Needs Now,2020-12-10 09:58:00,W,What,3,1988
 Aretha Franklin,Amazing Grace,2020-12-10 10:01:00,A,Amazing,17,1972
 The Band,Whispering Pines,2020-12-10 10:18:00,W,Whispering,4,1969
-The Eagles,Life In The Fast Lane,2020-12-10 10:22:00,L,Life,5,0
-The Eagles,New Kid In Town,2020-12-10 10:27:00,N,New,6,0
+The Eagles,Life In The Fast Lane,2020-12-10 10:22:00,L,Life,5,1976
+The Eagles,New Kid In Town,2020-12-10 10:27:00,N,New,6,1976
 Creedence Clearwater Revival,Down On The Corner,2020-12-10 10:33:00,D,Down,2,1969
 Al Green,I'm Still In Love With You,2020-12-10 10:35:00,I,I'm,3,1972
 Carole King,You've Got A Friend,2020-12-10 10:38:00,Y,You've,7,1971
@@ -41,11 +41,11 @@ The Flaming Lips,Fight Test,2020-12-10 11:08:00,F,Fight,5,2002
 No Doubt,Don't Speak,2020-12-10 11:13:00,D,Don't,4,1995
 The Stylistics,You Make Me Feel Brand New,2020-12-10 11:17:00,Y,You,5,1974
 Radiohead,The National Anthem,2020-12-10 11:22:00,T,The,9,2000
-DNA & Suzanne Vega,"Tom's Diner (7"" A)",2020-12-10 11:31:00,T,Tom's,4,0
+DNA & Suzanne Vega,"Tom's Diner (7"" A)",2020-12-10 11:31:00,T,Tom's,4,1990
 Solomon Burke,None Of Us Are Free,2020-12-10 11:35:00,N,None,5,2002
 Little Feat,Long Distance Love,2020-12-10 11:40:00,L,Long,4,1975
-Jackie Wilson,Reet Petite (Finest Girl You Ever Wanna Meet),2020-12-10 11:44:00,R,Reet,3,0
-Warren Zevon,Accidently Like A Martyr,2020-12-10 11:47:00,A,Accidently,3,0
+Jackie Wilson,Reet Petite (Finest Girl You Ever Wanna Meet),2020-12-10 11:44:00,R,Reet,3,1957
+Warren Zevon,Accidently Like A Martyr,2020-12-10 11:47:00,A,Accidently,3,1978
 The Jacksons,Blame It On The Boogie,2020-12-10 11:50:00,B,Blame,6,1989
 Al Green,Call Me (Come Back Home),2020-12-10 11:56:00,C,Call,3,1975
 Harry Nilsson,Everybody's Talkin',2020-12-10 11:59:00,E,Everybody's,3,1993
@@ -88,7 +88,7 @@ Steve Winwood,Different Light,2020-12-10 14:49:00,D,Different,5,2003
 Kenny Rogers & The First Edition,"Ruby, Don't Take Your Love To Town",2020-12-10 14:54:00,R,Ruby,3,1969
 The Isley Brothers,It's Your Thing,2020-12-10 14:57:00,I,It's,3,1991
 Four Tops,Baby I Need Your Loving,2020-12-10 15:00:00,B,Baby,2,1966
-Harold Melvin & The Bluenotes,Wake Up Everybody,2020-12-10 15:02:00,W,Wake,4,0
+Harold Melvin & The Bluenotes,Wake Up Everybody,2020-12-10 15:02:00,W,Wake,4,1975
 Parliament,Give Up The Funk,2020-12-10 15:06:00,G,Give,7,1975
 Santana,Smooth,2020-12-10 15:13:00,S,Smooth,5,1999
 The Alan Parsons Project,I Robot,2020-12-10 15:18:00,I,I,6,1977
@@ -111,7 +111,7 @@ Radiohead,There There,2020-12-10 16:25:00,T,There,6,2003
 Pink Floyd,Have A Cigar,2020-12-10 16:31:00,H,Have,5,1975
 Massive Attack,Safe From Harm,2020-12-10 16:36:00,S,Safe,6,1991
 The Avett Brothers,Murder in the City,2020-12-10 16:42:00,M,Murder,3,2008
-Aretha Franklin,Son Of A Preacherman,2020-12-10 16:45:00,S,Son,4,0
+Aretha Franklin,Son Of A Preacherman,2020-12-10 16:45:00,S,Son,4,1070
 Al Green,Here I Am (Come And Take Me),2020-12-10 16:49:00,H,Here,4,1973
 Wilco,Misunderstood,2020-12-10 16:53:00,M,Misunderstood,7,1996
 Warren Zevon,Johnny Strikes Up The Band,2020-12-10 17:00:00,J,Johnny,3,1978
@@ -148,7 +148,7 @@ Elton John,Honky Cat,2020-12-10 19:51:00,H,Honky,5,1972
 The National,Slow Show,2020-12-10 19:56:00,S,Slow,4,2007
 Sly & The Family Stone,If You Want Me To Stay,2020-12-10 20:00:00,I,If,3,1973
 Pearl Jam,Evenflow,2020-12-10 20:03:00,E,Evenflow,7,2003
-Muddy Waters,I Just Want To Make Love To You (1954),2020-12-10 20:10:00,I,I,3,0
+Muddy Waters,I Just Want To Make Love To You (1954),2020-12-10 20:10:00,I,I,3,1954
 Johnny Cash,A Boy Named Sue (live),2020-12-10 20:13:00,A,A,3,1969
 Bruce Cockburn,Wondering Where The Lions Are,2020-12-10 20:16:00,W,Wondering,4,1979
 Kendrick Lamar,DNA,2020-12-10 20:20:00,D,DNA,3,2017
@@ -166,7 +166,7 @@ M83,Midnight City,2020-12-10 21:17:00,M,Midnight,4,2010
 Mark Knopfler,What It Is,2020-12-10 21:21:00,W,What,6,2000
 U2,The Unforgettable Fire,2020-12-10 21:27:00,T,The,5,1984
 Pink Floyd,See Emily Play,2020-12-10 21:32:00,S,See,3,1967
-Eminem,Stan (feat. Dido),2020-12-10 21:35:00,S,Stan,7,0
+Eminem,Stan (feat. Dido),2020-12-10 21:35:00,S,Stan,7,2000
 Leonard Cohen,Joan of Arc,2020-12-10 21:42:00,J,Joan,7,1971
 Bruce Springsteen,Adam Raised A Cain,2020-12-10 21:49:00,A,Adam,7,1978
 Matisyahu,One Day,2020-12-10 21:56:00,O,One,4,2009
@@ -249,7 +249,7 @@ Frank Zappa,Dancin' Fool,2020-12-11 03:39:00,D,Dancin',4,1979
 Wham!,Freedom,2020-12-11 03:43:00,F,Freedom,5,1984
 Dave Matthews Band,Crush,2020-12-11 03:48:00,C,Crush,5,2000
 The Kinks,Shangri-La,2020-12-11 03:53:00,S,Shangri-La,6,1969
-The Chameleons UK,Swamp Thing,2020-12-11 03:59:00,S,Swamp,6,0
+The Chameleons UK,Swamp Thing,2020-12-11 03:59:00,S,Swamp,6,1986
 Nico,These Days,2020-12-11 04:05:00,T,These,4,1967
 The Rolling Stones,Under My Thumb,2020-12-11 04:09:00,U,Under,4,1966
 My Morning Jacket,Wordless Chorus,2020-12-11 04:13:00,W,Wordless,4,2005
@@ -282,7 +282,7 @@ Little Richard,Good Golly Miss Molly,2020-12-11 06:13:00,G,Good,2,1958
 Frank Sinatra,It Was A Very Good Year,2020-12-11 06:15:00,I,It,10,1965
 Low Cut Connie,Boozophilia,2020-12-11 06:25:00,B,Boozophilia,4,2012
 Bruce Springsteen,It's Hard To Be A Saint In The City,2020-12-11 06:29:00,I,It's,3,1973
-Grandmaster Flash & The Furious 5,The Message,2020-12-11 06:32:00,T,The,9,0
+Grandmaster Flash & The Furious 5,The Message,2020-12-11 06:32:00,T,The,9,1982
 Aretha Franklin,Day Dreaming,2020-12-11 06:41:00,D,Day,4,1968
 The Who,Sea and Sand,2020-12-11 06:45:00,S,Sea,8,1973
 Bruce Springsteen,Lost In The Flood,2020-12-11 06:53:00,L,Lost,5,1973
@@ -302,7 +302,7 @@ Elvis Presley,Blue Suede Shoes,2020-12-11 07:48:00,B,Blue,2,1970
 The Beatles,Hello Goodbye,2020-12-11 07:50:00,H,Hello,7,1967
 Natalie Prass,Sisters,2020-12-11 07:57:00,S,Sisters,5,2018
 Alabama Shakes,Don't Wanna Fight,2020-12-11 08:02:00,D,Don't,3,2015
-The Carpenters,(They Long To Be) Close To You,2020-12-11 08:05:00,(,(,7,0
+The Carpenters,(They Long To Be) Close To You,2020-12-11 08:05:00,(,(,7,1970
 The Beatles,Getting Better,2020-12-11 08:12:00,G,Getting,3,1967
 Pearl Jam,Just Breathe,2020-12-11 08:15:00,J,Just,6,2009
 Horace Silver,Song For My Father,2020-12-11 08:21:00,S,Song,8,1989
@@ -354,7 +354,7 @@ Janis Joplin,Ball And Chain,2020-12-11 12:13:00,B,Ball,10,1969
 Elvis Costello,Everyday I Write The Book,2020-12-11 12:23:00,E,Everyday,4,1983
 Aerosmith,Walk This Way,2020-12-11 12:27:00,W,Walk,4,1975
 Starland Vocal Band,Afternoon Delight,2020-12-11 12:31:00,A,Afternoon,3,1976
-K. T. Tunstall,Suddenly I See,2020-12-11 12:34:00,S,Suddenly,5,0
+K. T. Tunstall,Suddenly I See,2020-12-11 12:34:00,S,Suddenly,5,2004
 Jo Stafford,You Belong To Me,2020-12-11 12:39:00,Y,You,3,1991
 Led Zeppelin,Custard Pie,2020-12-11 12:42:00,C,Custard,4,1975
 Alison Krauss,"Baby, Now That I've Found You",2020-12-11 12:46:00,B,Baby,4,1995
@@ -365,7 +365,7 @@ Bram Tchaikovsky,Girl Of My Dreams,2020-12-11 13:02:00,G,Girl,4,1979
 The White Stripes,We're Going To Be Friends,2020-12-11 13:06:00,W,We're,2,2001
 U2,Bullet The Blue Sky,2020-12-11 13:08:00,B,Bullet,7,1987
 Bing Crosby,White Christmas,2020-12-11 13:15:00,W,White,3,1977
-Hugh Masakela,Grazing In The Grass,2020-12-11 13:18:00,G,Grazing,2,0
+Hugh Masakela,Grazing In The Grass,2020-12-11 13:18:00,G,Grazing,2,1968
 The Band,Rag Mama Rag,2020-12-11 13:20:00,R,Rag,3,1969
 Ella Fitzgerald & Louis Armstrong,Summertime,2020-12-11 13:23:00,S,Summertime,7,1957
 The Beatles,The End,2020-12-11 13:30:00,T,The,2,1969
@@ -439,7 +439,7 @@ Billy Bragg,Waiting For The Great Leap Forwards,2020-12-11 19:30:00,W,Waiting,4,
 XTC,The Ballad Of Peter Pumpkinhead,2020-12-11 19:34:00,T,The,5,1992
 Dusty Springfield,Windmills Of Your Mind,2020-12-11 19:39:00,W,Windmills,5,1969
 The Stills-Young Band,Long May You Run,2020-12-11 19:44:00,L,Long,4,1976
-"Friedrich Gulda, Vienna Philharmonic & Claudio Abbado","Piano Concerto No. 21 in C Major, K. 467: II. Andante",2020-12-11 19:48:00,P,Piano,9,0
+"Friedrich Gulda, Vienna Philharmonic & Claudio Abbado","Piano Concerto No. 21 in C Major, K. 467: II. Andante",2020-12-11 19:48:00,P,Piano,9,1991
 Spirit,I Got A Line On You,2020-12-11 19:57:00,I,I,3,1969
 Tame Impala,Eventually,2020-12-11 20:00:00,E,Eventually,6,2015
 Tash Sultana,Jungle,2020-12-11 20:06:00,J,Jungle,7,2016
@@ -581,9 +581,9 @@ Rush,Entre Nous,2020-12-12 06:01:00,E,Entre,4,1980
 Beach House,Take Care,2020-12-12 06:05:00,T,Take,7,2010
 The Clash,Spanish Bombs,2020-12-12 06:12:00,S,Spanish,4,1979
 The Blasters,American Music,2020-12-12 06:16:00,A,American,2,1982
-The Beatles,Back In The U. S. S. R.,2020-12-12 06:18:00,B,Back,4,0
+The Beatles,Back In The U. S. S. R.,2020-12-12 06:18:00,B,Back,4,1968
 Fleetwood Mac,Songbird,2020-12-12 06:22:00,S,Songbird,4,1977
-Chvrches,The Mother We Share,2020-12-12 06:26:00,T,The,3,0
+Chvrches,The Mother We Share,2020-12-12 06:26:00,T,The,3,2013
 Paul Simon,Late In The Evening,2020-12-12 06:29:00,L,Late,4,1980
 Gnarls Barkley,Crazy,2020-12-12 06:33:00,C,Crazy,5,2006
 The Shins,Australia,2020-12-12 06:38:00,A,Australia,3,2007
@@ -622,7 +622,7 @@ Prince & The Revolution,I Would Die 4 U,2020-12-12 09:14:00,I,I,3,1984
 U2,A Sort Of Homecoming,2020-12-12 09:17:00,A,A,7,1984
 Gordon Lightfoot,Sundown,2020-12-12 09:24:00,S,Sundown,4,1974
 Jimi Hendrix,Fire,2020-12-12 09:28:00,F,Fire,2,1986
-M. I. A.,Paper Planes,2020-12-12 09:30:00,P,Paper,5,0
+M. I. A.,Paper Planes,2020-12-12 09:30:00,P,Paper,5,2007
 America,Ventura Highway,2020-12-12 09:35:00,V,Ventura,3,1972
 Bruce Springsteen,My City Of Ruins,2020-12-12 09:38:00,M,My,5,2001
 Loggins & Messina,Angry Eyes,2020-12-12 09:43:00,A,Angry,8,1972
@@ -641,9 +641,9 @@ Lady Gaga,Born THis Way,2020-12-12 10:45:00,B,Born,4,2011
 Tom Waits,I Don't Wanna Grow Up,2020-12-12 10:49:00,I,I,3,1992
 Brandi Carlile,Wherever Is Your Heart,2020-12-12 10:52:00,W,Wherever,4,2015
 Beck,Lost Cause,2020-12-12 10:56:00,L,Lost,4,2002
-The Buzzcocks,Why Can't I Touch It?,2020-12-12 11:00:00,W,Why,7,0
+The Buzzcocks,Why Can't I Touch It?,2020-12-12 11:00:00,W,Why,7,1979
 Smashing Pumpkins,Mayonaise,2020-12-12 11:07:00,M,Mayonaise,7,1993
-Otis Redding,Coffee And Cigarettes,2020-12-12 11:14:00,C,Coffee,4,0
+Otis Redding,Coffee And Cigarettes,2020-12-12 11:14:00,C,Coffee,4,1966
 Stevie Wonder,You Haven't Done Nothin',2020-12-12 11:18:00,Y,You,3,1974
 Tony Bennett,I Left My Heart In San Francisco,2020-12-12 11:21:00,I,I,5,1976
 Janis Joplin,Get It While You Can,2020-12-12 11:26:00,G,Get,3,1971
@@ -657,7 +657,7 @@ Todd Rundgren,A Dream Goes On Forever,2020-12-12 11:53:00,A,A,2,1974
 Eric Clapton,Let It Grow,2020-12-12 11:55:00,L,Let,6,1974
 Van Morrison,When The Leaves Come Falling Down,2020-12-12 12:01:00,W,When,6,1999
 Tommy James & The Shondells,Crimson & Clover,2020-12-12 12:07:00,C,Crimson,7,1967
-Sigur Ros,HoppÃ­polla,2020-12-12 12:14:00,H,HoppÃ,4,0
+Sigur Ros,HoppÃ­polla,2020-12-12 12:14:00,H,HoppÃ,4,2005
 Robert Johnson,Cross Road Blues,2020-12-12 12:18:00,C,Cross,3,1961
 The Ramones,Blitzkrieg Bop,2020-12-12 12:21:00,B,Blitzkrieg,3,1988
 Keane,Somewhere Only We Know,2020-12-12 12:24:00,S,Somewhere,4,2004
@@ -673,7 +673,7 @@ Dusty Springfield,Son Of A Preacher Man,2020-12-12 13:00:00,S,Son,3,1979
 War,All Day Music,2020-12-12 13:03:00,A,All,4,1971
 Counting Crows,Mrs. Potter's Lullaby,2020-12-12 13:07:00,M,Mrs,10,1999
 Simon & Garfunkel,Bookends Theme,2020-12-12 13:17:00,B,Bookends,1,1968
-The Eagles,Ol' 55,2020-12-12 13:18:00,O,Ol',4,0
+The Eagles,Ol' 55,2020-12-12 13:18:00,O,Ol',4,1974
 Sly & The Family Stone,Family Affair,2020-12-12 13:22:00,F,Family,4,1991
 Sam Cooke,Twistin' The Night Away,2020-12-12 13:26:00,T,Twistin',3,1962
 The Rolling Stones,Torn And Frayed,2020-12-12 13:29:00,T,Torn,4,1972
@@ -707,9 +707,9 @@ Supertramp,School,2020-12-12 15:48:00,S,School,7,1974
 The Smiths,The Headmaster Ritual,2020-12-12 15:55:00,T,The,5,1985
 TV On The Radio,Wolf Like Me,2020-12-12 16:00:00,W,Wolf,5,2001
 The Clash,Police On My Back,2020-12-12 16:05:00,P,Police,3,1980
-Phillip Bailey,Easy Lover,2020-12-12 16:08:00,E,Easy,7,0
+Phillip Bailey,Easy Lover,2020-12-12 16:08:00,E,Easy,7,1985
 Bob Dylan,You're A Big Girl Now,2020-12-12 16:15:00,Y,You're,4,1975
-Stevie Wonder,All Is Fair In Love,2020-12-12 16:19:00,A,All,4,0
+Stevie Wonder,All Is Fair In Love,2020-12-12 16:19:00,A,All,4,1973
 Roxy Music,If There Is Something,2020-12-12 16:23:00,I,If,8,1972
 Joan Osborne,What Becomes Of The Brokenhearted,2020-12-12 16:31:00,W,What,4,2002
 Kurt Vile,Pretty Pimpin',2020-12-12 16:35:00,P,Pretty,6,2015
@@ -736,7 +736,7 @@ Robert Palmer,Every Kind Of People,2020-12-12 18:09:00,E,Every,7,1994
 Radiohead,No Surprises,2020-12-12 18:16:00,N,No,3,1997
 Marvin Gaye,Sexual Healing,2020-12-12 18:19:00,S,Sexual,4,1982
 Johnny Cash & June Carter Cash,Jackson,2020-12-12 18:23:00,J,Jackson,5,2002
-John Prine,In Spite Of Ourselves (ft. Iris Dement),2020-12-12 18:28:00,I,In,3,0
+John Prine,In Spite Of Ourselves (ft. Iris Dement),2020-12-12 18:28:00,I,In,3,1999
 Green Day,When I Come Around,2020-12-12 18:31:00,W,When,3,1994
 Crosby Stills Nash & Young,Woodstock,2020-12-12 18:34:00,W,Woodstock,4,1970
 Bruce Cockburn,Last Night Of The World,2020-12-12 18:38:00,L,Last,5,1999
@@ -792,10 +792,10 @@ Fleetwood Mac,Oh Well,2020-12-12 22:52:00,O,Oh,9,1972
 The Cult,She Sells Sanctuary,2020-12-12 23:01:00,S,She,5,1985
 Earth Wind & Fire,Fantasy,2020-12-12 23:06:00,F,Fantasy,6,1988
 Billy Joel,Goodnight Saigon,2020-12-12 23:12:00,G,Goodnight,5,1982
-Elvis Costello,(Angels Want To Wear My) Red Shoes,2020-12-12 23:17:00,(,(,3,0
+Elvis Costello,(Angels Want To Wear My) Red Shoes,2020-12-12 23:17:00,(,(,3,1977
 Black Sabbath,Paranoid,2020-12-12 23:20:00,P,Paranoid,3,1980
 Bruce Springsteen,Prove It All Night,2020-12-12 23:23:00,P,Prove,4,1978
-The Pixies,Gigantic,2020-12-12 23:27:00,G,Gigantic,3,0
+The Pixies,Gigantic,2020-12-12 23:27:00,G,Gigantic,3,1988
 Blur,Song 2,2020-12-12 23:30:00,S,Song,4,1997
 The Isley Brothers,This Old Heart Of Mine (Is Weak For You),2020-12-12 23:34:00,T,This,3,1969
 Derek & The Dominos,Little Wing,2020-12-12 23:37:00,L,Little,5,1970
@@ -841,7 +841,7 @@ The Who,Substitute,2020-12-13 02:34:00,S,Substitute,5,1975
 The Beach Boys,Feel Flows,2020-12-13 02:39:00,F,Feel,5,1971
 The Cars,Drive,2020-12-13 02:44:00,D,Drive,4,1991
 Bob Marley & The Wailers,Trenchtown Rock,2020-12-13 02:48:00,T,Trenchtown,4,1988
-The Eagles,The Last Resort,2020-12-13 02:52:00,T,The,9,0
+The Eagles,The Last Resort,2020-12-13 02:52:00,T,The,9,1976
 Paul Simon,The Boy In The Bubble,2020-12-13 03:01:00,T,The,4,1986
 Creedence Clearwater Revival,I Heard It Through The Grapevine,2020-12-13 03:05:00,I,I,11,1970
 Bright Eyes,First Day Of My Life,2020-12-13 03:16:00,F,First,3,2004
@@ -925,7 +925,7 @@ Aretha Franklin,Chain Of Fools,2020-12-13 09:26:00,C,Chain,2,1967
 The Smiths,Heaven Knows I'm Miserable Now,2020-12-13 09:28:00,H,Heaven,4,1984
 Four Tops,Reach Out I'll Be There,2020-12-13 09:32:00,R,Reach,3,1968
 Paul McCartney & Wings,Band On The Run,2020-12-13 09:35:00,B,Band,6,1973
-The Notorious B. I. G,Juicy,2020-12-13 09:41:00,J,Juicy,5,0
+The Notorious B. I. G,Juicy,2020-12-13 09:41:00,J,Juicy,5,1994
 EDITH PIAF,"Non, je ne regrette rien",2020-12-13 09:46:00,N,Non,4,1989
 Bruce Springsteen,Land of Hope And Dreams,2020-12-13 09:50:00,L,Land,7,2012
 Thelonious Monk,Round Midnight,2020-12-13 09:57:00,R,Round,3,1957
@@ -940,7 +940,7 @@ Mark Ronson feat. Amy Winehouse,Valerie,2020-12-13 10:30:00,V,Valerie,4,2007
 Joni Mitchell,Court & Spark,2020-12-13 10:34:00,C,Court,3,1974
 Kanye West,Touch The Sky,2020-12-13 10:37:00,T,Touch,5,2005
 Al Green,Tired Of Being Alone,2020-12-13 10:42:00,T,Tired,3,1971
-Linda Ronstadt & The Stone Poneys,Different Drum,2020-12-13 10:45:00,D,Different,3,0
+Linda Ronstadt & The Stone Poneys,Different Drum,2020-12-13 10:45:00,D,Different,3,1967
 Strawberry Alarm Clock,Incense And Peppermints,2020-12-13 10:48:00,I,Incense,3,1967
 Dire Straits,So Far Away,2020-12-13 10:51:00,S,So,7,1982
 John Prine,I Remember Everything,2020-12-13 10:58:00,I,I,4,2020
@@ -988,7 +988,7 @@ The Postal Service,Such Great Heights,2020-12-13 14:20:00,S,Such,6,2003
 Prince,Controversy,2020-12-13 14:26:00,C,Controversy,4,1981
 Bob Dylan,Isis,2020-12-13 14:30:00,I,Isis,6,1976
 The Band,King Harvest,2020-12-13 14:36:00,K,King,5,1969
-London Symphony Orchestra,"Symphony No.9 In D Minor, Op. 125 ""Choral"": Ode to Joy",2020-12-13 14:41:00,S,Symphony,5,0
+London Symphony Orchestra,"Symphony No.9 In D Minor, Op. 125 ""Choral"": Ode to Joy",2020-12-13 14:41:00,S,Symphony,5,2009
 John Prine,Lake Marie,2020-12-13 14:46:00,L,Lake,6,1995
 Janelle Monae,Make Me Feel,2020-12-13 14:52:00,M,Make,4,2018
 Dobie Gray,Drift Away,2020-12-13 14:56:00,D,Drift,4,1987
@@ -1016,16 +1016,16 @@ Boston,Peace of Mind,2020-12-13 16:48:00,P,Peace,5,1976
 Billy Joel,You're My Home,2020-12-13 16:53:00,Y,You're,4,1973
 Cocteau Twins,Carolyn's Fingers,2020-12-13 16:57:00,C,Carolyn's,3,1988
 Jimi Hendrix,Bold As Love,2020-12-13 17:00:00,B,Bold,5,1967
-The Notorious B. I. G,Hypnotize,2020-12-13 17:05:00,H,Hypnotize,5,0
+The Notorious B. I. G,Hypnotize,2020-12-13 17:05:00,H,Hypnotize,5,1997
 Genesis,The Carpet Crawlers,2020-12-13 17:10:00,T,The,5,1974
 The Clash,Know Your Rights,2020-12-13 17:15:00,K,Know,4,1982
 Nine Inch Nails,Closer,2020-12-13 17:19:00,C,Closer,6,1994
 War,Low Rider,2020-12-13 17:25:00,L,Low,4,1976
 The Youngbloods,Get Together,2020-12-13 17:29:00,G,Get,5,1971
-The Rolling Stones,It's Only Rock'n Roll (But I Like It),2020-12-13 17:34:00,I,It's,5,0
+The Rolling Stones,It's Only Rock'n Roll (But I Like It),2020-12-13 17:34:00,I,It's,5,1974
 Stevie Wonder,Ribbon In The Sky,2020-12-13 17:39:00,R,Ribbon,6,1982
 Son Volt,Windfall,2020-12-13 17:45:00,W,Windfall,3,1995
-Neil Young & Crazy Horse,Thraser,2020-12-13 17:48:00,T,Thraser,7,0
+Neil Young & Crazy Horse,Thraser,2020-12-13 17:48:00,T,Thraser,7,1979
 Mary Hopkin,Those Were The Days,2020-12-13 17:55:00,T,Those,6,1984
 Metallica,One,2020-12-13 18:01:00,O,One,7,1997
 Dire Straits,Skateaway,2020-12-13 18:08:00,S,Skateaway,8,1980
@@ -1038,7 +1038,7 @@ Van Morrison,Sweet Thing,2020-12-13 18:38:00,S,Sweet,5,1968
 Peter Gabriel,Biko,2020-12-13 18:43:00,B,Biko,7,1980
 Built To Spill,Carry The Zero,2020-12-13 18:50:00,C,Carry,7,1998
 The Ramones,Sheena Is A Punk Rocker,2020-12-13 18:57:00,S,Sheena,3,1977
-The Eagles,Take It To The Limit,2020-12-13 19:00:00,T,Take,5,0
+The Eagles,Take It To The Limit,2020-12-13 19:00:00,T,Take,5,1975
 The Clash,Clampdown,2020-12-13 19:05:00,C,Clampdown,4,1979
 The Doors,Peace Frog,2020-12-13 19:09:00,P,Peace,5,1970
 Van Morrison,Days Like This,2020-12-13 19:14:00,D,Days,3,1995
@@ -1086,7 +1086,7 @@ Billy Joel,Just The Way You Are,2020-12-13 22:32:00,J,Just,6,1989
 Big Mama Thornton,Hound Dog,2020-12-13 22:38:00,H,Hound,3,1953
 Ben Folds,The Luckiest,2020-12-13 22:41:00,T,The,4,2001
 B-52's,Roam,2020-12-13 22:45:00,R,Roam,5,1989
-Electric Light Orchestra w/ Olivia Newton John,Xanadu,2020-12-13 22:50:00,X,Xanadu,5,0
+Electric Light Orchestra w/ Olivia Newton John,Xanadu,2020-12-13 22:50:00,X,Xanadu,5,1980
 Roxy Music,More Than This,2020-12-13 22:55:00,M,More,4,1984
 Josh Ritter,Getting Ready To Get Down,2020-12-13 22:59:00,G,Getting,4,2015
 Phish,Farmhouse,2020-12-13 23:03:00,F,Farmhouse,3,1999
@@ -1117,8 +1117,8 @@ Ray Charles,Hit The Road Jack,2020-12-14 00:58:00,H,Hit,2,1987
 Drive-By Truckers,What It Means,2020-12-14 01:00:00,W,What,7,2016
 Oasis,Champagne Supernova,2020-12-14 01:07:00,C,Champagne,8,1995
 Holmes Brothers,"We Meet, We Part, We Remember",2020-12-14 01:15:00,W,We,4,2004
-Genesis,Dancing With The Moonlight Knight,2020-12-14 01:19:00,D,Dancing,8,0
-Fela Kuti,Water No Get No Enemy (edit),2020-12-14 01:27:00,W,Water,9,0
+Genesis,Dancing With The Moonlight Knight,2020-12-14 01:19:00,D,Dancing,8,1973
+Fela Kuti,Water No Get No Enemy (edit),2020-12-14 01:27:00,W,Water,9,1993
 Dire Straits,Telegraph Road,2020-12-14 01:36:00,T,Telegraph,15,1982
 Bob Dylan,Lay Lady Lay,2020-12-14 01:51:00,L,Lay,3,1969
 Bee Gees,To Love Somebody,2020-12-14 01:54:00,T,To,4,1967
@@ -1146,7 +1146,7 @@ Lou Reed,Satellite Of Love,2020-12-14 03:39:00,S,Satellite,4,1972
 Joe Jackson,Is She Really Going Out With Him,2020-12-14 03:43:00,I,Is,3,1978
 Heart,Barracuda,2020-12-14 03:46:00,B,Barracuda,6,1987
 George Harrison,Give Me Love,2020-12-14 03:52:00,G,Give,3,1970
-The Eagles,Already Gone,2020-12-14 03:55:00,A,Already,5,0
+The Eagles,Already Gone,2020-12-14 03:55:00,A,Already,5,1974
 David Bromberg,Sharon,2020-12-14 04:00:00,S,Sharon,6,1972
 Chic,Good Times,2020-12-14 04:06:00,G,Good,10,1979
 David Bowie,Let's Dance,2020-12-14 04:16:00,L,Let's,8,1996
@@ -1198,7 +1198,7 @@ Buddy Holly,That'll Be The Day,2020-12-14 08:04:00,T,That'll,6,1958
 Pearl Jam,Jeremy,2020-12-14 08:10:00,J,Jeremy,5,1992
 Steely Dan,Peg,2020-12-14 08:15:00,P,Peg,6,1977
 Led Zeppelin,Rock And Roll,2020-12-14 08:21:00,R,Rock,4,1970
-k. d. lang,Hallelujah,2020-12-14 08:25:00,H,Hallelujah,5,0
+k. d. lang,Hallelujah,2020-12-14 08:25:00,H,Hallelujah,5,2004
 Jimi Hendrix,Star Spangled Banner,2020-12-14 08:30:00,S,Star,4,1971
 Dire Straits,Walk Of Life,2020-12-14 08:34:00,W,Walk,7,1978
 The Philadelphia Orchestra,Clair De Lune,2020-12-14 08:41:00,C,Clair,5,1984
@@ -1248,7 +1248,7 @@ Looking Glass,Brandy (You're A Fine Girl),2020-12-14 12:46:00,B,Brandy,3,1972
 Linda Ronstadt,Blue Bayou,2020-12-14 12:49:00,B,Blue,6,1970
 Bonnie Raitt,Love Has No Pride,2020-12-14 12:55:00,L,Love,5,1972
 Steppenwolf,Magic Carpet Ride,2020-12-14 13:00:00,M,Magic,4,1968
-Carsie Blanton,Hot Night,2020-12-14 13:04:00,H,Hot,4,0
+Carsie Blanton,Hot Night,2020-12-14 13:04:00,H,Hot,4,2016
 The Rolling Stones,All Down The Line,2020-12-14 13:08:00,A,All,3,1979
 Paul Simon,Kodachrome,2020-12-14 13:11:00,K,Kodachrome,4,1973
 Little Feat,Spanish Moon,2020-12-14 13:15:00,S,Spanish,5,1974
@@ -1301,4 +1301,66 @@ Lynyrd Skynyrd,Simple Man,2020-12-14 17:06:00,S,Simple,5,1987
 Radiohead,Let Down,2020-12-14 17:11:00,L,Let,7,1997
 Tom Rush,Child's Song,2020-12-14 17:18:00,C,Child's,4,1995
 Tom Petty & The Heartbreakers,Even The Losers,2020-12-14 17:22:00,E,Even,4,1979
-Mazzy Star,Rhymes Of An Hour,2020-12-14 17:26:00,R,Rhymes,7,1996
+Mazzy Star,Rhymes Of An Hour,2020-12-14 17:26:00,R,Rhymes,4,1996
+Neutral Milk Hotel,In The Aeroplane Over The Sea,2020-12-14 17:30:00,I,In,5,1998
+Leonard Cohen,Anthem,2020-12-14 17:35:00,A,Anthem,7,1992
+Hall & Oates,Sara Smile,2020-12-14 17:42:00,S,Sara,4,1975
+Coldplay,Yellow,2020-12-14 17:46:00,Y,Yellow,5,2000
+Chicago,Saturday In The Park,2020-12-14 17:51:00,S,Saturday,5,1972
+Yeah Yeah Yeahs,Maps,2020-12-14 17:56:00,M,Maps,4,2003
+The Lone Bellow,You Never Need Nobody,2020-12-14 18:00:00,Y,You,5,2013
+The Replacements,Left Of The Dial,2020-12-14 18:05:00,L,Left,4,1984
+Patty Griffin,Heavenly Day,2020-12-14 18:09:00,H,Heavenly,3,2007
+Bob Dylan,My Back Pages,2020-12-14 18:12:00,M,My,7,1964
+The Beatles,I Should Have Known Better,2020-12-14 18:19:00,I,I,3,1964
+The Band,Chest Fever,2020-12-14 18:22:00,C,Chest,6,1968
+Renaissance,Ashes Are Burning,2020-12-14 18:28:00,A,Ashes,13,1973
+Percy Sledge,When A Man Loves A Woman,2020-12-14 18:41:00,W,When,3,1984
+Paul Simon,American Tune,2020-12-14 18:44:00,A,American,3,1973
+Led Zeppelin,The Lemon Song,2020-12-14 18:47:00,T,The,10,1969
+Cowboy Junkies,Sweet Jane,2020-12-14 18:57:00,S,Sweet,4,1986
+Warren Zevon,Werewolves Of London,2020-12-14 19:01:00,W,Werewolves,4,1981
+The Rolling Stones,Beast Of Burden,2020-12-14 19:05:00,B,Beast,3,1982
+Grateful Dead,China Cat Sunflower,2020-12-14 19:08:00,C,China,6,1969
+Bobbie Gentry,Ode To Billie Joe,2020-12-14 19:14:00,O,Ode,4,1967
+Tom Petty,Don't Come Around Here No More,2020-12-14 19:18:00,D,Don't,5,1985
+The Sundays,Here's Where The Story Ends,2020-12-14 19:23:00,H,Here's,4,1990
+Simon & Garfunkel,Scarborough Fair/ Canticle,2020-12-14 19:27:00,S,Scarborough,4,1966
+New Order,Ceremony,2020-12-14 19:31:00,C,Ceremony,5,1981
+Miles Davis,So What,2020-12-14 19:36:00,S,So,11,1983
+The La's,There She Goes,2020-12-14 19:47:00,T,There,3,1996
+Grimes,Oblivion,2020-12-14 19:50:00,O,Oblivion,5,2012
+Bruce Cockburn,If I Had A Rocket Launcher,2020-12-14 19:55:00,I,If,5,1984
+XTC,Senses Working Overtime,2020-12-14 20:00:00,S,Senses,5,1982
+Patti Smith,Frederick,2020-12-14 20:05:00,F,Frederick,5,1979
+Nirvana,Come As You Are,2020-12-14 20:10:00,C,Come,3,1991
+Nina Simone,I Wish I Knew How It Would Feel To Be Free,2020-12-14 20:13:00,I,I,4,1967
+Harry Chapin,Cat's In The Cradle,2020-12-14 20:17:00,C,Cat's,3,1972
+The Beatles,Rain,2020-12-14 20:20:00,R,Rain,3,1966
+Paul Simon,Diamonds On The Soles Of Her Shoes,2020-12-14 20:23:00,D,Diamonds,8,1986
+Led Zeppelin,Since I've Been Loving You,2020-12-14 20:31:00,S,Since,7,1970
+It's A Beautiful Day,White Bird,2020-12-14 20:38:00,W,White,6,1969
+Mt. Joy,Silver Lining,2020-12-14 20:44:00,S,Silver,4,2017
+George Harrison,Isn't It A Pity,2020-12-14 20:48:00,I,Isn't,7,1970
+Amy Winehouse,Back To Black,2020-12-14 20:55:00,B,Back,5,2007
+The Clash,Rock The Casbah,2020-12-14 21:00:00,R,Rock,4,1981
+Bob Marley & The Wailers,Waiting In Vain,2020-12-14 21:04:00,W,Waiting,4,1977
+Josh Ritter,Kathleen,2020-12-14 21:08:00,K,Kathleen,5,2002
+Tedeschi Trucks Band,Midnight in Harlem,2020-12-14 21:13:00,M,Midnight,5,2011
+The Stranglers,Golden Brown,2020-12-14 21:18:00,G,Golden,4,1988
+Laura Nyro,Stoned Soul Picnic,2020-12-14 21:22:00,S,Stoned,4,1968
+Coldplay,Viva La Vida,2020-12-14 21:26:00,V,Viva,4,2008
+Bruce Springsteen,She's The One,2020-12-14 21:30:00,S,She's,5,1975
+Bob Dylan,Stuck Inside Of Mobile With The Memphis Blues Again,2020-12-14 21:35:00,S,Stuck,8,1966
+Amos Lee,Windows Are Rolled Down,2020-12-14 21:43:00,W,Windows,4,2010
+Prince,Raspberry Beret,2020-12-14 21:47:00,R,Raspberry,3,1984
+The Drifters,Up On The Roof,2020-12-14 21:50:00,U,Up,4,1987
+Bob Marley & The Wailers,Is This Love,2020-12-14 21:54:00,I,Is,3,1978
+Billy Joel,"Summer, Highland Falls",2020-12-14 21:57:00,S,Summer,4,1976
+Beyonce,Formation,2020-12-14 22:01:00,F,Formation,4,2016
+Stevie Wonder,You Are The Sunshine Of My Life,2020-12-14 22:05:00,Y,You,3,1972
+Pink Floyd,Fearless,2020-12-14 22:08:00,F,Fearless,7,1971
+Grateful Dead,Truckin',2020-12-14 22:15:00,T,Truckin',5,1971
+Gordon Lightfoot,The Wreck of the Edmund Fitzgerald,2020-12-14 22:20:00,T,The,8,1976
+The Byrds,8 Miles High,2020-12-14 22:28:00,M,8,3,1966
+Dave Matthews Band,Ants Marching,2020-12-14 22:31:00,A,Ants,21,1995

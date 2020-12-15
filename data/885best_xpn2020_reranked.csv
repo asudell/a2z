@@ -5,8 +5,12 @@ Billie Jean,Michael Jackson,111,1488,-1377
 Do You Realize,The Flaming Lips,136,724,-588
 Wordless Chorus,My Morning Jacket,157,1767,-1610
 Diamonds And Rust,Joan Baez,176,725,-549
+So What,Miles Davis,178,692,-514
+Diamonds On The Soles Of Her Shoes,Paul Simon,199,682,-483
 Cinnamon Girl,Neil Young,203,951,-748
 Wonderwall,Oasis,209,802,-593
+Since I've Been Loving You,Led Zeppelin,211,681,-470
+Heavenly Day,Patty Griffin,212,709,-497
 Let Down,Radiohead,227,721,-494
 Fool In The Rain,Led Zeppelin,243,730,-487
 Born To Be Wild,Steppenwolf,248,1754,-1506
@@ -28,18 +32,24 @@ Neighborhood #1 (Tunnels),Arcade Fire,335,1047,-712
 Teenage Riot,Sonic Youth,336,1818,-1482
 Clampdown,The Clash,345,980,-635
 Little Red Corvette,Prince,347,836,-489
+Beast Of Burden,The Rolling Stones,354,699,-345
+Fearless,Pink Floyd,355,660,-305
 Get Back,The Beatles,358,859,-501
 Money,Pink Floyd,364,1167,-803
+Summer Highland Falls,Billy Joel,366,663,-297
 New Slang,The Shins,368,756,-388
+Viva La Vida,Coldplay,370,670,-300
 Loser,Beck,372,1049,-677
 Idiot Wind,Bob Dylan,376,841,-465
 Oh! Sweet Nuthin',The Velvet Underground,389,1100,-711
 Waiting On A Friend,The Rolling Stones,398,1121,-723
 Last Nite,The Strokes,401,1640,-1239
+Yellow,Coldplay,408,714,-306
 Ticket To Ride,The Beatles,414,1022,-608
 Have A Little Faith In Me,John Hiatt,424,852,-428
 Help Me,Joni Mitchell,435,1631,-1196
 Wonderful Tonight,Eric Clapton,439,1064,-625
+Back To Black,Amy Winehouse,440,677,-237
 From Eden,Hozier,453,1566,-1113
 New York State Of Mind,Billy Joel,455,1473,-1018
 Crazy,Gnarls Barkley,459,1434,-975
@@ -70,6 +80,7 @@ In These Shoes,Kirsty Maccoll,537,1606,-1069
 Street Fighting Man,The Rolling Stones,541,1122,-581
 These Arms Of Mine,Otis Redding,542,1506,-964
 Time Spent In Los Angeles,Dawes,543,1248,-705
+Come As You Are,Nirvana,549,686,-137
 Set Fire To The Rain,Adele,551,815,-264
 Don't Fear The Reaper,Blue Oyster Cult,552,1673,-1121
 Locomotive Breath,Jethro Tull,555,1250,-695
@@ -81,12 +92,14 @@ Watcher Of The Skies,Genesis,566,1038,-472
 Crush,Dave Matthews Band,567,1772,-1205
 Wild World,Cat Stevens,572,865,-293
 Start Me Up,The Rolling Stones,579,1058,-479
+In The Aeroplane Over The Sea,Neutral Milk Hotel,582,717,-135
 Lithium,Nirvana,583,961,-378
 Rain King,Counting Crows,590,1319,-729
 Golden Lady,Stevie Wonder,591,860,-269
 Kathy's Song,Simon & Garfunkel,596,1104,-508
 Over The Rainbow,Eva Cassidy,597,923,-326
 Pump It Up,Elvis Costello,600,843,-243
+She's The One,Bruce Springsteen,604,669,-65
 Steam Engine,My Morning Jacket,606,1303,-697
 Mysterious Ways,U2,611,1681,-1070
 She Sells Sanctuary,The Cult,614,1230,-616
@@ -96,11 +109,14 @@ I Want You (She's So Heavy),The Beatles,619,1204,-585
 Shadow People,Dr. Dog,631,1232,-601
 Lost In The Supermarket,The Clash,632,1021,-389
 When You Were Young,The Killers,634,1149,-515
+Rock The Casbah,The Clash,637,676,-39
 Lust For Life,Iggy Pop,639,801,-162
 Northern Sky,Nick Drake,641,1084,-443
 Beat It,Michael Jackson,645,1430,-785
+Stuck Inside Of Mobile With The Memphis Blues Again,Bob Dylan,648,668,-20
 Tunnel Of Love,Bruce Springsteen,649,1143,-494
 Helter Skelter,The Beatles,651,733,-82
+Kathleen,Josh Ritter,652,674,-22
 Sideways,Citizen Cope,653,1639,-986
 Rebellion (Lies),Arcade Fire,661,778,-117
 Rock And Roll,Led Zeppelin,663,822,-159
@@ -113,6 +129,7 @@ Got To Get You Into My Life,The Beatles,678,1867,-1189
 Pacing The Cage,Bruce Cockburn,680,1140,-460
 I've Been Loving You Too Long,Otis Redding,682,864,-182
 Lost Cause,Beck,688,1379,-691
+Isn't It A Pity,George Harrison,692,678,14
 Midnight City,M83,693,1857,-1164
 Steppin' Out,Joe Jackson,694,1069,-375
 The Suburbs,Arcade Fire,695,838,-143
@@ -124,6 +141,7 @@ Peace Frog,The Doors,708,979,-271
 And It Stoned Me,Van Morrison,715,846,-131
 Smooth,Santana,721,1929,-1208
 Under My Thumb,The Rolling Stones,726,1768,-1042
+Werewolves Of London,Warren Zevon,731,700,31
 Ruby Tuesday,The Rolling Stones,732,1426,-694
 On The Turning Away,Pink Floyd,735,1648,-913
 I Will,The Beatles,740,1067,-327
@@ -153,16 +171,20 @@ That Old Black Hole,Dr. Dog,815,1372,-557
 Every Breath You Take,The Police,819,890,-71
 Brilliant Disguise,Bruce Springsteen,823,1385,-562
 Love Vigilantes,New Order,824,1407,-583
+Rain,The Beatles,827,683,144
 Tusk,Fleetwood Mac,828,1051,-223
 1999,Prince,829,2002,-1173
 The Luckiest,Ben Folds,834,935,-101
 Crazy On You,Heart,839,1356,-517
 Skateaway,Dire Straits,841,991,-150
+Ceremony,New Order,848,693,155
+Midnight In Harlem,Tedeschi Trucks Band,852,673,179
 So Far Away,Carole King,853,1618,-765
 Birdland,Weather Report,857,1154,-297
 Carolina In My Mind,James Taylor,858,1454,-596
 Middle Of The Road,The Pretenders,860,1151,-291
 Proud Mary,Creedence Clearwater Revival,862,858,4
+Windows Are Rolled Down,Amos Lee,863,667,196
 Heavy Metal Drummer,Wilco,866,1170,-304
 How Many More Times,Led Zeppelin,867,1242,-375
 Shattered,The Rolling Stones,869,1903,-1034
