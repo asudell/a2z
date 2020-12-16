@@ -23,14 +23,17 @@ Dead Flowers,The Rolling Stones,184,493,-309
 California Stars,Billy Bragg & Wilco,198,410,-212
 Diamonds On The Soles Of Her Shoes,Paul Simon,199,682,-483
 Cinnamon Girl,Neil Young,203,951,-748
+The Pretender,Jackson Browne,208,365,-157
 Wonderwall,Oasis,209,802,-593
 Since I've Been Loving You,Led Zeppelin,211,681,-470
 Heavenly Day,Patty Griffin,212,709,-497
 Going To California,Led Zeppelin,217,468,-251
 Beautiful Day,U2,224,569,-345
+"Jesus, Etc.",Wilco,225,372,-147
 Let Down,Radiohead,227,721,-494
 Tenth Avenue Freeze Out,Bruce Springsteen,233,533,-300
 The Thrill Is Gone,B.B. King,239,620,-381
+You Really Got Me,The Kinks,240,374,-134
 Fool In The Rain,Led Zeppelin,243,730,-487
 I Wanna Be Sedated,The Ramones,244,638,-394
 Brain Damage/Eclipse,Pink Floyd,246,525,-279
@@ -120,6 +123,7 @@ Roads To Moscow,Al Stewart,466,499,-33
 Watching The Detectives,Elvis Costello,467,487,-20
 Angie,The Rolling Stones,469,542,-73
 Sweet Home Alabama,Lynyrd Skynyrd,470,799,-329
+Black Dog,Led Zeppelin,471,377,94
 Heroin,The Velvet Underground,473,427,46
 Eminence Front,The Who,475,968,-493
 I Heard It Through The Grapevine,Marvin Gaye,476,512,-36
@@ -137,6 +141,7 @@ Higher Ground,Stevie Wonder,494,731,-237
 Everything In Its Right Place,Radiohead,497,796,-299
 Dance Yrself Clean,Lcd Soundsystem,499,779,-280
 You've Got A Friend,James Taylor,501,854,-353
+Moonage Daydream,David Bowie,504,360,144
 Free Man In Paris,Joni Mitchell,505,1358,-853
 Levon,Elton John,507,483,24
 All Day And All Of The Night,The Kinks,509,1293,-784
@@ -154,12 +159,14 @@ Aqualung,Jethro Tull,527,604,-77
 Year Of The Cat,Al Stewart,529,457,72
 You've Got A Friend,Carole King,532,1989,-1457
 You've Got A Friend,Carole King,532,587,-55
+Fortunate Son,Creedence Clearwater Revival,535,380,155
 Pinball Wizard,The Who,536,1449,-913
 In These Shoes,Kirsty Maccoll,537,1606,-1069
 Immigrant Song,Led Zeppelin,539,440,99
 Street Fighting Man,The Rolling Stones,541,1122,-581
 These Arms Of Mine,Otis Redding,542,1506,-964
 Time Spent In Los Angeles,Dawes,543,1248,-705
+Tears Of A Clown,Smokey Robinson & The Miracles,544,376,168
 Come As You Are,Nirvana,549,686,-137
 Rapper's Delight,Sugar Hill Gang,550,550,0
 Set Fire To The Rain,Adele,551,815,-264
@@ -180,14 +187,17 @@ Dixie Chicken,Little Feat,581,421,160
 In The Aeroplane Over The Sea,Neutral Milk Hotel,582,717,-135
 Lithium,Nirvana,583,961,-378
 Wuthering Heights,Kate Bush,585,597,-12
+Mr. Blue Sky,Electric Light Orchestra,588,381,207
 Rain King,Counting Crows,590,1319,-729
 Golden Lady,Stevie Wonder,591,860,-269
 Think,Aretha Franklin,594,639,-45
 Kathy's Song,Simon & Garfunkel,596,1104,-508
 Over The Rainbow,Eva Cassidy,597,923,-326
 Pump It Up,Elvis Costello,600,843,-243
+Grace,Jeff Buckley,602,369,233
 Rumble,Link Wray,603,465,138
 She's The One,Bruce Springsteen,604,669,-65
+Taxi,Harry Chapin,605,367,238
 Steam Engine,My Morning Jacket,606,1303,-697
 Anna Begins,Counting Crows,610,522,88
 Mysterious Ways,U2,611,1681,-1070
@@ -199,6 +209,7 @@ I Want You (She's So Heavy),The Beatles,619,1204,-585
 Message In A Bottle,The Police,621,635,-14
 Please Please Me,The Beatles,626,582,44
 (Angels Want To Wear My) Red Shoes,Elvis Costello,628,1227,-599
+Car Wheels On A Gravel Road,Lucinda Williams,630,361,269
 Shadow People,Dr. Dog,631,1232,-601
 Lost In The Supermarket,The Clash,632,1021,-389
 When You Were Young,The Killers,634,1149,-515
@@ -281,6 +292,7 @@ Man Out Of Time,Elvis Costello,799,1896,-1097
 Radio Free Europe,REM,802,1574,-772
 These Days,Jackson Browne,805,480,325
 I Can See For Miles,The Who,808,1214,-406
+Love And Affection,Joan Armatrading,810,366,444
 Room To Move,John Mayall,811,1301,-490
 Sheena Is A Punk Rocker,The Ramones,813,982,-169
 That Old Black Hole,Dr. Dog,815,1372,-557
