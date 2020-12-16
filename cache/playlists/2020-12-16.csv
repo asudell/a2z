@@ -1,4 +1,78 @@
 Artist,Title,Air Time
+Led Zeppelin,When The Levee Breaks,2020-12-16 17:00:00
+Elton John,Mona Lisas And Mad Hatters,2020-12-16 16:54:00
+The Flamingos,I Only Have Eyes For You,2020-12-16 16:48:00
+The Velvet Underground,Sweet Jane,2020-12-16 16:44:00
+Janis Joplin,Me And Bobby McGee,2020-12-16 16:38:00
+Grateful Dead,Uncle John's Band,2020-12-16 16:33:00
+Led Zeppelin,The Rain Song,2020-12-16 16:23:00
+The Allman Brothers,Melissa,2020-12-16 16:19:00
+Fleetwood Mac,Go Your Own Way,2020-12-16 16:15:00
+Fleetwood Mac,The Chain,2020-12-16 16:08:00
+The Beatles,Come Together,2020-12-16 16:04:00
+Talking Heads,Life During Wartime,2020-12-16 16:00:00
+The Allman Brothers,Jessica,2020-12-16 15:52:00
+Phil Collins,In The Air Tonight,2020-12-16 15:46:00
+Johnny Cash,Folsom Prison Blues,2020-12-16 15:44:00
+Fleetwood Mac,Dreams,2020-12-16 15:40:00
+The Doors,L. A. Woman,2020-12-16 15:30:00
+Grateful Dead,Scarlet Begonias,2020-12-16 15:26:00
+Bob Dylan,Positively 4th Street,2020-12-16 15:22:00
+Patti Smith,People Have The Power,2020-12-16 15:16:00
+David Bowie,Changes,2020-12-16 15:12:00
+Sufjan Stevens,Chicago,2020-12-16 15:05:00
+Bonnie Raitt,I Can't Make You Love Me,2020-12-16 15:00:00
+LCD Soundsystem,All My Friends,2020-12-16 14:52:00
+Judy Garland,Somewhere Over The Rainbow,2020-12-16 14:47:00
+Lou Reed,Intro/Sweet Jane,2020-12-16 14:39:00
+Grateful Dead,Box Of Rain,2020-12-16 14:32:00
+Traffic,Dear Mr. Fantasy,2020-12-16 14:27:00
+Dawes,When My Time Comes,2020-12-16 14:20:00
+Roberta Flack,The First Time Ever I Saw Your Face,2020-12-16 14:15:00
+Carole King,It's Too Late,2020-12-16 14:09:00
+Muddy Waters,Mannish Boy,2020-12-16 14:03:00
+Crosby Stills Nash & Young,Ohio,2020-12-16 14:00:00
+George Harrison,My Sweet Lord,2020-12-16 13:55:00
+Neil Young,Cowgirl In The Sand,2020-12-16 13:44:00
+Pink Floyd,Echoes,2020-12-16 13:20:00
+Woody Guthrie,This Land Is Your Land,2020-12-16 13:15:00
+Bruce Springsteen,Badlands,2020-12-16 13:11:00
+Steely Dan,My Old School,2020-12-16 13:04:00
+The Beatles,Dear Prudence,2020-12-16 13:00:00
+Tears For Fears,Everybody Wants To Rule The World,2020-12-16 12:55:00
+Joni Mitchell,Coyote,2020-12-16 12:49:00
+Joni Mitchell,Woodstock,2020-12-16 12:43:00
+Neil Young,Heart Of Gold,2020-12-16 12:40:00
+David Bowie,Young Americans,2020-12-16 12:33:00
+Paul McCartney,Maybe I'm Amazed,2020-12-16 12:29:00
+James Taylor,Sweet Baby James,2020-12-16 12:26:00
+Elvis Presley,Suspicious Minds,2020-12-16 12:21:00
+Bob Dylan,Desolation Row,2020-12-16 12:10:00
+Bruce Springsteen,Incident on 57th St,2020-12-16 12:00:00
+Warren Zevon,"Lawyers, Guns, And Money",2020-12-16 11:57:00
+James Taylor,Fire And Rain,2020-12-16 11:52:00
+Ben E. King,Stand By Me,2020-12-16 11:49:00
+The Beatles,Strawberry Fields Forever,2020-12-16 11:44:00
+Neil Young,Down By The River,2020-12-16 11:34:00
+Bill Withers,Ain't No Sunshine,2020-12-16 11:32:00
+The Cure,Pictures Of You,2020-12-16 11:23:00
+The Rolling Stones,Brown Sugar,2020-12-16 11:19:00
+Johnny Cash,Ring of Fire,2020-12-16 11:16:00
+Joni Mitchell,Big Yellow Taxi,2020-12-16 11:14:00
+Tori Amos,Silent All These Years,2020-12-16 11:07:00
+Neil Young,Rockin' In The Free World,2020-12-16 11:03:00
+Grateful Dead,Terrapin Station,2020-12-16 10:46:00
+The Beatles,Norwegian Wood (This Bird Has Flown),2020-12-16 10:42:00
+Curtis Mayfield,Move On Up,2020-12-16 10:34:00
+Grateful Dead,Sugar Magnolia,2020-12-16 10:29:00
+Joe Cocker,With A Little Help From My Friends,2020-12-16 10:23:00
+The Allman Brothers,Dreams,2020-12-16 10:15:00
+Led Zeppelin,Ramble On,2020-12-16 10:09:00
+Jeff Buckley,Last Goodbye,2020-12-16 10:04:00
+The Moody Blues,Nights In White Satin,2020-12-16 10:00:00
+Pink Floyd,Dogs,2020-12-16 09:42:00
+Neil Young,After The Goldrush,2020-12-16 09:37:00
+Patti Smith,Because The Night,2020-12-16 09:34:00
 R. E. M.,Man On The Moon,2020-12-16 09:28:00
 The Beatles,Penny Lane,2020-12-16 09:25:00
 Bruce Springsteen,The Promised Land,2020-12-16 09:18:00
@@ -70,6 +144,7 @@ Counting Crows,Round Here,2020-12-16 03:03:00
 Dire Straits,Brothers In Arms,2020-12-16 02:56:00
 David Bowie,Rebel Rebel,2020-12-16 02:50:00
 Public Enemy,Fight The Power,2020-12-16 02:46:00
+Townes Van Zandt,Pancho & Lefty,2020-12-16 02:43:00
 George Jones,He Stopped Loving Her Today,2020-12-16 02:38:00
 The Who,My Generation,2020-12-16 02:34:00
 Blondie,Heart Of Glass,2020-12-16 02:29:00
