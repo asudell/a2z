@@ -1913,7 +1913,7 @@ Jackson Browne,Late For The Sky,2020-12-16 23:40:00,L,Late,6,1974
 Steely Dan,Aja,2020-12-16 23:46:00,A,Aja,8,1977
 Patti Smith,Gloria,2020-12-16 23:54:00,G,Gloria,6,1975
 Paul Simon,You Can Call Me Al,2020-12-17 00:00:00,Y,You,5,1986
-Elvis Costello,"(What's So Funny 'bout) Peace, Love & Understanding",2020-12-17 00:05:00,W,(,3,1979
+Elvis Costello,"(What's So Funny 'bout) Peace, Love & Understanding",2020-12-17 00:05:00,(,(,3,1979
 Foo Fighters,Everlong,2020-12-17 00:08:00,E,Everlong,4,1997
 Bob Marley & The Wailers,Three Little Birds,2020-12-17 00:12:00,T,Three,5,1977
 Pearl Jam,Alive,2020-12-17 00:17:00,A,Alive,6,2003
@@ -2008,4 +2008,14 @@ Bonnie Raitt & John Prine,Angel From Montgomery,2020-12-17 17:15:00,A,Angel,4,0
 Queen,Bohemian Rhapsody,2020-12-17 17:19:00,B,Bohemian,6,1979
 Derek & The Dominos,Layla,2020-12-17 17:25:00,L,Layla,9,1972
 The Beatles,Hey Jude,2020-12-17 17:34:00,H,Hey,7,1968
-The Beatles,A Day In The Life,2020-12-17 17:41:00,A,A,8,1967
+The Beatles,A Day In The Life,2020-12-17 17:41:00,A,A,7,1967
+The Rolling Stones,(I Can't Get No) Satisfaction,2020-12-17 17:48:00,(,(,4,1977
+The Beach Boys,God Only Knows,2020-12-17 17:52:00,G,God,5,1966
+Led Zeppelin,Stairway To Heaven,2020-12-17 17:57:00,S,Stairway,9,1971
+The Band,The Weight,2020-12-17 18:06:00,T,The,4,1972
+The Beatles,In My Life,2020-12-17 18:10:00,I,In,5,1965
+Bruce Springsteen,Born To Run,2020-12-17 18:15:00,B,Born,5,1975
+The Rolling Stones,Gimme Shelter,2020-12-17 18:20:00,G,Gimme,6,1977
+Bob Dylan,Like A Rolling Stone,2020-12-17 18:26:00,L,Like,7,1965
+John Lennon,Imagine,2020-12-17 18:33:00,I,Imagine,6,1986
+Bruce Springsteen,Thunder Road,2020-12-17 18:39:00,T,Thunder,7,1975
