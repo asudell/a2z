@@ -30,7 +30,7 @@ The Eagles,Life In The Fast Lane,2020-12-10 10:22:00,L,Life,5,1976
 The Eagles,New Kid In Town,2020-12-10 10:27:00,N,New,6,1976
 Creedence Clearwater Revival,Down On The Corner,2020-12-10 10:33:00,D,Down,2,1969
 Al Green,I'm Still In Love With You,2020-12-10 10:35:00,I,I'm,3,1972
-Carole King,You've Got A Friend,2020-12-10 10:38:00,Y,You've,7,1971
+Mathew Sweet,Girlfriend,2020-12-10 10:38:00,G,Girlfriend,7,0
 War,Me And Baby Brother,2020-12-10 10:45:00,M,Me,3,1973
 Tom Rush,No Regrets,2020-12-10 10:48:00,N,No,4,1966
 Psychedelic Furs,Pretty In Pink,2020-12-10 10:52:00,P,Pretty,6,1981
@@ -1835,4 +1835,87 @@ Janis Joplin,Me And Bobby McGee,2020-12-16 16:38:00,M,Me,6,1980
 The Velvet Underground,Sweet Jane,2020-12-16 16:44:00,S,Sweet,4,1970
 The Flamingos,I Only Have Eyes For You,2020-12-16 16:48:00,I,I,6,1989
 Elton John,Mona Lisas And Mad Hatters,2020-12-16 16:54:00,M,Mona,6,1972
-Led Zeppelin,When The Levee Breaks,2020-12-16 17:00:00,W,When,9,1971
+Led Zeppelin,When The Levee Breaks,2020-12-16 17:00:00,W,When,7,1971
+Fairport Convention,Who Knows Where The Time Goes,2020-12-16 17:07:00,W,Who,7,1972
+Frank Sinatra,My Way,2020-12-16 17:14:00,M,My,5,1974
+King Crimson,The Court Of The Crimson King,2020-12-16 17:19:00,T,The,7,1991
+Jimi Hendrix,Voodoo Child (Slight Return),2020-12-16 17:26:00,V,Voodoo,7,1980
+Billy Joel,Piano Man,2020-12-16 17:33:00,P,Piano,6,1973
+Adele,Rolling In The Deep,2020-12-16 17:39:00,R,Rolling,5,2010
+Otis Redding,Try A Little Tenderness,2020-12-16 17:44:00,T,Try,4,1984
+Marvin Gaye,Inner City Blues,2020-12-16 17:48:00,I,Inner,3,1986
+Outkast,Hey Ya,2020-12-16 17:51:00,H,Hey,5,2003
+The Beatles,The Long And Winding Road,2020-12-16 17:56:00,T,The,4,1970
+David Bowie,Starman,2020-12-16 18:00:00,S,Starman,4,1972
+Stevie Wonder,As,2020-12-16 18:04:00,A,As,9,1971
+Procol Harum,A Whiter Shade Of Pale,2020-12-16 18:13:00,A,A,4,1980
+Jason Isbell,Cover Me Up,2020-12-16 18:17:00,C,Cover,7,2013
+Ray Charles,Georgia On My Mind,2020-12-16 18:24:00,G,Georgia,4,1971
+Neil Young,Powderfinger,2020-12-16 18:28:00,P,Powderfinger,7,1979
+John Coltrane,My Favorite Things,2020-12-16 18:35:00,M,My,15,1978
+The Ronettes,Be My Baby,2020-12-16 18:50:00,B,Be,3,1963
+Bob Dylan,Visions Of Johanna,2020-12-16 18:53:00,V,Visions,8,1966
+Tracy Chapman,Fast Car,2020-12-16 19:01:00,F,Fast,5,1988
+Radiohead,Paranoid Android,2020-12-16 19:06:00,P,Paranoid,8,1997
+Elvis Costello,Alison,2020-12-16 19:14:00,A,Alison,3,1977
+The Beatles,I Want To Hold Your Hand,2020-12-16 19:17:00,I,I,2,1976
+Bob Dylan,The Times They Are A-Changin',2020-12-16 19:19:00,T,The,3,1964
+The Band,It Makes No Difference,2020-12-16 19:22:00,I,It,9,1975
+Sam Cooke,Bring It On Home To Me,2020-12-16 19:31:00,B,Bring,2,1962
+Jefferson Airplane,White Rabbit,2020-12-16 19:33:00,W,White,3,1992
+Cat Stevens,Father & Son,2020-12-16 19:36:00,F,Father,5,1970
+Van Morrison,Brown Eyed Girl,2020-12-16 19:41:00,B,Brown,3,1977
+Simon & Garfunkel,The Boxer,2020-12-16 19:44:00,T,The,5,1972
+Tom Petty,Wildflowers,2020-12-16 19:49:00,W,Wildflowers,5,1994
+The Rolling Stones,"Paint It, Black",2020-12-16 19:54:00,P,Paint,3,1977
+Jimi Hendrix,Little Wing,2020-12-16 19:57:00,L,Little,4,1983
+Brandi Carlile,The Story,2020-12-16 20:01:00,T,The,3,2005
+Nina Simone,Feelin' Good,2020-12-16 20:04:00,F,Feelin',3,1965
+The Cure,Just Like Heaven,2020-12-16 20:07:00,J,Just,5,1987
+Neil Young,Cortez The Killer,2020-12-16 20:12:00,C,Cortez,8,1975
+The Beatles,Revolution,2020-12-16 20:20:00,R,Revolution,3,1968
+Hank Williams,I'm So Lonesome I Could Cry,2020-12-16 20:23:00,I,I'm,4,1949
+Indigo Girls,Closer To Fine,2020-12-16 20:27:00,C,Closer,4,1989
+Earth Wind & Fire,September,2020-12-16 20:31:00,S,September,5,1991
+The Righteous Brothers,You've Lost That Lovin' Feelin',2020-12-16 20:36:00,Y,You've,3,1965
+The Who,Love Reign O'er Me,2020-12-16 20:39:00,L,Love,7,1990
+Yes,Close To The Edge,2020-12-16 20:46:00,C,Close,18,1991
+Joy Division,Love Will Tear Us Apart,2020-12-16 21:04:00,L,Love,3,1990
+Bob Dylan,Shelter From The Storm,2020-12-16 21:07:00,S,Shelter,6,1975
+Stevie Wonder,Love's In Need of Love Today,2020-12-16 21:13:00,L,Love's,7,1976
+Blind Faith,Can't Find My Way Home,2020-12-16 21:20:00,C,Can't,4,1969
+U2,Bad,2020-12-16 21:24:00,B,Bad,6,1984
+David Bowie,Space Oddity,2020-12-16 21:30:00,S,Space,4,1969
+Bill Withers,Lovely Day,2020-12-16 21:34:00,L,Lovely,5,1977
+The Beatles,Eleanor Rigby,2020-12-16 21:39:00,E,Eleanor,2,1966
+Al Green,Let's Stay Together,2020-12-16 21:41:00,L,Let's,4,1991
+Yes,I've Seen All Good People,2020-12-16 21:45:00,I,I've,7,1988
+The Beatles,Blackbird,2020-12-16 21:52:00,B,Blackbird,3,1968
+Patti Smith,Dancing Barefoot,2020-12-16 21:55:00,D,Dancing,4,1979
+Elton John,Tiny Dancer,2020-12-16 21:59:00,T,Tiny,7,1971
+Prince,When Doves Cry,2020-12-16 22:06:00,W,When,8,1984
+Bruce Springsteen,New York City Serenade,2020-12-16 22:14:00,N,New,9,1973
+Dawes,Little Bit of Everything,2020-12-16 22:23:00,L,Little,8,2011
+Bob Marley & The Wailers,No Woman No Cry,2020-12-16 22:31:00,N,No,4,1987
+Bill Withers,Lean On Me,2020-12-16 22:35:00,L,Lean,4,1971
+Neil Young,Like A Hurricane,2020-12-16 22:39:00,L,Like,10,1977
+Kate Bush,Running Up That Hill,2020-12-16 22:49:00,R,Running,5,1986
+Billie Holiday,Strange Fruit,2020-12-16 22:54:00,S,Strange,3,1986
+The Allman Brothers,In Memory Of Elizabeth Reed,2020-12-16 22:57:00,I,In,7,1970
+Rod Stewart,Maggie May,2020-12-16 23:04:00,M,Maggie,5,1982
+Buffalo Springfield,For What It's Worth,2020-12-16 23:09:00,F,For,3,1967
+Paul Simon,Graceland,2020-12-16 23:12:00,G,Graceland,5,1986
+The Smiths,How Soon Is Now,2020-12-16 23:17:00,H,How,10,1985
+Frank Sinatra,Summer Wind,2020-12-16 23:27:00,S,Summer,2,1966
+Peter Gabriel,Don't Give Up,2020-12-16 23:29:00,D,Don't,7,1994
+Bob Marley & The Wailers,Redemption Song,2020-12-16 23:36:00,R,Redemption,4,1980
+Jackson Browne,Late For The Sky,2020-12-16 23:40:00,L,Late,6,1974
+Steely Dan,Aja,2020-12-16 23:46:00,A,Aja,8,1977
+Patti Smith,Gloria,2020-12-16 23:54:00,G,Gloria,6,1975
+Paul Simon,You Can Call Me Al,2020-12-17 00:00:00,Y,You,5,1986
+Elvis Costello,"(What's So Funny 'bout) Peace, Love & Understanding",2020-12-17 00:05:00,W,(,3,1979
+Foo Fighters,Everlong,2020-12-17 00:08:00,E,Everlong,4,1997
+Bob Marley & The Wailers,Three Little Birds,2020-12-17 00:12:00,T,Three,5,1977
+Pearl Jam,Alive,2020-12-17 00:17:00,A,Alive,6,2003
+Joni Mitchell,Both Sides Now,2020-12-17 00:23:00,B,Both,7,1969
+Elton John,Funeral For A Friend/Love Lies Bleeding,2020-12-17 00:30:00,F,Funeral,11,1989
