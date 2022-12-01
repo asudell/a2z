@@ -29,9 +29,13 @@ def lookup_tracks(input, output=None, verbose=False):
             for recording in result['recording-list']:
 
                 if verbose:
+                    print "recording : %s" % recording
+                    print "artist has %s" % recording['artist-credit'][0]['artist'].keys()
                     print 'id: %s artist %s' % \
                         (recording['id'],
                          recording['artist-credit'][0]['artist']['sort-name'].encode('utf-8'))
+                         #recording['artist-credit'][0]['artist']['type'],
+                         #recording['artist-credit'][0]['artist']['gender'])
                     if recording['release-list']:
                         print "part of %d releases" % len(recording['release-list'])
                     else:
