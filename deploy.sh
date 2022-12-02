@@ -1,5 +1,6 @@
 FILES="Dataloading2.html"
-#FILES="$FILES XPN2020.html XPN2020_One_Vote_Wonders.html"
+FILES="$FILES 90sA2Z.html"
+# XPN2020_One_Vote_Wonders.html"
 FILES="$FILES data/90sA2Z.csv"
 #FILES="$FILES data/xpn2020_onsies.csv"
 #FILES="$FILES data/XPN2020_and_88Worst.csv data/XPN2020_and_885Best.csv"
