@@ -3,15 +3,15 @@ David Gray,A Century Ends,A Century Ends,2022-12-01 08:02:27,A,A,1993,9
 Cowboy Junkies,A Common Disaster,Lay It Down,2022-12-01 08:12:21,A,A,1996,4
 My Life With Thrill Kill Kult,A Daisy Chain 4 Satan,Confessions of a Knife,2022-12-01 08:16:39,A,A,1990,8
 Bruce Cockburn,A Dream Like Mine,Recorded Live for World Cafe 10/15/91,2022-12-01 08:24:52,A,A,1991,3
-Edwyn Collins,A Girl Like You,Gorgeous George,2022-12-01 08:28:34,A,A,2011,3
+Edwyn Collins,A Girl Like You,Gorgeous George,2022-12-01 08:28:34,A,A,0,3
 John Scofield,A Go Go,A Go Go,2022-12-01 08:32:30,A,A,1998,7
 Sugar,A Good Idea,Copper Blue,2022-12-01 08:40:12,A,A,1992,3
-Tom Petty,A Higher Place,Wildflowers,2022-12-01 08:44:09,A,A,2020,6
+Tom Petty,A Higher Place,Wildflowers,2022-12-01 08:44:09,A,A,0,6
 The Cure,A Letter To Elise,Wish,2022-12-01 08:51:04,A,A,1992,5
 NRBQ,A Little Bit Of Bad,Message For The Mess-age,2022-12-01 08:56:17,A,A,1994,3
 Counting Crows,A Long December,Recovering The Satellites,2022-12-01 09:00:10,A,A,1996,4
 David Byrne,A Long Time Ago,David Byrne,2022-12-01 09:05:09,A,A,1994,6
-De La Soul,"A Roller Skating Jam Named ""Saturdays""",De La Soul is Dead,2022-12-01 09:11:16,A,A,2004,3
+De La Soul,"A Roller Skating Jam Named ""Saturdays""",De La Soul is Dead,2022-12-01 09:11:16,A,A,0,3
 Aretha Franklin,A Rose is Still a Rose,A Rose is Still a Rose,2022-12-01 09:15:09,A,A,1998,4
 Wilco,A Shot In The Arm,Summerteeth,2022-12-01 09:19:47,A,A,1999,5
 The Flaming Lips,A Spoonful Weighs A Ton,The Soft Bulletin,2022-12-01 09:25:24,A,A,1999,3
@@ -24,7 +24,7 @@ Fiona Apple,Across The Universe,Pleasantville OST,2022-12-01 09:49:00,A,Across,1
 Uncle Tupelo,Acuff Rose,Anodyne,2022-12-01 09:54:33,A,Acuff,1993,2
 Sarah McLachlan,Adia,Surfacing,2022-12-01 09:57:14,A,Adia,1997,4
 Red Hot Chili Peppers,Aeroplane,One Hot Minute,2022-12-01 10:01:43,A,Aeroplane,1995,4
-Hamid Baroudi,African Soul,Var-mambo Inn:big Noise 2,2022-12-01 10:05:51,A,African,2004,5
+Hamid Baroudi,African Soul,Var-mambo Inn:big Noise 2,2022-12-01 10:05:51,A,African,0,5
 "Dolly Parton, Linda Ronstadt, and Emmylou Harris",After The Gold Rush,Trio II,2022-12-01 10:10:58,A,After,1999,4
 Crash Test Dummies,Afternoons & Coffeespoons,God Shuffled His Feet,2022-12-01 10:15:44,A,Afternoons,1993,3
 The Tragically Hip,Ahead By A Century,Trouble At The Henhouse,2022-12-01 10:19:31,A,Ahead,1996,3
@@ -40,7 +40,7 @@ Nirvana,All Apologies,MTV Unplugged In New York,2022-12-01 11:02:44,A,All,1994,4
 Sinead O'Connor,All Apologies,Universal Mother,2022-12-01 11:07:30,A,All,1994,2
 Oasis,All Around The World,Be Here Now,2022-12-01 11:09:59,A,All,1997,9
 Rosanne Cash,All Come True,Interiors: The Full Sessions,2022-12-01 11:19:31,A,All,1990,7
-Color Me Badd,All For Love,C.M.B.,2022-12-01 11:26:44,A,All,2011,3
+Color Me Badd,All For Love,C.M.B.,2022-12-01 11:26:44,A,All,0,3
 Sister Hazel,All For You,...Somewhere More Familiar,2022-12-01 11:30:07,A,All,1997,10
 Kirsty MacColl,All I Ever Wanted,Electric Landlady,2022-12-01 11:40:38,A,All,1991,3
 Air,All I Need,Moon Safari,2022-12-01 11:44:14,A,All,1998,4
@@ -68,7 +68,7 @@ Violent Femmes,American Music,Why Do Birds Sing?,2022-12-01 13:31:04,A,American,
 Lenny Kravitz,American Woman (Timbaland Remix),(single),2022-12-01 13:34:42,A,American,1998,4
 Luna,Anesthesia,Lunapark,2022-12-01 13:39:10,A,Anesthesia,1992,3
 Sarah McLachlan,Angel,Surfacing,2022-12-01 13:42:54,A,Angel,1997,4
-Bonnie Raitt & John Prine,Angel From Montgomery,The Bonnie Raitt Collection,2022-12-01 13:47:14,A,Angel,1985,5
+Bonnie Raitt & John Prine,Angel From Montgomery,The Bonnie Raitt Collection,2022-12-01 13:47:14,A,Angel,0,5
 Ani DiFranco,Angry Anymore,Up Up Up Up Up Up,2022-12-01 13:52:21,A,Angry,1999,3
 POE,Angry Johnny,Hello,2022-12-01 13:55:41,A,Angry,1995,4
 Suede,Animal Nitrate,Suede,2022-12-01 14:00:34,A,Animal,1993,3
@@ -83,14 +83,14 @@ Erykah Badu,Apple Tree,Baduizm,2022-12-01 14:42:36,A,Apple,1997,4
 Rufus Wainwright,April Fools,Rufus Wainwright,2022-12-01 14:46:53,A,April,1998,5
 Lenny Kravitz,Are You Gonna Go My Way,Are You Gonna Go My Way?,2022-12-01 14:52:01,A,Are,1993,4
 Dar Williams,Are You Out There,End Of Summer,2022-12-01 14:56:54,A,Are,1997,3
-Aaliyah,Are You That Somebody,Dr. Dolittle Soundtrack,2022-12-01 15:00:26,A,Are,2002,4
+Aaliyah,Are You That Somebody,Dr. Dolittle Soundtrack,2022-12-01 15:00:26,A,Are,0,4
 Ben Folds Five,Army,The Unauthorized Biography Of Reinhold Messner,2022-12-01 15:04:48,A,Army,1999,4
-Bj rk,Army Of Me,Post,2022-12-01 15:09:44,A,Army,,3
+Bj rk,Army Of Me,Post,2022-12-01 15:09:44,A,Army,0,3
 Daft Punk,Around The World,Homework,2022-12-01 15:13:35,A,Around,1997,12
 Maxwell,Ascension (Don't Ever Wonder),Maxwell's Urban Hang Suite,2022-12-01 15:25:48,A,Ascension,1996,5
 Talk Talk,Ascension Day,Laughing Stock,2022-12-01 15:31:30,A,Ascension,1991,6
 Rage Against The Machine,Ashes In The Fall,The Battle Of Los Angeles,2022-12-01 15:37:36,A,Ashes,1999,6
-Happy Rhodes,Ashes To Ashes,Rhode Songs,2022-12-01 15:44:05,A,Ashes,2018,3
+Happy Rhodes,Ashes To Ashes,Rhode Songs,2022-12-01 15:44:05,A,Ashes,0,3
 Ben Arnold,Astral Freak,Almost Speechless,2022-12-01 15:47:42,A,Astral,1995,4
 The Band,Atlantic City,JERICHO,2022-12-01 15:51:53,A,Atlantic,1993,6
 Outkast,ATLiens,ATLiens,2022-12-01 15:58:09,A,ATLiens,1996,4
@@ -147,12 +147,12 @@ The Judybats,Being Simple,Pain Makes You Beautiful,2022-12-01 19:41:30,B,Being,1
 Cher,Believe,Believe,2022-12-01 19:45:36,B,Believe,1998,3
 Lenny Kravitz,Believe,Are You Gonna Go My Way?,2022-12-01 19:49:35,B,Believe,1993,5
 Jon Spencer Blues Explosion,Bellbottoms,Orange,2022-12-01 19:54:46,B,Bellbottoms,1994,5
-Los Lobos,Bertha,Var-deadicated,2022-12-01 20:00:34,B,Bertha,2013,5
+Los Lobos,Bertha,Var-deadicated,2022-12-01 20:00:34,B,Bertha,0,5
 Brandy,Best Friend,Brandy,2022-12-01 20:05:42,B,Best,1994,4
 Ben Folds Five,Best Imitation of Myself,Ben Folds Five,2022-12-01 20:10:35,B,Best,1995,3
 Pearl Jam,Better Man,Vitology,2022-12-01 20:14:26,B,Better,1994,3
 Selena,Bidi Bidi Bom Bom,Amor Prohibido,2022-12-01 20:18:24,B,Bidi,1994,3
-Spacemen 3,Big Ciity (Everybody I Know Can Be Found Here),Recurring,2022-12-01 20:21:36,B,Big,2004,11
+Spacemen 3,Big Ciity (Everybody I Know Can Be Found Here),Recurring,2022-12-01 20:21:36,B,Big,0,11
 Stone Temple Pilots,Big Empty,Purple,2022-12-01 20:33:23,B,Big,1994,4
 Foo Fighters,Big Me,Foo Fighters,2022-12-01 20:38:08,B,Big,1995,2
 Chris Whitley,Big Sky Country,Living With The Law,2022-12-01 20:40:22,B,Big,1991,5
@@ -175,7 +175,7 @@ Chemical Brothers,Block Rockin' Beats,Dig Your Own Hole,2022-12-01 22:09:36,B,Bl
 LeAnn Rimes,Blue,Blue,2022-12-01 22:14:03,B,Blue,1996,2
 The Jayhawks,Blue,Tomorrow The Green Grass,2022-12-01 22:16:46,B,Blue,1995,3
 Eiffel 65,Blue (Da Ba Dee),Europop,2022-12-01 22:19:50,B,Blue,1999,3
-John Fogerty,Blue Boy,Blue Moon Swamp,2022-12-01 22:23:22,B,Blue,2017,4
+John Fogerty,Blue Boy,Blue Moon Swamp,2022-12-01 22:23:22,B,Blue,0,4
 David Poe,Blue Glass Fall,David Poe,2022-12-01 22:27:51,B,Blue,1997,3
 Massive Attack,Blue Lines,Blue Lines,2022-12-01 22:31:43,B,Blue,1991,4
 Midnight Oil,Blue Sky Mine,Blue Sky Mining,2022-12-01 22:36:13,B,Blue,1990,9
@@ -183,12 +183,12 @@ Taj Mahal,Blues Ain't Nothing,Dancing The Blues,2022-12-01 22:45:22,B,Blues,1993
 G. Love & Special Sauce,Blues Music,G Love & Special Sauce,2022-12-01 22:49:27,B,Blues,1994,5
 The Tragically Hip,Bobcaygeon,Phantom Power,2022-12-01 22:54:57,B,Bobcaygeon,1998,5
 Beastie Boys,Body Movin',Hello Nasty,2022-12-01 23:00:34,B,Body,1998,3
-Moby,Bodyrock,Play,2022-12-01 23:03:36,B,Bodyrock,2008,4
-Mae Moore,Bohemia,Bohemia,2022-12-01 23:07:51,B,Bohemia,2002,4
+Moby,Bodyrock,Play,2022-12-01 23:03:36,B,Bodyrock,0,4
+Mae Moore,Bohemia,Bohemia,2022-12-01 23:07:51,B,Bohemia,0,4
 Radiohead,Bones,The Bends,2022-12-01 23:11:56,B,Bones,1995,3
-The Origin,Bonfires Burning,Bend,2022-12-01 23:15:09,B,Bonfires,2016,5
+The Origin,Bonfires Burning,Bend,2022-12-01 23:15:09,B,Bonfires,0,5
 Enya,Book Of Days,Shepherd Moons,2022-12-01 23:20:22,B,Book,1991,2
-John Lee Hooker,Boom Boom,Boom Boom,2022-12-01 23:22:51,B,Boom,1962,4
+John Lee Hooker,Boom Boom,Boom Boom,2022-12-01 23:22:51,B,Boom,0,4
 The Iguanas,Boom Boom Boom,Nuevo Boogaloo,2022-12-01 23:27:09,B,Boom,1994,5
 DJ Jazzy Jeff & The Fresh Prince,Boom! Shake The Room,Code Red,2022-12-01 23:32:11,B,Boom,1993,5
 Paul Simon,Born At The Right Time,Rhythm Of The Saints,2022-12-01 23:37:34,B,Born,1990,3
@@ -203,7 +203,7 @@ Local H,Bound For The Floor,As Good As Dead,2022-12-02 00:17:49,B,Bound,1996,3
 Wilco,Box Full Of Letters,A.M.,2022-12-02 00:21:40,B,Box,1995,3
 Green Day,Brain Stew,Insomniac,2022-12-02 00:25:28,B,Brain,1995,7
 Sebadoh,Brand New Love,Smash Your Head on the Punk Rock,2022-12-02 00:32:46,B,Brand,1992,4
-Black Uhuru,Brand New World,Strongg,2022-12-02 00:37:18,B,Brand,2017,10
+Black Uhuru,Brand New World,Strongg,2022-12-02 00:37:18,B,Brand,0,10
 Tears For Fears,Break It Down Again,Elemental,2022-12-02 00:47:33,B,Break,1993,4
 Buzz Zeemer,Break My Heart,Play Thing,2022-12-02 00:52:03,B,Break,1996,4
 Method Man,Break Up 2 Make Ups,Tical 2000: Judgement Day,2022-12-02 00:56:03,B,Break,1998,4
@@ -260,7 +260,7 @@ Los Lobos,Can't Stop The Rain,Colossal Head,2022-12-02 04:42:29,C,Can't,1996,3
 Lauryn Hill,Can't Take My Eyes Off Of You,The Miseducation Of Lauryn Hill,2022-12-02 04:45:57,C,Can't,1998,5
 Public Enemy,Can't Truss It,Apocalypse 91...The Enemy Strikes Black,2022-12-02 04:51:11,C,Can't,1991,9
 Morphine,Candy,Cure For Pain,2022-12-02 05:00:41,C,Candy,1993,3
-Iggy Pop,Candy (ft. Kate Pierson),Brick By Brick,2022-12-02 05:03:49,C,Candy,,4
+Iggy Pop,Candy (ft. Kate Pierson),Brick By Brick,2022-12-02 05:03:49,C,Candy,0,4
 "10,000 Maniacs",Candy Everybody Wants,Our Time In Eden,2022-12-02 05:07:59,C,Candy,1992,4
 Soul 4 Real,Candy Rain,Candy Rain,2022-12-02 05:12:08,C,Candy,1995,4
 Jamiroquai,Canned Heat,Synkronized,2022-12-02 05:16:27,C,Canned,1999,3
@@ -273,9 +273,9 @@ Enya,Caribbean Blue,Shepherd Moons,2022-12-02 05:39:32,C,Caribbean,1991,4
 Natalie Merchant,Carnival,Tigerlily,2022-12-02 05:43:34,C,Carnival,1995,5
 Leaders Of The New School,Case Of The P.T.A.,A Future Without A Past...,2022-12-02 05:49:20,C,Case,1991,4
 Wilco,Casino Queen,A.M.,2022-12-02 05:53:52,C,Casino,1995,2
-Suzanne Vega,Cassidy,Deadicated,2022-12-02 05:56:34,C,Cassidy,2002,4
+Suzanne Vega,Cassidy,Deadicated,2022-12-02 05:56:34,C,Cassidy,0,4
 "Jump, Little Children",Cathedrals,MAGAZINE,2022-12-02 06:00:47,C,Cathedrals,1998,7
-John Wesley Harding,Cathy's New Clown,Here Comes The Groom,2022-12-02 06:08:34,C,Cathy's,2005,4
+John Wesley Harding,Cathy's New Clown,Here Comes The Groom,2022-12-02 06:08:34,C,Cathy's,0,4
 Tori Amos,Caught A Lite Sneeze,Boys For Pele,2022-12-02 06:13:15,C,Caught,1996,4
 Supergrass,Caught By The Fuzz,I Should Coco,2022-12-02 06:17:43,C,Caught,1995,4
 Hole,Celebrity Skin,Celebrity Skin,2022-12-02 06:21:58,C,Celebrity,1998,2
@@ -313,15 +313,15 @@ Blur,Coffee and T.V.,13,2022-12-02 09:04:03,C,Coffee,1999,6
 G. Love & Special Sauce,Cold Beverage,G Love & Special Sauce,2022-12-02 09:10:46,C,Cold,1994,2
 Bob Dylan,Cold Irons Bound,Time Out of Mind,2022-12-02 09:13:15,C,Cold,1997,7
 MC Lyte,Cold Rock A Party (ft. Missy Elliott),Bad As I Wanna Be,2022-12-02 09:20:35,C,Cold,1996,6
-Michelle Shocked,Come A Long Way,Arkansas Traveller,2022-12-02 09:27:20,C,Come,1973,4
+Michelle Shocked,Come A Long Way,Arkansas Traveller,2022-12-02 09:27:20,C,Come,0,4
 Nirvana,Come As You Are,MTV Unplugged In New York,2022-12-02 09:31:57,C,Come,1994,8
 Mary Chapin Carpenter,Come On Come On,Come On Come On,2022-12-02 09:40:15,C,Come,1992,4
-Los Lobos,Come On Let's Go,La Bamba (soundtrack),2022-12-02 09:45:08,C,Come,1987,1
+Los Lobos,Come On Let's Go,La Bamba (soundtrack),2022-12-02 09:45:08,C,Come,0,1
 The Offspring,Come Out and Play (Keep 'Em Seperated),Smash,2022-12-02 09:47:06,C,Come,1994,4
 Peter Gabriel,Come Talk To Me,Us,2022-12-02 09:51:18,C,Come,1992,7
 Melissa Etheridge,Come To My Window,Yes I Am,2022-12-02 09:58:40,C,Come,1993,4
 Primal Scream,Come Together,Screamadelica,2022-12-02 10:03:11,C,Come,1991,9
-Bush,Comedown,Sixteen Stone,2022-12-02 10:12:56,C,Comedown,2014,5
+Bush,Comedown,Sixteen Stone,2022-12-02 10:12:56,C,Comedown,0,5
 Crash Test Dummies,Comin' Back Soon,The Ghosts That Haunt Me,2022-12-02 10:18:20,C,Comin',1991,4
 Pulp,Common People,Different Class,2022-12-02 10:22:48,C,Common,1995,6
 Selena,Como La Flor,Entre A Mi Mundo,2022-12-02 10:29:42,C,Como,1992,2
@@ -331,7 +331,7 @@ Sonny Landreth,Congo Square,South Of I-10,2022-12-02 10:42:29,C,Congo,1995,6
 The Afghan Whigs,Conjure Me,Congregation,2022-12-02 10:48:51,C,Conjure,1992,5
 Stereo MC's,Connected,Connected,2022-12-02 10:54:40,C,Connected,1992,5
 Elastica,Connection,Elastica,2022-12-02 11:00:19,C,Connection,1995,2
-k. d. lang,Constant Craving,Ingenue,2022-12-02 11:02:35,C,Constant,2017,4
+k. d. lang,Constant Craving,Ingenue,2022-12-02 11:02:35,C,Constant,0,4
 Richard Thompson,Cooksferry Queen,Mock Tudor,2022-12-02 11:06:57,C,Cooksferry,1999,6
 Bonnie Raitt,Cool Clear Water,Longing In Their Hearts,2022-12-02 11:13:31,C,Cool,1994,5
 James Taylor,Copperline,NEW MOON SHINE,2022-12-02 11:18:48,C,Copperline,1991,4
@@ -347,11 +347,11 @@ Dave Matthews Band,Crash Into Me,Crash,2022-12-02 12:41:37,C,Crash,1996,5
 Richard Thompson,Crawl Back Under My Stone,Mock Tudor,2022-12-02 12:46:44,C,Crawl,1999,4
 Tom Petty,Crawling Back To You,Wildflowers,2022-12-02 12:50:48,C,Crawling,1994,5
 Aerosmith,Crazy,Get A Grip,2022-12-02 12:56:46,C,Crazy,1993,5
-Seal,Crazy,Seal,2022-12-02 13:02:15,C,Crazy,2004,5
+Seal,Crazy,Seal,2022-12-02 13:02:15,C,Crazy,0,5
 Victoria Williams,Crazy Mary,Loose,2022-12-02 13:08:02,C,Crazy,1994,6
 Prince,Cream,Diamonds And Pearls,2022-12-02 13:14:45,C,Cream,1991,5
 Radiohead,Creep,Pablo Honey,2022-12-02 13:19:59,C,Creep,1993,3
-The Afghan Whigs,Creep,Bonnie & Clyde (e.p.),2022-12-02 13:23:56,C,Creep,,4
+The Afghan Whigs,Creep,Bonnie & Clyde (e.p.),2022-12-02 13:23:56,C,Creep,0,4
 TLC,Creep,CrazySexyCool,2022-12-02 13:28:35,C,Creep,1994,4
 Stone Temple Pilots,Creep,Core,2022-12-02 13:32:51,C,Creep,1992,5
 Fiona Apple,Criminal,Tidal,2022-12-02 13:38:25,C,Criminal,1996,7
@@ -389,7 +389,7 @@ Nine Inch Nails,Dead Souls,The Crow Soundtrack,2022-12-02 16:13:57,D,Dead,1994,4
 The Afghan Whigs,Debonair,Gentlemen,2022-12-02 16:18:43,D,Debonair,1993,4
 Collective Soul,December,Collective Soul,2022-12-02 16:22:59,D,December,1995,8
 Teenage Fanclub,December,Bandwagonesque,2022-12-02 16:31:41,D,December,1991,2
-Urban Dance Squad,Deeper Shade Of Soul,Mental Floss For The Globe,2022-12-02 16:34:40,D,Deeper,2007,9
+Urban Dance Squad,Deeper Shade Of Soul,Mental Floss For The Globe,2022-12-02 16:34:40,D,Deeper,0,9
 Leonard Cohen,Democracy,The Future,2022-12-02 16:44:20,D,Democracy,1992,7
 Fountains Of Wayne,Denise,UTOPIA PARKWAY,2022-12-02 16:51:34,D,Denise,1999,2
 Sting,Desert Rose,Brand New Day,2022-12-02 16:54:06,D,Desert,1999,5
@@ -410,9 +410,9 @@ Dada,Dizz Knee Land,Puzzle,2022-12-02 18:00:35,D,Dizz,1992,4
 Violent Femmes,Do You Really Want To Hurt Me,Why Do Birds Sing?,2022-12-02 18:04:39,D,Do,1991,4
 The Roots,Do You Want More?!!!?!,Do You Want More?!!!?!,2022-12-02 18:09:31,D,Do,1995,6
 Phish,Dog Faced Boy,Hoist,2022-12-02 18:16:07,D,Dog,1994,2
-Betty Boo,Doin' The Do,Boo Mania,2022-12-02 18:18:12,D,Doin',2022,3
+Betty Boo,Doin' The Do,Boo Mania,2022-12-02 18:18:12,D,Doin',0,3
 Sublime,Doin' Time,Sublime,2022-12-02 18:21:58,D,Doin',1996,5
-The Cure,Doing The Unstuck,Wish,2022-12-02 18:27:33,D,Doing,2022,4
+The Cure,Doing The Unstuck,Wish,2022-12-02 18:27:33,D,Doing,0,4
 Hole,Doll Parts,Live Through This,2022-12-02 18:32:02,D,Doll,1994,5
 Ben Folds Five,Don't Change Your Plans,The Unauthorized Bio. Of Reinhold,2022-12-02 18:37:13,D,Don't,1999,5
 Dave Matthews Band,Don't Drink The Water,Before These Crowded Streets,2022-12-02 18:42:19,D,Don't,1998,4
@@ -425,7 +425,7 @@ No Doubt,Don't Speak,Tragic Kingdom,2022-12-02 19:14:36,D,Don't,1995,4
 Eric B & Rakim,Don't Sweat The Technique,Don't Sweat The Technique,2022-12-02 19:18:53,D,Don't,1992,4
 2 Hyped Brothers and a Dog,Doo Doo Brown,Ya Rollin' Doo Doo,2022-12-02 19:23:14,D,Doo,1991,6
 Lauryn Hill,Doo Wop (That Thing),The Miseducation Of Lauryn Hill,2022-12-02 19:29:43,D,Doo,1998,3
-Curve,Doppelganger,Doppelganger,2022-12-02 19:33:35,D,Doppelganger,2018,4
+Curve,Doppelganger,Doppelganger,2022-12-02 19:33:35,D,Doppelganger,0,4
 Buena Vista Social Club,Dos Gardenias,Buena Vista Social Club,2022-12-02 19:38:08,D,Dos,1997,4
 Mary Chapin Carpenter,Down At The Twist & Shout,Shooting Straight In The Dark,2022-12-02 19:42:10,D,Down,1990,3
 PJ Harvey,Down By The Water,To Bring You My Love,2022-12-02 19:45:28,D,Down,1995,3
@@ -435,9 +435,9 @@ Ween,Dr. Rock,The Pod,2022-12-02 20:00:33,D,Dr,1991,3
 Nirvana,Drain You,Nevermind,2022-12-02 20:03:35,D,Drain,1991,3
 Modest Mouse,Dramamine,This Is A Long Drive For Someone With Nothing To Think About,2022-12-02 20:07:24,D,Dramamine,1996,7
 Sarah McLachlan,Drawn To The Rhythm,Solace,2022-12-02 20:14:52,D,Drawn,1992,3
-Forest For The Trees,Dream,Forest For The Trees,2022-12-02 20:18:30,D,Dream,2022,5
+Forest For The Trees,Dream,Forest For The Trees,2022-12-02 20:18:30,D,Dream,0,5
 The Posies,Dream All Day,Frosting On The Beater,2022-12-02 20:23:35,D,Dream,1993,4
-Neil Young,Dreamin' Man,Harvest Moon,2022-12-02 20:27:40,D,Dreamin',2018,4
+Neil Young,Dreamin' Man,Harvest Moon,2022-12-02 20:27:40,D,Dreamin',0,4
 Madeleine Peyroux,Dreamland,Dreamland,2022-12-02 20:32:07,D,Dreamland,1996,3
 The Cranberries,Dreams,"Everybody Else Is Doing It, So Why Can't We?",2022-12-02 20:35:33,D,Dreams,1993,5
 Ride,Dreams Burn Down,Nowhere,2022-12-02 20:40:40,D,Dreams,1990,5
@@ -448,18 +448,18 @@ Johnny Cash,Drive On,American Recordings,2022-12-02 20:57:41,D,Drive,1994,2
 Everything But The Girl,Driving,The Language Of Life,2022-12-02 21:00:33,D,Driving,1990,3
 Son Volt,Driving The View,Wide Swing Tremolo,2022-12-02 21:04:18,D,Driving,1998,2
 Del Amitri,Driving With The Brakes On,Twisted,2022-12-02 21:07:10,D,Driving,1995,6
-Smashing Pumpkins,Drown,Singles (soundtrack),2022-12-02 21:14:00,D,Drown,2001,4
+Smashing Pumpkins,Drown,Singles (soundtrack),2022-12-02 21:14:00,D,Drown,0,4
 Son Volt,Drown,Trace,2022-12-02 21:18:17,D,Drown,1995,3
 Beats International,Dub Be Good To Me,Let Them Eat Bingo,2022-12-02 21:21:40,D,Dub,1990,5
 Guy Clark,Dublin Blues,Dublin Blues,2022-12-02 21:26:43,D,Dublin,1995,5
 Nirvana,Dumb,In Utero,2022-12-02 21:32:34,D,Dumb,1993,6
-Paul Westerberg,Dyslexic Heart,Singles (soundtrack),2022-12-02 21:38:38,D,Dyslexic,2017,4
+Paul Westerberg,Dyslexic Heart,Singles (soundtrack),2022-12-02 21:38:38,D,Dyslexic,0,4
 Buddy Guy,Early In The Morning,"Damn Right, I've Got The Blues",2022-12-02 21:43:07,E,Early,1991,3
 Van Morrison,Early In The Morning,How Long Has This Been Going On,2022-12-02 21:46:14,E,Early,1995,4
 Julian Cope,East Easy Rider,Peggy Suicide,2022-12-02 21:50:32,E,East,1991,3
 Richard Thompson,"Easy There, Steady Now",Mirror Blue,2022-12-02 21:54:30,E,Easy,1994,5
-De La Soul,Ego Trippin' (Part Two),Buhloone Mindstate,2022-12-02 21:59:40,E,Ego,,3
-Counting Crows,Einstein On The Beach (For an Eggman),DGC Rarities Volume 1,2022-12-02 22:03:15,E,Einstein,2003,3
+De La Soul,Ego Trippin' (Part Two),Buhloone Mindstate,2022-12-02 21:59:40,E,Ego,0,3
+Counting Crows,Einstein On The Beach (For an Eggman),DGC Rarities Volume 1,2022-12-02 22:03:15,E,Einstein,0,3
 Weezer,El Scorcho,Pinkerton,2022-12-02 22:07:06,E,El,1996,5
 Pearl Jam,Elderly Woman Behind The Counter In A Small Town,Vs.,2022-12-02 22:12:24,E,Elderly,1993,3
 Radiohead,Electioneering,OK Computer,2022-12-02 22:15:34,E,Electioneering,1997,3
@@ -468,20 +468,20 @@ Stereo MC's,Elevate My Mind,Supernatural,2022-12-02 22:23:45,E,Elevate,1990,3
 Blur,End of a Century,Parklife,2022-12-02 22:26:55,E,End,1994,2
 Boyz II Men,End of the Road,Cooleyhighharmony,2022-12-02 22:29:41,E,End,1991,6
 Dar Williams,End Of The Summer,End Of The Summer,2022-12-02 22:36:22,E,End,1997,4
-Depeche Mode,Enjoy The Silence,Violator,2022-12-02 22:40:26,E,Enjoy,2020,4
+Depeche Mode,Enjoy The Silence,Violator,2022-12-02 22:40:26,E,Enjoy,0,4
 Metallica,Enter Sandman,Metallica,2022-12-02 22:44:35,E,Enter,1991,5
 Madonna,Erotica,Erotica,2022-12-02 22:50:14,E,Erotica,1992,5
 Taj Mahal,Ev'ry Wind (in The River),Like Never Before,2022-12-02 22:55:16,E,Ev'ry,1991,5
 Matthew Sweet,Evangeline,Girlfriend,2022-12-02 23:00:33,E,Evangeline,1991,4
 U2,Even Better Than The Real Thing,Achtung Baby,2022-12-02 23:05:05,E,Even,1991,3
 Pearl Jam,Evenflow,Ten,2022-12-02 23:08:47,E,Evenflow,1991,5
-The Pretenders,Everday Is Like Sunday,Boys On The Side,2022-12-02 23:14:16,E,Everday,2007,3
+The Pretenders,Everday Is Like Sunday,Boys On The Side,2022-12-02 23:14:16,E,Everday,0,3
 Foo Fighters,Everlong,The Colour And The Shape,2022-12-02 23:17:31,E,Everlong,1997,4
 Lauryn Hill,"Every Ghetto, Every City",The Miseducation Of Lauryn Hill,2022-12-02 23:21:39,E,Every,1998,7
 Keb' Mo',Every Morning,Keb Mo,2022-12-02 23:29:20,E,Every,1994,2
 Kim Richey,Every River,Bittersweet,2022-12-02 23:32:13,E,Every,1997,3
 Alison Krauss & Union Station,Every Time You Say Goodbye,Every Time You Say Goodbye,2022-12-02 23:36:10,E,Every,1992,4
-Backstreet Boys,Everybody,Backstreet Boys,2022-12-02 23:40:24,E,Everybody,2013,4
+Backstreet Boys,Everybody,Backstreet Boys,2022-12-02 23:40:24,E,Everybody,0,4
 Black Box,Everybody Everybody,Dreamland,2022-12-02 23:45:05,E,Everybody,1990,4
 Jeff Buckley,Everybody Here Wants You,Sketches For My Sweetheart The Drunk,2022-12-02 23:49:23,E,Everybody,1998,5
 R. E. M.,Everybody Hurts,Automatic For The People,2022-12-02 23:54:52,E,Everybody,1992,5
@@ -508,7 +508,7 @@ Ben Harper,Faded,The Will to Live,2022-12-03 01:29:00,F,Faded,1997,3
 Radiohead,Fake Plastic Trees,The Bends,2022-12-03 01:32:24,F,Fake,1995,4
 Crowded House,Fall At Your Feet,Woodface,2022-12-03 01:37:17,F,Fall,1991,4
 Teenage Fanclub and De La Soul,Fallin',Judgement Night (Original Soundtrack),2022-12-03 01:41:42,F,Fallin',1993,4
-Mariah Carey,Fantasy (ft. ODB),Daydream,2022-12-03 01:46:06,F,Fantasy,2003,4
+Mariah Carey,Fantasy (ft. ODB),Daydream,2022-12-03 01:46:06,F,Fantasy,0,4
 Candlebox,Far Behind,Candlebox,2022-12-03 01:50:50,F,Far,1993,5
 Fiona Apple,Fast As You Can,When The Pawn...,2022-12-03 01:56:22,F,Fast,1999,4
 Phish,Fast Enough For You,Rift,2022-12-03 02:01:19,F,Fast,1993,4
@@ -533,7 +533,7 @@ Chris Isaak,Flying,Speak Of The Devil,2022-12-03 03:18:26,F,Flying,1998,3
 Gin Blossoms,Follow You Down,Congratulations I'm Sorry,2022-12-03 03:22:18,F,Follow,1996,4
 Linda Ronstadt & Emmylou Harris,For A Dancer,Western Wall: The Tucson Sessions,2022-12-03 03:26:32,F,For,1999,4
 Lush,For Love,Spooky,2022-12-03 03:31:17,F,For,1992,4
-Metallica,For Whom The Bell Tolls (Live at Woodstock '94),Woodstock 94,2022-12-03 03:35:42,F,For,1984,9
+Metallica,For Whom The Bell Tolls (Live at Woodstock '94),Woodstock 94,2022-12-03 03:35:42,F,For,0,9
 Joe Strummer & The Mescaleros,Forbidden City,Rock Art And The X-Ray Style,2022-12-03 03:44:43,F,Forbidden,1999,4
 Juliana Hatfield,Forever Baby,HEY BABE,2022-12-03 03:49:25,F,Forever,1992,4
 Alison Krauss,Forget About It,Forget About It,2022-12-03 03:53:40,F,Forget,1999,3
@@ -550,25 +550,25 @@ Tom Petty & The Heartbreakers,Free Girl Now,Echo,2022-12-03 04:39:04,F,Free,1999
 Ziggy Marley,Free Like We Want 2 B,Free Like We Want 2 B,2022-12-03 04:42:27,F,Free,1995,4
 The Fall,Free Range,Code: Selfish,2022-12-03 04:47:19,F,Free,1992,5
 En Vogue,Free Your Mind,Funky Divas,2022-12-03 04:52:24,F,Free,1992,5
-George Michael,Freedom '90,"Listen Without Prejudice, Volume 1",2022-12-03 04:57:39,F,Freedom,2017,6
+George Michael,Freedom '90,"Listen Without Prejudice, Volume 1",2022-12-03 04:57:39,F,Freedom,0,6
 Ween,Freedom Of 76,Chocolate & Cheese,2022-12-03 05:04:01,F,Freedom,1994,2
 The Cure,Friday I'm In Love,Wish,2022-12-03 05:06:45,F,Friday,1992,5
 Jerry Garcia & David Grisman,Friend Of The Devil,Jerry Garcia / David Grisman,2022-12-03 05:11:48,F,Friend,1991,7
 Lyle Lovett,Friend Of The Devil,Deadicated,2022-12-03 05:18:48,F,Friend,1996,4
-Garth Brooks,Friends In Low Places,No Fences,2022-12-03 05:23:04,F,Friends,2022,5
+Garth Brooks,Friends In Low Places,No Fences,2022-12-03 05:23:04,F,Friends,0,5
 Yo La Tengo,From A Motel 6,Painful,2022-12-03 05:28:16,F,From,1993,4
-Neil Young,From Hank To Hendrix,Harvest Moon,2022-12-03 05:32:19,F,From,2018,5
-The Cure,From The Edge of the Deep Green Sea,Wish,2022-12-03 05:37:26,F,From,2022,8
+Neil Young,From Hank To Hendrix,Harvest Moon,2022-12-03 05:32:19,F,From,0,5
+The Cure,From The Edge of the Deep Green Sea,Wish,2022-12-03 05:37:26,F,From,0,8
 The Fugees,Fu-gee-la,The Score,2022-12-03 05:45:44,F,Fu-gee-la,1996,4
 Ani DiFranco,Fuel,Little Plastic Castle,2022-12-03 05:49:52,F,Fuel,1998,3
 James McMurtry,Fuller Brush Man,Where'd You Hide The Body,2022-12-03 05:53:38,F,Fuller,1995,5
-Smokin Suckaz Wit Logic,Funk-A-Tac,Playin' Foolz,2022-12-03 05:58:47,F,Funk-A-Tac,,1
+Smokin Suckaz Wit Logic,Funk-A-Tac,Playin' Foolz,2022-12-03 05:58:47,F,Funk-A-Tac,0,1
 Da Brat,Funkdafied,Funkdafied,2022-12-03 06:00:45,F,Funkdafied,1994,3
 Black 47,Funky Ceili (Bridie's Song),Black 47,2022-12-03 06:03:51,F,Funky,1993,3
 Lords Of The Underground,Funky Child,Here Come The Lords,2022-12-03 06:07:45,F,Funky,1993,5
 Lyle Lovett & Al Green,Funny How Time Slips Away,Rhythm Country And Blues,2022-12-03 06:13:28,F,Funny,1994,4
 Indigo Girls,Galileo,Rites of Passage,2022-12-03 06:18:05,G,Galileo,1992,4
-Coolio,Gangsta's Paradise,Dangerous Minds OST,2022-12-03 06:22:19,G,Gangsta's,2015,5
+Coolio,Gangsta's Paradise,Dangerous Minds OST,2022-12-03 06:22:19,G,Gangsta's,0,5
 Fatboy Slim,Gangster Tripping,"You've Come A Long Way, Baby",2022-12-03 06:27:22,G,Gangster,1998,3
 The Afghan Whigs,Gentleman,Gentlemen,2022-12-03 06:30:52,G,Gentleman,1993,3
 Belly,Gepetto,Star,2022-12-03 06:34:51,G,Gepetto,1993,4
@@ -585,7 +585,7 @@ Sleater-Kinney,Get Up,The Hot Rock,2022-12-03 07:19:54,G,Get,1999,3
 Will Smith,Gettin' Jiggy wit It,Big Willie Style,2022-12-03 07:23:42,G,Gettin',1997,4
 Electronic,Getting Away With It,Electronic,2022-12-03 07:28:39,G,Getting,1991,5
 Busta Rhymes,Gimme Some More,E.L.E. (Extinction Level Event): The Final World Front,2022-12-03 07:33:47,G,Gimme,1998,3
-Snoop Dogg,Gin & Juice,Doggystyle,2022-12-03 07:37:10,G,Gin,2013,4
+Snoop Dogg,Gin & Juice,Doggystyle,2022-12-03 07:37:10,G,Gin,0,4
 Urge Overkill,"Girl, You'll Be A Woman Soon",Pulp Fiction (soundtrack),2022-12-03 07:41:54,G,Girl,1992,3
 Matthew Sweet,Girlfriend,Girlfriend,2022-12-03 07:44:56,G,Girlfriend,1991,3
 Blur,Girls and Boys,Parklife,2022-12-03 07:48:39,G,Girls,1994,5
@@ -596,7 +596,7 @@ Tracy Chapman,Give Me One Reason,New Beginning,2022-12-03 08:06:09,G,Give,1995,4
 Pearl Jam,Given to Fly,Yield,2022-12-03 08:10:44,G,Given,1998,5
 Pearl Jam,Glorified G,Vs.,2022-12-03 08:16:16,G,Glorified,1993,3
 Portishead,Glory Box,Dummy,2022-12-03 08:19:36,G,Glory,1994,4
-Bush,Glycerine,Sixteen Stone,2022-12-03 08:24:32,G,Glycerine,2014,5
+Bush,Glycerine,Sixteen Stone,2022-12-03 08:24:32,G,Glycerine,0,5
 Robbie Robertson,Go Back To Your Woods,Storyville,2022-12-03 08:29:55,G,Go,1991,4
 Chris Isaak,Go Walking Down There,Forever Blue,2022-12-03 08:34:43,G,Go,1995,2
 Tori Amos,God,Under The Pink,2022-12-03 08:37:29,G,God,1994,5
@@ -618,20 +618,20 @@ Green Day,Good Riddance (Time of Your Life),Nimrod.,2022-12-03 09:48:12,G,Good,1
 Bodeans,Good Things,Black And White,2022-12-03 09:50:38,G,Good,1991,5
 Marky Mark and the Funky Bunch,Good Vibrations,Music For The People,2022-12-03 09:55:38,G,Good,1991,5
 The Sundays,Goodbye,BLIND,2022-12-03 10:00:40,G,Goodbye,1992,4
-Shivaree,Goodnight Moon,I Outta Give You A Shot In The Head..,2022-12-03 10:05:21,G,Goodnight,,6
+Shivaree,Goodnight Moon,I Outta Give You A Shot In The Head..,2022-12-03 10:05:21,G,Goodnight,0,6
 Alice In Chains,Got Me Wrong,Sap,2022-12-03 10:11:30,G,Got,1992,4
 Janet Jackson,Got Til It's Gone,The Velvet Rope,2022-12-03 10:15:38,G,Got,1997,4
 Indigenous,Got To Tell You,Things We Do,2022-12-03 10:19:55,G,Got,1998,5
-Shelby Lynne,Gotta Get Back,I Am Shelby Lynne,2022-12-03 10:25:54,G,Gotta,2022,3
+Shelby Lynne,Gotta Get Back,I Am Shelby Lynne,2022-12-03 10:25:54,G,Gotta,0,3
 MC Breed featuring Tupac,Gotta Get Mine,The New Breed,2022-12-03 10:29:26,G,Gotta,1993,4
 Jeff Buckley,Grace,Grace,2022-12-03 10:33:41,G,Grace,1994,7
-The Bottle Rockets,Gravity Fails,The Brooklyn Side,2022-12-03 10:41:17,G,Gravity,2013,3
+The Bottle Rockets,Gravity Fails,The Brooklyn Side,2022-12-03 10:41:17,G,Gravity,0,3
 Bruce Cockburn,Great Big Love,Nothing But A Burning Light,2022-12-03 10:44:45,G,Great,1991,4
 Echobelly,Great Things,On,2022-12-03 10:49:37,G,Great,1995,3
 Ned's Atomic Dustbin,Grey Cell Green,God Fodder,2022-12-03 10:53:04,G,Grey,1991,4
 Beastie Boys,Groove Holmes,Check Your Head,2022-12-03 10:57:17,G,Groove,1992,3
 Deee-Lite,Groove Is In The Heart,World Clique,2022-12-03 11:00:40,G,Groove,1990,3
-The Farm,Groovy Train,Spartacus,2022-12-03 11:04:26,G,Groovy,2021,5
+The Farm,Groovy Train,Spartacus,2022-12-03 11:04:26,G,Groovy,0,5
 Ben Harper,Ground On Down,Fight For Your Mind,2022-12-03 11:09:34,G,Ground,1995,8
 Jeff Buckley,Hallelujah,Grace,2022-12-03 11:17:38,H,Hallelujah,1994,6
 Indigo Girls,Hammer And A Nail,Nomads Indians Saints,2022-12-03 11:24:29,H,Hammer,1990,5
@@ -639,11 +639,84 @@ Alanis Morissette,Hand In My Pocket,Jagged Little Pill,2022-12-03 11:29:43,H,Han
 Crescent City Gold,Hang Tough,The Ultimate Session,2022-12-03 11:33:14,H,Hang,1994,4
 Counting Crows,Hangin' Around,This Desert Life,2022-12-03 11:37:36,H,Hangin',1993,5
 Cracker,Happy Birthday To Me,Cracker,2022-12-03 11:43:14,H,Happy,1992,3
-Pizzicato Five,Happy Ending,Happy End of the World,2022-12-03 11:46:35,H,Happy,2022,4
+Pizzicato Five,Happy Ending,Happy End of the World,2022-12-03 11:46:35,H,Happy,0,4
 Jay-Z,Hard Knock Life (Ghetto Anthem),Vol. 2...Hard Knock Life,2022-12-03 11:51:26,H,Hard,1998,5
 "Suddenly, Tammy!",Hard Lesson,We Get There When We Do,2022-12-03 11:57:09,H,Hard,1995,3
 The Vaughan Brothers,Hard To Be,Family Style,2022-12-03 12:00:45,H,Hard,1990,4
 The Black Crowes,Hard to Handle,Shake Your Money Maker,2022-12-03 12:05:16,H,Hard,1990,3
 Olu Dara,Harlem Country Girl,In The World,2022-12-03 12:08:56,H,Harlem,1998,6
-Neil Young,Harvest Moon,Harvest Moon,2022-12-03 12:15:42,H,Harvest,2022,4
-Mouth Music,He Mandu,Mo-Di,2022-12-03 12:20:33,H,He,1993,0
+Neil Young,Harvest Moon,Harvest Moon,2022-12-03 12:15:42,H,Harvest,0,4
+Mouth Music,He Mandu,Mo-Di,2022-12-03 12:20:33,H,He,1993,5
+Alanis Morissette,Head Over Feet,Jagged Little Pill,2022-12-03 12:25:54,H,Head,1995,6
+Jazzyfatnastees,Hear Me,The Once And Future,2022-12-03 12:32:28,H,Hear,1999,4
+Nirvana,Heart-Shaped Box,In Utero,2022-12-03 12:36:49,H,Heart-Shaped,1993,4
+My Morning Jacket,Heartbreakin Man,The Tennessee Fire,2022-12-03 12:41:26,H,Heartbreakin,1999,3
+Alice In Chains,Heaven Beside You,Alice In Chains,2022-12-03 12:45:07,H,Heaven,1995,3
+The Chills,Heavenly Pop Hit,Submarine Bells,2022-12-03 12:48:56,H,Heavenly,1990,3
+Collective Soul,Heavy,Dosage,2022-12-03 12:52:21,H,Heavy,1999,3
+Dire Straits,Heavy Fuel,On Every Street,2022-12-03 12:56:08,H,Heavy,1991,5
+Squirrel Nut Zippers,Hell,Hot,2022-12-03 13:01:45,H,Hell,0,3
+Tricky,Hell Is Round The Corner,Maxinquaye,2022-12-03 13:04:48,H,Hell,1995,3
+Kim Richey,Hello Old Friend,Glimmer,2022-12-03 13:08:37,H,Hello,1999,6
+Liz Phair,Help Me Mary,Exile In Guyville,2022-12-03 13:14:48,H,Help,1993,2
+Letters to Cleo,Here and Now,Aurora Gory Alice,2022-12-03 13:17:01,H,Here,1994,5
+John Wesley Harding,Here Comes The Groom,Here Comes The Groom,2022-12-03 13:22:04,H,Here,0,5
+Ini Kamoze,Here Comes The Hotstepper,Ost-pret-a-porter,2022-12-03 13:27:14,H,Here,1994,4
+Goldfinger,Here in Your Bedroom,Goldfinger,2022-12-03 13:31:20,H,Here,1996,3
+The Sundays,Here's Where The Story Ends,"Reading, Writing And Arithmetic",2022-12-03 13:34:39,H,Here's,1990,4
+Jeffrey Gaines,Hero In Me,Jeffrey Gaines,2022-12-03 13:39:32,H,Hero,1992,4
+Roni Size / Reprazent,Heroes,New Forms,2022-12-03 13:44:13,H,Heroes,1997,6
+Gin Blossoms,Hey Jealousy,New Miserable Experience,2022-12-03 13:50:54,H,Hey,1992,5
+Filter,Hey Man Nice Shot,Short Bus,2022-12-03 13:55:58,H,Hey,1995,5
+Richard Thompson,Hide It Away,You? Me? Us?,2022-12-03 14:01:36,H,Hide,1996,4
+The Cure,High,Wish,2022-12-03 14:05:51,H,High,0,3
+Radiohead,High and Dry,The Bends,2022-12-03 14:09:23,H,High,1995,5
+DJ Shadow,High Noon,Preemptive Strike,2022-12-03 14:14:58,H,High,0,3
+The Fall,High Tension Line,Shift Work,2022-12-03 14:18:52,H,High,1991,3
+Creed,Higher,Human Clay,2022-12-03 14:22:33,H,Higher,1999,5
+The Blessing,Highway 5,Prince Of The Deep Water,2022-12-03 14:28:24,H,Highway,1991,4
+Marden Hill,Hijack,Hijack,2022-12-03 14:33:19,H,Hijack,1994,3
+Naughty By Nature,Hip Hop Hooray,19 Naughty III,2022-12-03 14:37:06,H,Hip,1993,5
+The Goats,Hip-Hopola,Tricks of the Shade,2022-12-03 14:42:33,H,Hip-Hopola,1992,4
+Soho,Hippychick,Tricks of the Shade,2022-12-03 14:47:15,H,Hippychick,0,3
+Propellerheads,HISTORY REPEATING,Decksandrumsandrockandroll,2022-12-03 14:50:39,H,HISTORY,1998,5
+Missy Elliott,Hit Em Wit Da Hee,Supa Dupa Fly,2022-12-03 14:55:44,H,Hit,1997,4
+Jonny Lang,Hit The Ground Running,Lie To Me,2022-12-03 15:00:29,H,Hit,1997,3
+Green Day,Hitchin' A Ride,Nimrod.,2022-12-03 15:03:46,H,Hitchin',1997,3
+Velvet Crush,Hold Me Up,Teenage Symphonies To God,2022-12-03 15:07:19,H,Hold,1994,4
+En Vogue,Hold On,Born To Sing,2022-12-03 15:11:37,H,Hold,1990,4
+Sarah McLachlan,Hold On,Fumbling Toward Ecstasy,2022-12-03 15:16:24,H,Hold,1993,4
+Tom Waits,Hold On,Mule Variations,2022-12-03 15:20:34,H,Hold,1999,6
+Wilson Phillips,Hold On,Hold On,2022-12-03 15:27:19,H,Hold,1990,4
+Weezer,Holiday,Weezer,2022-12-03 15:31:29,H,Holiday,1994,3
+Neutral Milk Hotel,"Holland, 1945",In The Aeroplane Over The Sea,2022-12-03 15:35:01,H,Holland,1998,4
+Handsome Boy Modeling School,Holy Calamity (Bear Witness II),So How's Your Girl,2022-12-03 15:39:36,H,Holy,1999,4
+Sheryl Crow,Home,Sheryl Crow,2022-12-03 15:43:38,H,Home,0,4
+Francis Dunnery,Homegrown,Fearless,2022-12-03 15:48:19,H,Homegrown,1994,5
+Steve Earle,Hometown Blues,Train A-Comin',2022-12-03 15:53:41,H,Hometown,1995,2
+Morphine,Honey White,Yes,2022-12-03 15:56:24,H,Honey,1995,3
+Blues Traveler,Hook,Four,2022-12-03 16:00:00,H,Hook,1994,4
+Widespread Panic,Hope In A Hopeless World,Bombs & Butterflies,2022-12-03 16:04:44,H,Hope,1997,5
+Guided By Voices,Hot Freaks,Bee Thousand,2022-12-03 16:10:01,H,Hot,1994,2
+Le Tigre,Hot Topic,Le Tigre,2022-12-03 16:12:45,H,Hot,1999,3
+Gipsy Kings,Hotel California,O.s.t. The Big Lebowski,2022-12-03 16:16:22,H,Hotel,0,5
+The Black Crowes,Hotel Illness,The Southern Harmony & Musical Companion,2022-12-03 16:22:17,H,Hotel,1992,5
+Beck,Hotwax,Odelay,2022-12-03 16:27:24,H,Hotwax,1996,3
+OMC,How Bizarre,How Bizarre,2022-12-03 16:31:09,H,How,1996,3
+Joni Mitchell,How Do You Stop,Turbulent Indigo,2022-12-03 16:35:01,H,How,0,5
+The Waterboys,How Long Will I Love You,Room To Roam,2022-12-03 16:40:25,H,How,1990,4
+R. E. M.,How The West Was Won And Where It Got Us,New Adventures In Hi-fi,2022-12-03 16:44:51,H,How,1996,4
+Third Eye Blind,How's It Going to Be,Third Eye Blind,2022-12-03 16:49:18,H,How's,1997,5
+The Pretenders,Human,Viva El Amor,2022-12-03 16:54:41,H,Human,1999,3
+Bj rk,Human Behavior,Debut,2022-12-03 16:58:28,H,Human,1993,4
+John Mellencamp,Human Wheels,Human Wheels,2022-12-03 17:03:05,H,Human,0,5
+Temple of the Dog,Hunger Strike,Temple of the Dog,2022-12-03 17:08:31,H,Hunger,1990,5
+Dido,Hunter,No Angel,2022-12-03 17:13:35,H,Hunter,1999,3
+Nine Inch Nails,Hurt,The Downward Spiral,2022-12-03 17:17:22,H,Hurt,1994,4
+Bj rk,Hyper Ballad,Post,2022-12-03 17:22:18,H,Hyper,1995,6
+The Notorious B. I. G,Hypnotize,Life After Death,2022-12-03 17:28:45,H,Hypnotize,1997,3
+Live,I Alone,Throwing Copper,2022-12-03 17:32:36,I,I,1994,3
+Train,I Am,Train,2022-12-03 17:36:26,I,I,0,5
+Guided By Voices,I Am A Scientist,Bee Thousand,2022-12-03 17:41:59,I,I,1994,2
+Guided By Voices,I Am A Tree,Human Amusement At Hourly Rates,2022-12-03 17:44:29,I,I,0,4
+Smashing Pumpkins,I Am One,Gish,2022-12-03 17:49:06,I,I,1991,0
