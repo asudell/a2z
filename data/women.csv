@@ -1,112 +1,151 @@
-Artist,Title,Album,Air Time,Letter,First Word,Duration,Year
-Martha & The Vandellas,Nowhere To Run,Dance Party,2023-12-05 08:00:37,N,Nowhere,4,1965
-Belly,Gepetto,Star,2023-12-05 08:04:47,G,Gepetto,3,1992
-The Pointer Sisters,I'm So Excited,So Excited!,2023-12-05 08:08:05,I,I'm,4,1982
-Mary J. Blige,Real Love,What's The 411?,2023-12-05 08:12:41,R,Real,4,1992
-Brandi Carlile,Dreams,Give Up The Ghost,2023-12-05 08:17:08,D,Dreams,7,2009
-Erykah Badu,On & On,Baduizm,2023-12-05 08:24:36,O,On,3,1997
-Bangles,Going Down To Liverpool,Bangles: GrAll Over The Place,2023-12-05 08:28:19,G,Going,3,1984
-Whitney Houston,So Emotional,Whitney,2023-12-05 08:31:57,S,So,6,1987
-Aimee Mann,Choice In The Matter,I'm With Stupid,2023-12-05 08:38:23,C,Choice,3,1995
-Candi Staton,He Called Me Baby,CANDI STATON,2023-12-05 08:41:26,H,He,3,1971
-Dionne Warwick,What the World Needs Now (Is Love),Here Where There is Love,2023-12-05 08:45:00,W,What,3,1967
-Elastica,Connection,Elastica,2023-12-05 08:48:06,C,Connection,5,1994
-Queen Latifah,Ladies First,All Hail The Queen,2023-12-05 08:54:03,L,Ladies,4,1989
-Janet Jackson,Got Til It's Gone,The Velvet Rope,2023-12-05 08:58:24,G,Got,6,1997
-Kelly Clarkson,Since U Been Gone,Breakaway,2023-12-05 09:04:57,S,Since,3,2004
-Missy Elliott,The Rain (Supa Dupa Fly),Supa Dupa Fly,2023-12-05 09:08:02,T,The,4,1997
-Phoebe Bridgers,Smoke Signals,Smoke Signals (Single),2023-12-05 09:12:08,S,Smoke,7,2017
-Portishead,Wandering Star,Dummy,2023-12-05 09:19:19,W,Wandering,4,1994
-Sophie B. Hawkins,Damn I Wish I Was Your Lover,Tongues and Tails,2023-12-05 09:24:00,D,Damn,5,1992
-Teena Marie,Square Biz,It Must Be Magic,2023-12-05 09:29:13,S,Square,9,1980
-The Pointer Sisters,Yes We Can Can,Soul Hits Of The 70's,2023-12-05 09:38:20,Y,Yes,2,1973
-Rihanna,Umbrella (feat. Jay Z),Good Girl Gone Bad,2023-12-05 09:41:16,U,Umbrella,3,0
-October Project,Bury My Lovely,October Project,2023-12-05 09:45:01,B,Bury,6,1993
-Sheila E,The Glamorous Life,The Glamorous Life,2023-12-05 09:51:05,T,The,9,1984
-Sister Rosetta Tharpe,Didn't It Rain,The Gospel Of The Blues,2023-12-05 10:00:35,D,Didn't,2,1958
-ABBA,S.O.S.,Abba,2023-12-05 10:03:06,S,S,4,1975
-Natalie Merchant,Jealousy,Tigerlily,2023-12-05 10:07:46,J,Jealousy,2,1995
-The Cardigans,Lovefool,First Band On The Moon,2023-12-05 10:10:21,L,Lovefool,3,1996
-The Chantels,Maybe,We Are The Chantels,2023-12-05 10:13:41,M,Maybe,2,1958
-Fontella Bass,Rescue Me,The New Look,2023-12-05 10:16:25,R,Rescue,4,1987
-Pink,Get The Party Started,Missundaztood,2023-12-05 10:20:37,G,Get,3,2002
-Celine Dion,The Power Of Love,The Colour Of My Love,2023-12-05 10:23:46,T,The,5,1994
-Julie Gold,From A Distance,If I Sing,2023-12-05 10:29:28,F,From,4,1998
-Mavis Staples,Change,We Get By,2023-12-05 10:33:35,C,Change,4,1970
-Julee Cruise,Falling,Floating Into The Night,2023-12-05 10:38:17,F,Falling,5,1989
-Tedeschi Trucks Band,Bound For Glory,Revelator,2023-12-05 10:43:24,B,Bound,5,2011
-Salt N Pepa,Shoop,Very Necessary,2023-12-05 10:48:57,S,Shoop,3,1993
-Bangles,Hazy Shade of Winter,Less Than Zero,2023-12-05 10:52:44,H,Hazy,4,1985
-The Marvelettes,Too Many Fish In The Sea,(single),2023-12-05 10:57:20,T,Too,2,1964
-Indigo Girls,Watershed,Nomads Indians Saints,2023-12-05 11:00:15,W,Watershed,5,1990
-Pat Benatar,You Better Run,Crimes Of Passion,2023-12-05 11:05:52,Y,You,4,1980
-Althea & Donna,Uptown Top Ranking,(single),2023-12-05 11:10:34,U,Uptown,3,1986
-Missy Elliott,Get Ur Freak On,Miss E. So Addictive,2023-12-05 11:14:25,G,Get,3,2001
-Billie Eilish,Bad Guy,"When We All Fall Asleep, Where Do We Go?",2023-12-05 11:17:56,B,Bad,3,2019
-Dusty Springfield,Just A Little Lovin',Dusty in Memphis,2023-12-05 11:21:06,J,Just,3,1968
-L7,Pretend We're Dead,Bricks Are Heavy,2023-12-05 11:24:39,P,Pretend,3,1992
-Billie Eilish,When The Party's Over,"When We All Fall Asleep, Where Do We Go?",2023-12-05 11:28:29,W,When,3,2018
-Bonnie Raitt,Have A Heart,Nick Of Time,2023-12-05 11:31:40,H,Have,6,1989
-Irma Thomas,Ruler Of My Heart,Var: Saturday Night Fish Fry,2023-12-05 11:38:09,R,Ruler,2,1963
-The Pretenders,Private Life,Pretenders,2023-12-05 11:40:40,P,Private,6,1995
-Peggy Lee,Is That All There Is?,Is That All There is,2023-12-05 11:47:10,I,Is,4,1969
-Nicolette Larson,Lotta Love,Nicolette,2023-12-05 11:51:28,L,Lotta,4,1978
-The Marvelettes,Please Mr. Postman,Girl Group Greats,2023-12-05 11:55:46,P,Please,2,1963
-Sister Rosetta Tharpe,Strange Things Happen Everyday,The Gospel Of The Blues,2023-12-05 11:58:10,S,Strange,3,1996
-Lena Horne,Stormy Weather,Lena Horne: Greatest Hits,2023-12-05 12:01:22,S,Stormy,3,1995
-The Supremes,Come See About Me,20th Century Masters,2023-12-05 12:05:11,C,Come,5,1964
-Tina Turner,I Can't Stand The Rain,Private Dancer,2023-12-05 12:11:09,I,I,3,1984
-Sleater-Kinney,Dig Me Out,Dig Me Out,2023-12-05 12:14:50,D,Dig,3,1997
-Ani DiFranco,Fuel,Little Plastic Castle,2023-12-05 12:18:17,F,Fuel,3,1998
-Jewel,Who Will Save Your Soul,Pieces Of You,2023-12-05 12:22:11,W,Who,5,1994
-Joan Jett And The Blackhearts,Crimson & Clover,I Love Rock & Roll,2023-12-05 12:27:42,C,Crimson,3,1981
-Madonna,Lucky Star,Madonna,2023-12-05 12:30:53,L,Lucky,5,1983
-Fleetwood Mac,Over My Head,Fleetwood Mac,2023-12-05 12:36:24,O,Over,3,1975
-Janis Ian,Society's Child (Baby I've Been Thinking),Society's Child - The Verve Recordings,2023-12-05 12:39:47,S,Society's,5,1970
-Des'ree,You Gotta Be,I Ain't Movin',2023-12-05 12:44:57,Y,You,3,1994
-Angel Olsen,Shut Up Kiss Me,My Woman,2023-12-05 12:48:49,S,Shut,3,2016
-Santogold,L.E.S. Artistes,Santogold,2023-12-05 12:52:15,L,L,5,2008
-Everything But the Girl,Missing,Amplified Heart,2023-12-05 12:57:19,M,Missing,4,1996
-No Doubt,Spiderwebs,Tragic Kingdom,2023-12-05 13:01:41,S,Spiderwebs,4,1992
-Norah Jones,Sunrise,Feels Like Home,2023-12-05 13:06:00,S,Sunrise,5,2004
-The Crystals,Then He Kissed Me,Back To Mono - Phil Spector Collection,2023-12-05 13:11:24,T,Then,2,1983
-The Pretenders,Time The Avenger,Learning To Crawl,2023-12-05 13:13:55,T,Time,4,1984
-Janet Jackson,If,Janet,2023-12-05 13:18:54,I,If,4,1984
-Sister Nancy,Bam Bam,One Two,2023-12-05 13:23:25,B,Bam,4,1994
-Angelique Kidjo,Batonga,Logozo,2023-12-05 13:28:01,B,Batonga,4,1991
-Barbra Streisand,Somewhere,The Broadway Album,2023-12-05 13:32:23,S,Somewhere,4,1985
-Regina Spektor,On The Radio,Begin To Hope,2023-12-05 13:37:12,O,On,5,2006
-Tracy Bonham,"Mother, Mother",The Burdens of Being Upright,2023-12-05 13:42:16,M,Mother,3,1996
-Etta James,A Sunday Kind Of Love,At Last!,2023-12-05 13:45:27,A,A,3,1960
-Grimes,Genesis,Visions,2023-12-05 13:48:42,G,Genesis,6,2012
-Jane Siberry,Calling All Angels,When I Was A Boy,2023-12-05 13:54:44,C,Calling,5,1991
-Karen Dalton,Something On Your Mind,In My Own Time,2023-12-05 13:59:51,S,Something,3,1971
-Stevie Nicks,Leather and Lace,Bella Donna,2023-12-05 14:03:43,L,Leather,3,1981
-Grace Potter,Love Is Love,Daylight,2023-12-05 14:07:32,L,Love,4,2019
-Katrina & The Waves,Walking On Sunshine,80's Super Hits,2023-12-05 14:11:48,W,Walking,3,1983
-Romeo Void,Never Say Never,Benefactor,2023-12-05 14:15:40,N,Never,4,1982
-Salt N Pepa,Push It,"Hot, Cool & Vicious",2023-12-05 14:19:54,P,Push,4,1988
-Suzanne Vega,Marlene On The Wall,Suzanne Vega,2023-12-05 14:24:37,M,Marlene,5,1985
-Eurythmics,Here Comes The Rain Again,Touch,2023-12-05 14:30:26,H,Here,4,1984
-Janet Jackson,That's The Way Love Goes,Janet,2023-12-05 14:35:22,T,That's,6,1993
-The Go-Go's,We Got The Beat,Beauty And The Beat,2023-12-05 14:41:35,W,We,2,1980
-Donna Summer,Bad Girls,Bad Girls,2023-12-05 14:44:05,B,Bad,3,1979
-The Chicks,Wide Open Spaces,Wide Open Spaces,2023-12-05 14:48:01,W,Wide,4,0
-Annie Lennox,Little Bird,Diva,2023-12-05 14:52:50,L,Little,5,1992
-Patti Smith,Birdland,Horses,2023-12-05 14:58:01,B,Birdland,10,1975
-Bonnie Raitt,Dimming Of The Day,Longing In Their Hearts,2023-12-05 15:08:51,D,Dimming,3,1994
-Ella Fitzgerald,Misty,Something To Live For (Disc 2),2023-12-05 15:12:25,M,Misty,2,1960
-Big Brother & The Holding Company,Down On Me,Big Brother & The Holding Company,2023-12-05 15:15:23,D,Down,2,1967
-Sugarcubes,Birthday,Life's Too Good,2023-12-05 15:17:25,B,Birthday,5,1987
-Dar Williams,Are You Out There,End Of Summer,2023-12-05 15:22:41,A,Are,3,1997
-Donna Summer,MacArthur Park,Live And More,2023-12-05 15:25:42,M,MacArthur,4,1978
-En Vogue,Free Your Mind,Funky Divas,2023-12-05 15:29:45,F,Free,4,1991
-Mariah Carey,We Belong Together,The Emancipation Of Mimi,2023-12-05 15:34:29,W,We,4,2005
-St. Vincent,Digital Witness,St. Vincent,2023-12-05 15:39:12,D,Digital,3,2014
-The Story,So Much Mine,Angel In The House,2023-12-05 15:42:40,S,So,4,1993
-The Supremes,Love Child,Love Child,2023-12-05 15:46:56,L,Love,3,1986
-Wanda Jackson,Funnel Of Love,Rockin' With Wanda,2023-12-05 15:50:45,F,Funnel,2,1961
-Britney Spears,Toxic,In The Zone,2023-12-05 15:52:54,T,Toxic,3,2004
-Sheryl Crow,Everyday Is A Winding Road,Sheryl Crow,2023-12-05 15:56:12,E,Everyday,4,1997
-Kathleen Edwards,Hard On Everyone,Total Freedom,2023-12-05 16:00:52,H,Hard,5,2020
-Sin ad O'Connor,You Made Me The Thief Of Your Heart,In The Name Of The Father (soundtrack),2023-12-05 16:06:17,Y,You,8,0
+Artist,Title,Album,Air Time,Duration,Letter,First Word,Year
+Martha & The Vandellas,Nowhere To Run,Dance Party,2023-12-05 08:00:37,4,N,Nowhere,1965
+Belly,Gepetto,Star,2023-12-05 08:04:47,3,G,Gepetto,1992
+The Pointer Sisters,I'm So Excited,So Excited!,2023-12-05 08:08:05,4,I,I'm,1982
+Mary J. Blige,Real Love,What's The 411?,2023-12-05 08:12:41,4,R,Real,1992
+Brandi Carlile,Dreams,Give Up The Ghost,2023-12-05 08:17:08,7,D,Dreams,2009
+Erykah Badu,On & On,Baduizm,2023-12-05 08:24:36,3,O,On,1997
+Bangles,Going Down To Liverpool,Bangles: GrAll Over The Place,2023-12-05 08:28:19,3,G,Going,1984
+Whitney Houston,So Emotional,Whitney,2023-12-05 08:31:57,6,S,So,1987
+Aimee Mann,Choice In The Matter,I'm With Stupid,2023-12-05 08:38:23,3,C,Choice,1995
+Candi Staton,He Called Me Baby,CANDI STATON,2023-12-05 08:41:26,3,H,He,1971
+Dionne Warwick,What the World Needs Now (Is Love),Here Where There is Love,2023-12-05 08:45:00,3,W,What,1967
+Elastica,Connection,Elastica,2023-12-05 08:48:06,5,C,Connection,1994
+Queen Latifah,Ladies First,All Hail The Queen,2023-12-05 08:54:03,4,L,Ladies,1989
+Janet Jackson,Got Til It's Gone,The Velvet Rope,2023-12-05 08:58:24,6,G,Got,1997
+Kelly Clarkson,Since U Been Gone,Breakaway,2023-12-05 09:04:57,3,S,Since,2004
+Missy Elliott,The Rain (Supa Dupa Fly),Supa Dupa Fly,2023-12-05 09:08:02,4,T,The,1997
+Phoebe Bridgers,Smoke Signals,Smoke Signals (Single),2023-12-05 09:12:08,7,S,Smoke,2017
+Portishead,Wandering Star,Dummy,2023-12-05 09:19:19,4,W,Wandering,1994
+Sophie B. Hawkins,Damn I Wish I Was Your Lover,Tongues and Tails,2023-12-05 09:24:00,5,D,Damn,1992
+Teena Marie,Square Biz,It Must Be Magic,2023-12-05 09:29:13,9,S,Square,1980
+The Pointer Sisters,Yes We Can Can,Soul Hits Of The 70's,2023-12-05 09:38:20,2,Y,Yes,1973
+Rihanna,Umbrella (feat. Jay Z),Good Girl Gone Bad,2023-12-05 09:41:16,3,U,Umbrella,0
+October Project,Bury My Lovely,October Project,2023-12-05 09:45:01,6,B,Bury,1993
+Sheila E,The Glamorous Life,The Glamorous Life,2023-12-05 09:51:05,9,T,The,1984
+Sister Rosetta Tharpe,Didn't It Rain,The Gospel Of The Blues,2023-12-05 10:00:35,2,D,Didn't,1958
+ABBA,S.O.S.,Abba,2023-12-05 10:03:06,4,S,S,1975
+Natalie Merchant,Jealousy,Tigerlily,2023-12-05 10:07:46,2,J,Jealousy,1995
+The Cardigans,Lovefool,First Band On The Moon,2023-12-05 10:10:21,3,L,Lovefool,1996
+The Chantels,Maybe,We Are The Chantels,2023-12-05 10:13:41,2,M,Maybe,1958
+Fontella Bass,Rescue Me,The New Look,2023-12-05 10:16:25,4,R,Rescue,1987
+Pink,Get The Party Started,Missundaztood,2023-12-05 10:20:37,3,G,Get,2002
+Celine Dion,The Power Of Love,The Colour Of My Love,2023-12-05 10:23:46,5,T,The,1994
+Julie Gold,From A Distance,If I Sing,2023-12-05 10:29:28,4,F,From,1998
+Mavis Staples,Change,We Get By,2023-12-05 10:33:35,4,C,Change,1970
+Julee Cruise,Falling,Floating Into The Night,2023-12-05 10:38:17,5,F,Falling,1989
+Tedeschi Trucks Band,Bound For Glory,Revelator,2023-12-05 10:43:24,5,B,Bound,2011
+Salt N Pepa,Shoop,Very Necessary,2023-12-05 10:48:57,3,S,Shoop,1993
+Bangles,Hazy Shade of Winter,Less Than Zero,2023-12-05 10:52:44,4,H,Hazy,1985
+The Marvelettes,Too Many Fish In The Sea,(single),2023-12-05 10:57:20,2,T,Too,1964
+Indigo Girls,Watershed,Nomads Indians Saints,2023-12-05 11:00:15,5,W,Watershed,1990
+Pat Benatar,You Better Run,Crimes Of Passion,2023-12-05 11:05:52,4,Y,You,1980
+Althea & Donna,Uptown Top Ranking,(single),2023-12-05 11:10:34,3,U,Uptown,1986
+Missy Elliott,Get Ur Freak On,Miss E. So Addictive,2023-12-05 11:14:25,3,G,Get,2001
+Billie Eilish,Bad Guy,"When We All Fall Asleep, Where Do We Go?",2023-12-05 11:17:56,3,B,Bad,2019
+Dusty Springfield,Just A Little Lovin',Dusty in Memphis,2023-12-05 11:21:06,3,J,Just,1968
+L7,Pretend We're Dead,Bricks Are Heavy,2023-12-05 11:24:39,3,P,Pretend,1992
+Billie Eilish,When The Party's Over,"When We All Fall Asleep, Where Do We Go?",2023-12-05 11:28:29,3,W,When,2018
+Bonnie Raitt,Have A Heart,Nick Of Time,2023-12-05 11:31:40,6,H,Have,1989
+Irma Thomas,Ruler Of My Heart,Var: Saturday Night Fish Fry,2023-12-05 11:38:09,2,R,Ruler,1963
+The Pretenders,Private Life,Pretenders,2023-12-05 11:40:40,6,P,Private,1995
+Peggy Lee,Is That All There Is?,Is That All There is,2023-12-05 11:47:10,4,I,Is,1969
+Nicolette Larson,Lotta Love,Nicolette,2023-12-05 11:51:28,4,L,Lotta,1978
+The Marvelettes,Please Mr. Postman,Girl Group Greats,2023-12-05 11:55:46,2,P,Please,1963
+Sister Rosetta Tharpe,Strange Things Happen Everyday,The Gospel Of The Blues,2023-12-05 11:58:10,3,S,Strange,1996
+Lena Horne,Stormy Weather,Lena Horne: Greatest Hits,2023-12-05 12:01:22,3,S,Stormy,1995
+The Supremes,Come See About Me,20th Century Masters,2023-12-05 12:05:11,5,C,Come,1964
+Tina Turner,I Can't Stand The Rain,Private Dancer,2023-12-05 12:11:09,3,I,I,1984
+Sleater-Kinney,Dig Me Out,Dig Me Out,2023-12-05 12:14:50,3,D,Dig,1997
+Ani DiFranco,Fuel,Little Plastic Castle,2023-12-05 12:18:17,3,F,Fuel,1998
+Jewel,Who Will Save Your Soul,Pieces Of You,2023-12-05 12:22:11,5,W,Who,1994
+Joan Jett And The Blackhearts,Crimson & Clover,I Love Rock & Roll,2023-12-05 12:27:42,3,C,Crimson,1981
+Madonna,Lucky Star,Madonna,2023-12-05 12:30:53,5,L,Lucky,1983
+Fleetwood Mac,Over My Head,Fleetwood Mac,2023-12-05 12:36:24,3,O,Over,1975
+Janis Ian,Society's Child (Baby I've Been Thinking),Society's Child - The Verve Recordings,2023-12-05 12:39:47,5,S,Society's,1970
+Des'ree,You Gotta Be,I Ain't Movin',2023-12-05 12:44:57,3,Y,You,1994
+Angel Olsen,Shut Up Kiss Me,My Woman,2023-12-05 12:48:49,3,S,Shut,2016
+Santogold,L.E.S. Artistes,Santogold,2023-12-05 12:52:15,5,L,L,2008
+Everything But the Girl,Missing,Amplified Heart,2023-12-05 12:57:19,4,M,Missing,1996
+No Doubt,Spiderwebs,Tragic Kingdom,2023-12-05 13:01:41,4,S,Spiderwebs,1992
+Norah Jones,Sunrise,Feels Like Home,2023-12-05 13:06:00,5,S,Sunrise,2004
+The Crystals,Then He Kissed Me,Back To Mono - Phil Spector Collection,2023-12-05 13:11:24,2,T,Then,1983
+The Pretenders,Time The Avenger,Learning To Crawl,2023-12-05 13:13:55,4,T,Time,1984
+Janet Jackson,If,Janet,2023-12-05 13:18:54,4,I,If,1984
+Sister Nancy,Bam Bam,One Two,2023-12-05 13:23:25,4,B,Bam,1994
+Angelique Kidjo,Batonga,Logozo,2023-12-05 13:28:01,4,B,Batonga,1991
+Barbra Streisand,Somewhere,The Broadway Album,2023-12-05 13:32:23,4,S,Somewhere,1985
+Regina Spektor,On The Radio,Begin To Hope,2023-12-05 13:37:12,5,O,On,2006
+Tracy Bonham,"Mother, Mother",The Burdens of Being Upright,2023-12-05 13:42:16,3,M,Mother,1996
+Etta James,A Sunday Kind Of Love,At Last!,2023-12-05 13:45:27,3,A,A,1960
+Grimes,Genesis,Visions,2023-12-05 13:48:42,6,G,Genesis,2012
+Jane Siberry,Calling All Angels,When I Was A Boy,2023-12-05 13:54:44,5,C,Calling,1991
+Karen Dalton,Something On Your Mind,In My Own Time,2023-12-05 13:59:51,3,S,Something,1971
+Stevie Nicks,Leather and Lace,Bella Donna,2023-12-05 14:03:43,3,L,Leather,1981
+Grace Potter,Love Is Love,Daylight,2023-12-05 14:07:32,4,L,Love,2019
+Katrina & The Waves,Walking On Sunshine,80's Super Hits,2023-12-05 14:11:48,3,W,Walking,1983
+Romeo Void,Never Say Never,Benefactor,2023-12-05 14:15:40,4,N,Never,1982
+Salt N Pepa,Push It,"Hot, Cool & Vicious",2023-12-05 14:19:54,4,P,Push,1988
+Suzanne Vega,Marlene On The Wall,Suzanne Vega,2023-12-05 14:24:37,5,M,Marlene,1985
+Eurythmics,Here Comes The Rain Again,Touch,2023-12-05 14:30:26,4,H,Here,1984
+Janet Jackson,That's The Way Love Goes,Janet,2023-12-05 14:35:22,6,T,That's,1993
+The Go-Go's,We Got The Beat,Beauty And The Beat,2023-12-05 14:41:35,2,W,We,1980
+Donna Summer,Bad Girls,Bad Girls,2023-12-05 14:44:05,3,B,Bad,1979
+The Chicks,Wide Open Spaces,Wide Open Spaces,2023-12-05 14:48:01,4,W,Wide,0
+Annie Lennox,Little Bird,Diva,2023-12-05 14:52:50,5,L,Little,1992
+Patti Smith,Birdland,Horses,2023-12-05 14:58:01,10,B,Birdland,1975
+Bonnie Raitt,Dimming Of The Day,Longing In Their Hearts,2023-12-05 15:08:51,3,D,Dimming,1994
+Ella Fitzgerald,Misty,Something To Live For (Disc 2),2023-12-05 15:12:25,2,M,Misty,1960
+Big Brother & The Holding Company,Down On Me,Big Brother & The Holding Company,2023-12-05 15:15:23,2,D,Down,1967
+Sugarcubes,Birthday,Life's Too Good,2023-12-05 15:17:25,5,B,Birthday,1987
+Dar Williams,Are You Out There,End Of Summer,2023-12-05 15:22:41,3,A,Are,1997
+Donna Summer,MacArthur Park,Live And More,2023-12-05 15:25:42,4,M,MacArthur,1978
+En Vogue,Free Your Mind,Funky Divas,2023-12-05 15:29:45,4,F,Free,1991
+Mariah Carey,We Belong Together,The Emancipation Of Mimi,2023-12-05 15:34:29,4,W,We,2005
+St. Vincent,Digital Witness,St. Vincent,2023-12-05 15:39:12,3,D,Digital,2014
+The Story,So Much Mine,Angel In The House,2023-12-05 15:42:40,4,S,So,1993
+The Supremes,Love Child,Love Child,2023-12-05 15:46:56,3,L,Love,1986
+Wanda Jackson,Funnel Of Love,Rockin' With Wanda,2023-12-05 15:50:45,2,F,Funnel,1961
+Britney Spears,Toxic,In The Zone,2023-12-05 15:52:54,3,T,Toxic,2004
+Sheryl Crow,Everyday Is A Winding Road,Sheryl Crow,2023-12-05 15:56:12,4,E,Everyday,1997
+Kathleen Edwards,Hard On Everyone,Total Freedom,2023-12-05 16:00:52,5,H,Hard,2020
+Sin ad O'Connor,You Made Me The Thief Of Your Heart,In The Name Of The Father (soundtrack),2023-12-05 16:06:17,3,Y,You,0
+Carole King,Jazzman,Wrap Around Joy,2023-12-05 16:10:00,7,J,Jazzman,1974
+Koko Taylor,Wang Dang Doodle,What It Takes - The Chess Years,2023-12-05 16:17:56,3,W,Wang,1978
+Luscious Jackson,Naked Eye,Fever In Fever Out,2023-12-05 16:21:43,5,N,Naked,1996
+"Evelyn ""Champagne"" King",Shame,Smooth Talk,2023-12-05 16:27:20,6,S,Shame,1995
+Nancy Sinatra,Bang Bang (My Baby Shot Me Down),How Does That Grab You?,2023-12-05 16:33:47,0,B,Bang,1966
+Patty Griffin,Every Little Bit (remix Edit),Living With Ghosts,2023-12-05 16:34:00,2,E,Every,0
+Patty Griffin,Every Little Bit (remix Edit),Living With Ghosts,2023-12-05 16:36:32,5,E,Every,0
+Ella Fitzgerald,Cry Me A River,"Clap Your Hands, Here Comes Charlie!",2023-12-05 16:42:00,1,C,Cry,1961
+Courtney Barnett,Depreston,"Sometimes I Sit and Think, and Sometimes I Just Sit",2023-12-05 16:43:00,7,D,Depreston,2015
+Sylvan Esso,Coffee,Sylvan Esso,2023-12-05 16:50:53,5,C,Coffee,2014
+Andra Day,Rise Up,Cheers To The Fall,2023-12-05 16:56:24,4,R,Rise,2015
+Billie Holiday,Summertime,Lady Day,2023-12-05 17:00:28,2,S,Summertime,1954
+Minnie Riperton,Les Fleurs,Come To My Garden,2023-12-05 17:03:20,5,L,Les,1971
+Sade,Soldier Of Love,Solider Of Love,2023-12-05 17:08:21,4,S,Soldier,2010
+Tash Sultana,Jungle,Notion EP,2023-12-05 17:12:33,6,J,Jungle,2016
+Florence + the Machine,Ship to Wreck,How Big How Blue How Beautiful,2023-12-06 08:00:45,5,S,Ship,2015
+Lady Gaga,Million Reasons,Joanne,2023-12-06 08:06:09,3,M,Million,2016
+Mama Cass Elliot,Dream a Little Dream of Me,Dream a Little Dream,2023-12-06 08:09:28,3,D,Dream,2004
+Florence + the Machine,Shake It Out,Ceremonials,2023-12-06 08:13:26,4,S,Shake,2011
+The Sundays,Goodbye,BLIND,2023-12-06 08:17:52,10,G,Goodbye,1992
+boygenius,Cool About It,The Record,2023-12-06 08:28:40,3,C,Cool,2023
+Pat Benatar,Invincible,Seven The Hard Way,2023-12-06 08:31:43,4,I,Invincible,1985
+Cat Power,The Greatest,The Greatest,2023-12-06 08:36:04,6,T,The,2005
+Gladys Knight & the Pips,Best Thing That Ever Happened To Me,Imagination,2023-12-06 08:42:13,3,B,Best,1973
+Beth Orton,Stolen Car,Central Reservation,2023-12-06 08:45:55,4,S,Stolen,1998
+Dar Williams,The Christians And The Pagans,Mortal City,2023-12-06 08:50:00,5,T,The,1996
+Diana Ross,Love Hangover,Diana Ross,2023-12-06 08:55:31,4,L,Love,1976
+Joanna Newsom,Emily,Ys,2023-12-06 08:59:44,14,E,Emily,2006
+Carly Simon,The Right Thing To Do,No Secrets,2023-12-06 09:13:52,2,T,The,1971
+Dar Williams,February,Many Great Companions,2023-12-06 09:16:47,1,F,February,1996
+Dar Williams,February,Many Great Companions,2023-12-06 09:17:52,2,F,February,1996
+Lene Lovich,Lucky Number,Stateless,2023-12-06 09:20:38,2,L,Lucky,1978
+Paramore,All I Wanted,Brand New Eyes,2023-12-06 09:23:22,4,A,All,2009
+Enya,Only Time,A Day Without Rain (cd Single),2023-12-06 09:28:20,3,O,Only,1984
+Evanescence,My Immortal,Fallen,2023-12-06 09:31:52,4,M,My,1998
+Big Thief,Vampire Empire,Vampire Empire / Born for Loving You (single),2023-12-06 09:36:18,3,V,Vampire,2023
+Janet Jackson,Nasty,Control,2023-12-06 09:40:00,4,N,Nasty,1982
+Kate Bush,Love and Anger,The Sensual World,2023-12-06 09:44:38,4,L,Love,1989
+Big Thief,Masterpiece,Masterpiece,2023-12-06 09:49:15,1,M,Masterpiece,2016
