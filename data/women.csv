@@ -683,7 +683,7 @@ Lulu,To Sir With Love,Love Loves To Love Lulu,2023-12-11 10:55:22,2,T,To,1971
 Kirsty MacColl,In These Shoes?,Tropical Brainstorm,2023-12-11 10:58:00,4,I,In,2000
 Joni Mitchell,Woodstock,Ladies Of The Canyon,2023-12-11 11:02:05,7,W,Woodstock,1970
 Lady Gaga,Bad Romance,The Fame Monster,2023-12-11 11:09:47,3,B,Bad,2009
-The Carpenters,(They Long To Be) Close To You,The Singles 1969-1973,2023-12-11 11:13:00,5,(,(,0
+The Carpenters,(They Long To Be) Close To You,The Singles 1969-1973,2023-12-11 11:13:00,5,(,(,1970
 The Sundays,Here's Where The Story Ends,"Reading, Writing And Arithmetic",2023-12-11 11:18:21,5,H,Here's,1990
 Dar Williams,When I Was A Boy,The Honesty Room,2023-12-11 11:24:00,4,W,When,1995
 Robyn,Dancing On My Own,"Body Talk, Pt. 1",2023-12-11 11:28:02,4,D,Dancing,2010
@@ -791,7 +791,7 @@ Etta James,I'd Rather Go Blind,Tell Mama,2023-12-12 09:46:41,2,I,I'd,1983
 The Pretenders,Back On The Chain Gang,Learning To Crawl,2023-12-12 09:49:10,3,B,Back,1982
 Dionne Warwick,Walk On By,Dionne Warwick's Greatest Hits,2023-12-12 09:53:01,2,W,Walk,1987
 Kate Bush,This Woman's Work,The Sensual World,2023-12-12 09:55:46,4,T,This,1979
-Linda Ronstadt & The Stone Poneys,Different Drum,"Greatest Hits, Volume 1",2023-12-12 10:00:41,3,D,Different,0
+Linda Ronstadt & The Stone Poneys,Different Drum,"Greatest Hits, Volume 1",2023-12-12 10:00:41,3,D,Different,1967
 Patti Smith,Dancing Barefoot,Wave,2023-12-12 10:03:44,5,D,Dancing,1979
 Brandi Carlile,The Mother,"By The Way, I Forgive You",2023-12-12 10:09:03,3,T,The,2018
 Janis Ian,At Seventeen,Between the Lines,2023-12-12 10:12:13,4,A,At,1975
@@ -822,4 +822,39 @@ Lesley Gore,You Don't Own Me,The Golden Hits Of Leslie Gore,2023-12-12 12:10:27,
 Bonnie Raitt,Something To Talk About,Luck Of The Draw,2023-12-12 12:14:17,3,S,Something,1991
 Joni Mitchell,The Circle Game,Ladies Of The Canyon,2023-12-12 12:17:50,5,T,The,1970
 Joni Mitchell,Blue,Blue,2023-12-12 12:23:22,4,B,Blue,1969
-Annie Lennox,Why,Diva,2023-12-12 12:27:25,1,W,Why,1992
+Annie Lennox,Why,Diva,2023-12-12 12:27:25,4,W,Why,1992
+Fleetwood Mac,Rhiannon,Fleetwood Mac,2023-12-12 12:32:15,4,R,Rhiannon,1993
+Fleetwood Mac,Dreams,Rumours,2023-12-12 12:36:21,5,D,Dreams,1977
+Gloria Gaynor,I Will Survive,20th Century Masters - The Millennium Collection,2023-12-12 12:42:14,3,I,I,1980
+Linda Ronstadt,Long Long Time,Silk Purse,2023-12-12 12:45:26,4,L,Long,1970
+Tori Amos,Silent All These Years,Little Earthquakes,2023-12-12 12:49:51,5,S,Silent,1991
+Heart,Barracuda,Little Queen,2023-12-12 12:55:24,4,B,Barracuda,1990
+Ike & Tina Turner,River Deep Mountain High,Back to Mono,2023-12-12 13:00:17,5,R,River,1984
+Mazzy Star,Fade Into You,So Tonight That I Might See,2023-12-12 13:05:17,4,F,Fade,1993
+Judy Garland,Somewhere Over The Rainbow,Wizard Of Oz,2023-12-12 13:09:59,2,S,Somewhere,1989
+The Cranberries,Linger,"Everybody Else Is Doing It, So Why Can't We?",2023-12-12 13:12:50,4,L,Linger,1993
+Mark Ronson feat. Amy Winehouse,Valerie,Version,2023-12-12 13:17:19,6,V,Valerie,2007
+Joan Armatrading,Love And Affection,Joan Armatrading,2023-12-12 13:23:30,3,L,Love,1979
+Cyndi Lauper,Time After Time,She's So Unusual,2023-12-12 13:26:46,4,T,Time,1985
+Fleetwood Mac,Songbird,Rumours,2023-12-12 13:30:46,5,S,Songbird,1977
+Blondie,Heart Of Glass,Parallel Lines,2023-12-12 13:35:52,5,H,Heart,1988
+Carole King,(You Make Me Feel Like) A Natural Woman,Tapestry,2023-12-12 13:41:28,3,(,(,1971
+Heart,Crazy On You,Dreamboat Annie,2023-12-12 13:45:10,5,C,Crazy,1975
+The Cranberries,Zombie,No Need To Argue,2023-12-12 13:51:01,5,Z,Zombie,2000
+Linda Ronstadt,Blue Bayou,Simple Dreams,2023-12-12 13:56:06,4,B,Blue,1970
+Dusty Springfield,Son Of A Preacher Man,Dusty in Memphis,2023-12-12 14:00:25,2,S,Son,1984
+Fleetwood Mac,Silver Springs,Rumours (Deluxe Version),2023-12-12 14:02:43,6,S,Silver,1977
+Carole King,So Far Away,Tapestry,2023-12-12 14:08:47,3,S,So,1971
+Carole King,I Feel The Earth Move,Tapestry,2023-12-12 14:12:34,3,I,I,1971
+Kate Bush,Wuthering Heights,The Kick Inside,2023-12-12 14:16:14,5,W,Wuthering,1978
+Patti Smith,Gloria,Horses,2023-12-12 14:22:08,5,G,Gloria,1975
+Nina Simone,Feeling Good,I Put A Spell On You,2023-12-12 14:27:56,2,F,Feeling,1994
+Tina Turner,What's Love Got To Do With It,Private Dancer,2023-12-12 14:30:46,3,W,What's,1984
+The Pretenders,Brass In Pocket,Pretenders,2023-12-12 14:34:27,4,B,Brass,1988
+Fairport Convention,Who Knows Where The Time Goes,Unhalfbricking,2023-12-12 14:38:43,5,W,Who,1969
+Taylor Swift,All Too Well (10 minute version),Red (Taylor's Version),2023-12-12 14:43:49,10,A,All,2021
+Stevie Nicks,Edge Of Seventeen,Bella Donna,2023-12-12 14:54:42,5,E,Edge,1981
+Sin ad O'Connor,The Emperor's New Clothes,I Do Not Want What I Haven't Got,2023-12-12 15:00:35,6,T,The,0
+Joni Mitchell,Big Yellow Taxi,Ladies Of The Canyon,2023-12-12 15:07:03,2,B,Big,1970
+Ike & Tina Turner,Proud Mary,Workin' Together,2023-12-12 15:09:16,3,P,Proud,1971
+Dolly Parton,I Will Always Love You,Jolene,2023-12-12 15:12:42,1,I,I,1974
